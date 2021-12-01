@@ -32,7 +32,7 @@ for contract in CONTRACTS:
         #     'startblock': 0,
         #     'endblock': 99999999,
         #     'sort': 'asc',
-        #     'apikey': 'W7CV57WIU5BB2CBNTFZB573VFP8XPGI8EV'
+        #     'apikey': API_KEY
         # }
 
         r = requests.get('https://api.etherscan.io/api', params=params)
