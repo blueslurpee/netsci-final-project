@@ -49,7 +49,7 @@ for contract in CONTRACTS:
                 trailing_block = terminus_block
                 break
 
-    f = csv.writer(open(f"./data/{contract}_transfers.csv", "w+"))
+    f = csv.writer(open(f"./data/transfers/{contract}.csv", "w+"))
 
     # Header row
     f.writerow([
