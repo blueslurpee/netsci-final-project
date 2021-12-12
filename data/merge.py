@@ -1,36 +1,38 @@
+import os
 import pandas as pd
+
+from decimal import Decimal
+from tqdm import tqdm
+
+from web3 import Web3
+from dotenv import load_dotenv
+from contracts import CONTRACTS
+
+load_dotenv()
+w3 = Web3(Web3.HTTPProvider(os.environ['ALCHEMY_RPC_URL']))
 
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 
-hashmasks_transfers = pd.read_csv("./transfers/hashmasks.csv")
-hashmasks_all = pd.read_csv("./all/hashmasks.csv")
+contract = os.environ['MERGE_CONTRACT_SELECTION']
 
-merged_data = hashmasks_transfers.merge(hashmasks_all, how='left', on='hash', suffixes=(None, "_all"))
+transfers = pd.read_csv(f"./transfers/{contract}.csv")
+transfers['value'] = ""
 
-for (column_name, column_data) in merged_data.iteritems():
-    if "_all" in column_name:
-        merged_data = merged_data.drop(columns=[column_name])
+transaction_values = {}
+print(f"Fetching values for {contract}")
 
-drop_columns = [
-    "nonce",
-    "blockHash",
-    "tokenName",
-    "tokenSymbol",
-    "tokenDecimal",
-    "transactionIndex",
-    "gas",
-    "gasPrice",
-    "gasUsed",
-    "cumulativeGasUsed",
-    "input",
-    "confirmations",
-    "isError",
-    "txreceipt_status"
-]
+for i, row in tqdm(transfers.iterrows(), total=transfers.shape[0]):
+    transaction_hash = row['hash']
 
-for drop_column in drop_columns:
-    merged_data = merged_data.drop(drop_column, axis=1)
+    # Memoization to spare API calls
+    if transaction_hash in transaction_values:
+        value = transaction_values[transaction_hash]
+    else:
+        value = str(Decimal(w3.eth.get_transaction(row['hash'])['value']) / (Decimal(10) ** 18))
+        transaction_values[transaction_hash] = value
 
-merged_data.to_csv('./merged/hashmasks.csv')
+    transfers.at[i, 'value'] = value
+
+transfers.to_csv(f'./merged/{contract}.csv')
