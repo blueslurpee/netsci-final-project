@@ -19,6 +19,6 @@ def cleanBalances(infile, outfile):
     input_df.index.name = 'row'
     input_df.to_csv(outfile, index=True)
 
-inFile = "./balances/coolcats_raw.csv"
-outFile = "./balances/coolcats.csv"
+inFile = "./balances/cryptoadz_raw.csv"
+outFile = "./balances/cryptoadz.csv"
 cleanBalances(inFile, outFile)
