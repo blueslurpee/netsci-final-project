@@ -18,6 +18,19 @@ client = Client(os.environ['COINBASE_KEY'], os.environ['COINBASE_SECRET'])
 from web3 import Web3
 w3 = Web3(Web3.WebsocketProvider(os.environ['ETH_NODE_WSS']))
 
+def lookupValue(address, block):
+    value = 0
+    while True:
+        try:
+            address = w3.toChecksumAddress(address)
+            value_wei = w3.eth.get_balance(address, block_identifier=block)
+            value = w3.fromWei(value_wei, 'ether')
+        except Exception:
+            print("query failed. retrying.")
+            continue
+        break
+    return value
+
 # get all the account balances for a specific csv file.
 def getBalances(infile, outfile):
 
@@ -29,8 +42,7 @@ def getBalances(infile, outfile):
     data = []
     input_df = pd.read_csv(infile)
 
-    subset = input_df.iloc[15950:30000]
-    for row in tqdm(subset.itertuples()):
+    for row in tqdm(input_df.itertuples(), total=input_df.shape[0]):
 
         # read the values from the dataframe.
         cur_row = row[1]
@@ -45,15 +57,11 @@ def getBalances(infile, outfile):
 
         # lookup value of both nodes at the time of this block
         if (not from_address == '0x0000000000000000000000000000000000000000'):
-            address = w3.toChecksumAddress(from_address)
-            value_from = w3.eth.get_balance(address, block_identifier=block)
-            eth_value_from = w3.fromWei(value_from, 'ether')
+            eth_value_from = lookupValue(from_address, block)
             usd_value = float(eth_value_from) * float(eth_usd_price)
             data.append([block, date, from_address, eth_value_from, usd_value])
         if (not to_address == '0x0000000000000000000000000000000000000000'):
-            address = w3.toChecksumAddress(to_address)
-            value_to = w3.eth.get_balance(address, block_identifier=block)
-            eth_value_to = w3.fromWei(value_to, 'ether')
+            eth_value_to = lookupValue(to_address, block)
             usd_value = float(eth_value_to) * float(eth_usd_price)
             data.append([block, date, to_address, eth_value_to, usd_value])
     
@@ -61,10 +69,9 @@ def getBalances(infile, outfile):
         if (cur_row % 1000 == 0):
             df = pd.DataFrame(data, columns=['block', 'date', 'address', 'eth_value', 'usd_value'])
             df.index.name = 'row'
-            df.to_csv(outfile, mode='a', index=True, header=False)
+            df.to_csv(outfile, mode='a', index=True, header=True)
             data = []
-            # df.to_csv(outfile, index=True)
 
-inFile = "./collated/cryptoadz.csv"
-outFile = "./balances/cryptoadz_raw.csv"
+inFile = "./collated/mayc.csv"
+outFile = "./balances/mayc_raw.csv"
 getBalances(inFile, outFile)
