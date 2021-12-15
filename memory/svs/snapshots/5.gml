@@ -61157,7 +61157,7 @@ graph [
     source 0
     target 274
     key 1
-    weight 273.94559999999996
+    weight 273.94560000000007
     token_id 768
   ]
   edge [
@@ -61353,7 +61353,7 @@ graph [
     source 0
     target 362
     key 1
-    weight 273.94559999999996
+    weight 273.94560000000007
     token_id 742
   ]
   edge [
@@ -61815,119 +61815,119 @@ graph [
     source 0
     target 475
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 661
   ]
   edge [
     source 0
     target 476
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 663
   ]
   edge [
     source 0
     target 476
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 664
   ]
   edge [
     source 0
     target 477
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 665
   ]
   edge [
     source 0
     target 479
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 669
   ]
   edge [
     source 0
     target 481
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 671
   ]
   edge [
     source 0
     target 481
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 672
   ]
   edge [
     source 0
     target 483
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 673
   ]
   edge [
     source 0
     target 486
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 675
   ]
   edge [
     source 0
     target 486
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 676
   ]
   edge [
     source 0
     target 487
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 677
   ]
   edge [
     source 0
     target 491
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 679
   ]
   edge [
     source 0
     target 493
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 683
   ]
   edge [
     source 0
     target 493
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 684
   ]
   edge [
     source 0
     target 496
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 687
   ]
   edge [
     source 0
     target 496
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 688
   ]
   edge [
     source 0
     target 497
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 689
   ]
   edge [
@@ -61941,189 +61941,189 @@ graph [
     source 0
     target 500
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 691
   ]
   edge [
     source 0
     target 500
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 692
   ]
   edge [
     source 0
     target 502
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 693
   ]
   edge [
     source 0
     target 510
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 697
   ]
   edge [
     source 0
     target 510
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 698
   ]
   edge [
     source 0
     target 511
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 699
   ]
   edge [
     source 0
     target 511
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 700
   ]
   edge [
     source 0
     target 517
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 706
   ]
   edge [
     source 0
     target 517
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 707
   ]
   edge [
     source 0
     target 518
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 708
   ]
   edge [
     source 0
     target 518
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 709
   ]
   edge [
     source 0
     target 521
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 710
   ]
   edge [
     source 0
     target 521
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 711
   ]
   edge [
     source 0
     target 522
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 712
   ]
   edge [
     source 0
     target 522
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 713
   ]
   edge [
     source 0
     target 525
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 714
   ]
   edge [
     source 0
     target 525
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 715
   ]
   edge [
     source 0
     target 526
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 716
   ]
   edge [
     source 0
     target 532
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 728
   ]
   edge [
     source 0
     target 533
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 730
   ]
   edge [
     source 0
     target 535
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 734
   ]
   edge [
     source 0
     target 535
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 735
   ]
   edge [
     source 0
     target 541
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 736
   ]
   edge [
     source 0
     target 541
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 737
   ]
   edge [
     source 0
     target 544
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 738
   ]
   edge [
     source 0
     target 545
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 740
   ]
   edge [
     source 0
     target 545
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 741
   ]
   edge [
@@ -62151,42 +62151,42 @@ graph [
     source 0
     target 549
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 746
   ]
   edge [
     source 0
     target 549
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 747
   ]
   edge [
     source 0
     target 551
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 748
   ]
   edge [
     source 0
     target 551
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 749
   ]
   edge [
     source 0
     target 552
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 750
   ]
   edge [
     source 0
     target 552
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 751
   ]
   edge [
@@ -62200,112 +62200,112 @@ graph [
     source 0
     target 554
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 752
   ]
   edge [
     source 0
     target 554
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 753
   ]
   edge [
     source 0
     target 559
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 756
   ]
   edge [
     source 0
     target 562
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 760
   ]
   edge [
     source 0
     target 562
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 761
   ]
   edge [
     source 0
     target 565
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 764
   ]
   edge [
     source 0
     target 568
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 766
   ]
   edge [
     source 0
     target 576
     key 0
-    weight 273.94559999999996
+    weight 273.94560000000007
     token_id 771
   ]
   edge [
     source 0
     target 576
     key 1
-    weight 273.94559999999996
+    weight 273.94560000000007
     token_id 780
   ]
   edge [
     source 0
     target 577
     key 0
-    weight 273.94559999999996
+    weight 273.94560000000007
     token_id 772
   ]
   edge [
     source 0
     target 579
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 774
   ]
   edge [
     source 0
     target 581
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 778
   ]
   edge [
     source 0
     target 598
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 783
   ]
   edge [
     source 0
     target 598
     key 1
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 784
   ]
   edge [
     source 0
     target 600
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 785
   ]
   edge [
     source 0
     target 601
     key 0
-    weight 547.8911999999999
+    weight 547.8912000000001
     token_id 787
   ]
   edge [
@@ -81807,238 +81807,238 @@ graph [
     source 0
     target 5751
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8615
   ]
   edge [
     source 0
     target 5754
     key 0
-    weight 272.30479999999994
+    weight 272.30480000000006
     token_id 8618
   ]
   edge [
     source 0
     target 5755
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8619
   ]
   edge [
     source 0
     target 4176
     key 0
-    weight 272.30479999999994
+    weight 272.30480000000006
     token_id 8622
   ]
   edge [
     source 0
     target 5758
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8631
   ]
   edge [
     source 0
     target 5761
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8643
   ]
   edge [
     source 0
     target 5763
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8649
   ]
   edge [
     source 0
     target 5764
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8652
   ]
   edge [
     source 0
     target 5769
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8663
   ]
   edge [
     source 0
     target 5771
     key 0
-    weight 272.30479999999994
+    weight 272.30480000000006
     token_id 8669
   ]
   edge [
     source 0
     target 5773
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8673
   ]
   edge [
     source 0
     target 5773
     key 1
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8674
   ]
   edge [
     source 0
     target 5003
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8681
   ]
   edge [
     source 0
     target 2597
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8694
   ]
   edge [
     source 0
     target 5793
     key 0
-    weight 544.6095999999999
+    weight 544.6096000000001
     token_id 8732
   ]
   edge [
     source 0
     target 5794
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8734
   ]
   edge [
     source 0
     target 5799
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8746
   ]
   edge [
     source 0
     target 5804
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8759
   ]
   edge [
     source 0
     target 5812
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8775
   ]
   edge [
     source 0
     target 5813
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8778
   ]
   edge [
     source 0
     target 5814
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8781
   ]
   edge [
     source 0
     target 5815
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8784
   ]
   edge [
     source 0
     target 5815
     key 1
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8785
   ]
   edge [
     source 0
     target 5815
     key 2
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8786
   ]
   edge [
     source 0
     target 5818
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8791
   ]
   edge [
     source 0
     target 5818
     key 1
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8792
   ]
   edge [
     source 0
     target 5820
     key 0
-    weight 544.6095999999999
+    weight 544.6096000000001
     token_id 8795
   ]
   edge [
     source 0
     target 5820
     key 1
-    weight 544.6095999999999
+    weight 544.6096000000001
     token_id 8796
   ]
   edge [
     source 0
     target 5834
     key 0
-    weight 272.30479999999994
+    weight 272.30480000000006
     token_id 8804
   ]
   edge [
     source 0
     target 5857
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8805
   ]
   edge [
     source 0
     target 5857
     key 1
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8806
   ]
   edge [
     source 0
     target 5859
     key 0
-    weight 816.9143999999999
+    weight 816.9144000000002
     token_id 8808
   ]
   edge [
     source 0
     target 5860
     key 0
-    weight 272.30479999999994
+    weight 272.30480000000006
     token_id 8811
   ]
   edge [
     source 0
     target 5874
     key 0
-    weight 272.30479999999994
+    weight 272.30480000000006
     token_id 8812
   ]
   edge [
@@ -82297,7 +82297,7 @@ graph [
     source 1
     target 6653
     key 0
-    weight 4254.762499999999
+    weight 4254.762500000001
     token_id 4670
   ]
   edge [
@@ -82325,7 +82325,7 @@ graph [
     source 3
     target 485
     key 0
-    weight 17121.6
+    weight 17121.600000000006
     token_id 5
   ]
   edge [
@@ -82339,7 +82339,7 @@ graph [
     source 3
     target 6102
     key 1
-    weight 3676.1148
+    weight 3676.114800000001
     token_id 1405
   ]
   edge [
@@ -82402,7 +82402,7 @@ graph [
     source 9
     target 272
     key 0
-    weight 6999.08
+    weight 6999.080000000001
     token_id 17
   ]
   edge [
@@ -82416,21 +82416,21 @@ graph [
     source 16
     target 321
     key 0
-    weight 9798.712
+    weight 9798.712000000001
     token_id 31
   ]
   edge [
     source 16
     target 553
     key 0
-    weight 8903.232
+    weight 8903.232000000004
     token_id 32
   ]
   edge [
     source 17
     target 460
     key 0
-    weight 8538.8776
+    weight 8538.877600000002
     token_id 34
   ]
   edge [
@@ -82451,28 +82451,28 @@ graph [
     source 19
     target 6391
     key 0
-    weight 2995.3527999999997
+    weight 2995.3528000000006
     token_id 6262
   ]
   edge [
     source 20
     target 102
     key 0
-    weight 7698.988
+    weight 7698.988000000001
     token_id 39
   ]
   edge [
     source 20
     target 514
     key 0
-    weight 8389.584
+    weight 8389.584000000003
     token_id 40
   ]
   edge [
     source 21
     target 8487
     key 0
-    weight 7326.639600000001
+    weight 7326.6395999999995
     token_id 41
   ]
   edge [
@@ -82514,14 +82514,14 @@ graph [
     source 24
     target 104
     key 0
-    weight 6824.103
+    weight 6824.103000000001
     token_id 48
   ]
   edge [
     source 24
     target 582
     key 0
-    weight 8560.8
+    weight 8560.800000000003
     token_id 47
   ]
   edge [
@@ -82542,14 +82542,14 @@ graph [
     source 26
     target 204
     key 0
-    weight 3499.54
+    weight 3499.5400000000004
     token_id 52
   ]
   edge [
     source 26
     target 6093
     key 0
-    weight 3710.1528999999996
+    weight 3710.1529000000014
     token_id 3184
   ]
   edge [
@@ -82584,14 +82584,14 @@ graph [
     source 31
     target 6773
     key 0
-    weight 3608.1045000000004
+    weight 3608.1045000000017
     token_id 3789
   ]
   edge [
     source 31
     target 7451
     key 0
-    weight 4104.0855
+    weight 4104.085500000009
     token_id 1218
   ]
   edge [
@@ -82605,14 +82605,14 @@ graph [
     source 31
     target 4333
     key 0
-    weight 10825.258500000009
+    weight 10825.2585
     token_id 4126
   ]
   edge [
     source 31
     target 4560
     key 0
-    weight 16495.632000000012
+    weight 16495.632
     token_id 863
   ]
   edge [
@@ -82633,7 +82633,7 @@ graph [
     source 32
     target 7768
     key 0
-    weight 8591.475000000008
+    weight 8591.475
     token_id 4837
   ]
   edge [
@@ -82675,7 +82675,7 @@ graph [
     source 40
     target 116
     key 0
-    weight 6638.277426
+    weight 6638.277426000001
     token_id 79
   ]
   edge [
@@ -82710,7 +82710,7 @@ graph [
     source 42
     target 344
     key 0
-    weight 10323.643
+    weight 10323.643000000002
     token_id 83
   ]
   edge [
@@ -82752,21 +82752,21 @@ graph [
     source 48
     target 4789
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 4001
   ]
   edge [
     source 48
     target 6056
     key 0
-    weight 4322.838699999999
+    weight 4322.838700000001
     token_id 2361
   ]
   edge [
     source 49
     target 573
     key 0
-    weight 8862.140159999999
+    weight 8862.140160000003
     token_id 200
   ]
   edge [
@@ -82780,7 +82780,7 @@ graph [
     source 53
     target 474
     key 0
-    weight 8188.923599999999
+    weight 8188.9236
     token_id 106
   ]
   edge [
@@ -82857,14 +82857,14 @@ graph [
     source 67
     target 169
     key 0
-    weight 7789.158000000002
+    weight 7789.157999999999
     token_id 2794
   ]
   edge [
     source 67
     target 6372
     key 0
-    weight 8157.813000000001
+    weight 8157.813
     token_id 5450
   ]
   edge [
@@ -82885,7 +82885,7 @@ graph [
     source 69
     target 191
     key 0
-    weight 4899.356
+    weight 4899.356000000001
     token_id 138
   ]
   edge [
@@ -82906,7 +82906,7 @@ graph [
     source 74
     target 586
     key 0
-    weight 7944.422399999999
+    weight 7944.422400000002
     token_id 148
   ]
   edge [
@@ -82920,7 +82920,7 @@ graph [
     source 75
     target 263
     key 0
-    weight 5249.3099999999995
+    weight 5249.31
     token_id 163
   ]
   edge [
@@ -82955,35 +82955,35 @@ graph [
     source 77
     target 424
     key 0
-    weight 6824.103
+    weight 6824.103000000001
     token_id 153
   ]
   edge [
     source 77
     target 426
     key 0
-    weight 6824.103
+    weight 6824.103000000001
     token_id 152
   ]
   edge [
     source 77
     target 5289
     key 0
-    weight 2350.1920000000014
+    weight 2350.1920000000005
     token_id 5623
   ]
   edge [
     source 77
     target 8457
     key 0
-    weight 6156.840000000001
+    weight 6156.84
     token_id 5622
   ]
   edge [
     source 79
     target 5686
     key 0
-    weight 3743.850619
+    weight 3743.850619000001
     token_id 7372
   ]
   edge [
@@ -83018,7 +83018,7 @@ graph [
     source 80
     target 394
     key 0
-    weight 7873.965
+    weight 7873.965000000001
     token_id 524
   ]
   edge [
@@ -83039,7 +83039,7 @@ graph [
     source 81
     target 482
     key 0
-    weight 8184.1248
+    weight 8184.124800000003
     token_id 160
   ]
   edge [
@@ -83060,56 +83060,56 @@ graph [
     source 88
     target 272
     key 0
-    weight 8048.941999999999
+    weight 8048.942
     token_id 80
   ]
   edge [
     source 88
     target 504
     key 0
-    weight 9245.664
+    weight 9245.664000000004
     token_id 53
   ]
   edge [
     source 88
     target 536
     key 0
-    weight 9245.664
+    weight 9245.664000000004
     token_id 51
   ]
   edge [
     source 89
     target 125
     key 0
-    weight 5424.287
+    weight 5424.287000000001
     token_id 174
   ]
   edge [
     source 89
     target 339
     key 0
-    weight 7698.988
+    weight 7698.988000000001
     token_id 175
   ]
   edge [
     source 90
     target 570
     key 0
-    weight 7841.6928
+    weight 7841.6928000000025
     token_id 177
   ]
   edge [
     source 90
     target 5331
     key 0
-    weight 5364.7402
+    weight 5364.740199999999
     token_id 176
   ]
   edge [
     source 92
     target 357
     key 0
-    weight 10498.619999999999
+    weight 10498.62
     token_id 18
   ]
   edge [
@@ -83137,21 +83137,21 @@ graph [
     source 96
     target 228
     key 0
-    weight 4724.379
+    weight 4724.379000000001
     token_id 187
   ]
   edge [
     source 96
     target 264
     key 0
-    weight 5599.264
+    weight 5599.264000000001
     token_id 186
   ]
   edge [
     source 96
     target 557
     key 0
-    weight 8858.416000000005
+    weight 8858.416000000001
     token_id 4930
   ]
   edge [
@@ -83165,7 +83165,7 @@ graph [
     source 97
     target 575
     key 0
-    weight 8389.584
+    weight 8389.584000000003
     token_id 189
   ]
   edge [
@@ -83221,42 +83221,42 @@ graph [
     source 100
     target 7221
     key 0
-    weight 3023.9352000000003
+    weight 3023.9352000000013
     token_id 195
   ]
   edge [
     source 100
     target 156
     key 0
-    weight 3568.4131230000003
+    weight 3568.4131230000085
     token_id 4496
   ]
   edge [
     source 101
     target 556
     key 0
-    weight 8389.584
+    weight 8389.584000000003
     token_id 197
   ]
   edge [
     source 103
     target 569
     key 0
-    weight 7533.504
+    weight 7533.504000000003
     token_id 246
   ]
   edge [
     source 103
     target 7207
     key 0
-    weight 2611.5804000000003
+    weight 2611.580400000001
     token_id 5592
   ]
   edge [
     source 103
     target 679
     key 0
-    weight 8921.925000000001
+    weight 8921.925000000021
     token_id 1115
   ]
   edge [
@@ -83305,14 +83305,14 @@ graph [
     source 105
     target 125
     key 0
-    weight 6999.08
+    weight 6999.080000000001
     token_id 198
   ]
   edge [
     source 105
     target 7513
     key 0
-    weight 6584.4207418656915
+    weight 6584.420741865707
     token_id 1690
   ]
   edge [
@@ -83354,14 +83354,14 @@ graph [
     source 111
     target 485
     key 0
-    weight 8012.908799999999
+    weight 8012.908800000002
     token_id 209
   ]
   edge [
     source 111
     target 488
     key 0
-    weight 8012.908799999999
+    weight 8012.908800000002
     token_id 210
   ]
   edge [
@@ -83375,7 +83375,7 @@ graph [
     source 112
     target 578
     key 0
-    weight 8286.854399999998
+    weight 8286.854400000002
     token_id 211
   ]
   edge [
@@ -83389,7 +83389,7 @@ graph [
     source 113
     target 508
     key 0
-    weight 8047.152
+    weight 8047.152000000003
     token_id 214
   ]
   edge [
@@ -83403,14 +83403,14 @@ graph [
     source 114
     target 582
     key 0
-    weight 8132.759999999999
+    weight 8132.760000000003
     token_id 215
   ]
   edge [
     source 114
     target 594
     key 0
-    weight 7396.531199999999
+    weight 7396.531200000003
     token_id 216
   ]
   edge [
@@ -83438,42 +83438,42 @@ graph [
     source 119
     target 159
     key 0
-    weight 5249.3099999999995
+    weight 5249.31
     token_id 225
   ]
   edge [
     source 119
     target 6048
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 5915
   ]
   edge [
     source 120
     target 307
     key 0
-    weight 6964.0846
+    weight 6964.084600000001
     token_id 226
   ]
   edge [
     source 120
     target 316
     key 0
-    weight 8713.8546
+    weight 8713.854600000002
     token_id 227
   ]
   edge [
     source 121
     target 7360
     key 0
-    weight 3073.3280000000013
+    weight 3073.328
     token_id 86
   ]
   edge [
     source 122
     target 161
     key 0
-    weight 5249.3099999999995
+    weight 5249.31
     token_id 228
   ]
   edge [
@@ -83529,21 +83529,21 @@ graph [
     source 124
     target 5731
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 4110
   ]
   edge [
     source 124
     target 620
     key 0
-    weight 3642.0766999999996
+    weight 3642.076700000001
     token_id 8676
   ]
   edge [
     source 124
     target 6220
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 8797
   ]
   edge [
@@ -83557,21 +83557,21 @@ graph [
     source 126
     target 216
     key 0
-    weight 3499.54
+    weight 3499.5400000000004
     token_id 234
   ]
   edge [
     source 127
     target 221
     key 0
-    weight 3499.54
+    weight 3499.5400000000004
     token_id 237
   ]
   edge [
     source 128
     target 560
     key 0
-    weight 8218.367999999999
+    weight 8218.368000000002
     token_id 239
   ]
   edge [
@@ -83585,28 +83585,28 @@ graph [
     source 132
     target 587
     key 0
-    weight 7533.504
+    weight 7533.504000000003
     token_id 394
   ]
   edge [
     source 134
     target 188
     key 0
-    weight 3461.04506
+    weight 3461.0450600000004
     token_id 337
   ]
   edge [
     source 135
     target 199
     key 0
-    weight 3499.54
+    weight 3499.5400000000004
     token_id 251
   ]
   edge [
     source 135
     target 2826
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 8502
   ]
   edge [
@@ -83620,56 +83620,56 @@ graph [
     source 136
     target 7094
     key 0
-    weight 11306.38110000001
+    weight 11306.3811
     token_id 3705
   ]
   edge [
     source 137
     target 449
     key 0
-    weight 7349.034000000001
+    weight 7349.0340000000015
     token_id 253
   ]
   edge [
     source 139
     target 573
     key 0
-    weight 7807.449599999999
+    weight 7807.449600000002
     token_id 256
   ]
   edge [
     source 139
     target 8205
     key 0
-    weight 11340.747000000008
+    weight 11340.747
     token_id 257
   ]
   edge [
     source 142
     target 450
     key 0
-    weight 7349.034000000001
+    weight 7349.0340000000015
     token_id 263
   ]
   edge [
     source 142
     target 584
     key 0
-    weight 7875.251135999999
+    weight 7875.251136000002
     token_id 262
   ]
   edge [
     source 143
     target 463
     key 0
-    weight 7838.9696
+    weight 7838.969600000001
     token_id 264
   ]
   edge [
     source 143
     target 463
     key 1
-    weight 7873.965
+    weight 7873.965000000001
     token_id 265
   ]
   edge [
@@ -83690,21 +83690,21 @@ graph [
     source 146
     target 588
     key 0
-    weight 7824.571199999999
+    weight 7824.571200000003
     token_id 270
   ]
   edge [
     source 146
     target 8072
     key 0
-    weight 10008.38105700001
+    weight 10008.381057
     token_id 269
   ]
   edge [
     source 146
     target 3664
     key 0
-    weight 10991.933115000009
+    weight 10991.933115000002
     token_id 3283
   ]
   edge [
@@ -83718,7 +83718,7 @@ graph [
     source 147
     target 258
     key 0
-    weight 4899.356
+    weight 4899.356000000001
     token_id 273
   ]
   edge [
@@ -83732,21 +83732,21 @@ graph [
     source 148
     target 2435
     key 0
-    weight 8169.143999999998
+    weight 8169.144000000002
     token_id 275
   ]
   edge [
     source 148
     target 8117
     key 0
-    weight 12028.06500000001
+    weight 12028.065
     token_id 5793
   ]
   edge [
     source 149
     target 178
     key 0
-    weight 5179.3192
+    weight 5179.319200000001
     token_id 276
   ]
   edge [
@@ -83767,7 +83767,7 @@ graph [
     source 150
     target 6545
     key 0
-    weight 5105.714999999999
+    weight 5105.715000000001
     token_id 1106
   ]
   edge [
@@ -83781,21 +83781,21 @@ graph [
     source 156
     target 7654
     key 0
-    weight 14275.080000000002
+    weight 14275.080000000034
     token_id 290
   ]
   edge [
     source 157
     target 287
     key 0
-    weight 6929.089199999999
+    weight 6929.0892
     token_id 293
   ]
   edge [
     source 157
     target 305
     key 0
-    weight 6946.5869
+    weight 6946.586900000001
     token_id 292
   ]
   edge [
@@ -83830,28 +83830,28 @@ graph [
     source 164
     target 8072
     key 0
-    weight 8591.475000000008
+    weight 8591.475
     token_id 249
   ]
   edge [
     source 167
     target 213
     key 0
-    weight 3499.54
+    weight 3499.5400000000004
     token_id 306
   ]
   edge [
     source 167
     target 569
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 5875
   ]
   edge [
     source 168
     target 3481
     key 0
-    weight 10313.745300000002
+    weight 10313.745300000026
     token_id 308
   ]
   edge [
@@ -83865,14 +83865,14 @@ graph [
     source 170
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 311
   ]
   edge [
     source 171
     target 184
     key 0
-    weight 4969.346799999999
+    weight 4969.3468
     token_id 314
   ]
   edge [
@@ -83921,91 +83921,91 @@ graph [
     source 173
     target 6155
     key 0
-    weight 3907.573879999999
+    weight 3907.573880000001
     token_id 3238
   ]
   edge [
     source 173
     target 6333
     key 0
-    weight 3131.5051999999996
+    weight 3131.505200000001
     token_id 7698
   ]
   edge [
     source 173
     target 2826
     key 0
-    weight 3128.10139
+    weight 3128.1013900000007
     token_id 7697
   ]
   edge [
     source 173
     target 569
     key 0
-    weight 3124.6975799999996
+    weight 3124.697580000001
     token_id 7689
   ]
   edge [
     source 173
     target 6350
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 7593
   ]
   edge [
     source 173
     target 6411
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 7592
   ]
   edge [
     source 173
     target 6418
     key 0
-    weight 3128.10139
+    weight 3128.1013900000007
     token_id 7591
   ]
   edge [
     source 173
     target 5437
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 3730
   ]
   edge [
     source 173
     target 4017
     key 0
-    weight 3128.10139
+    weight 3128.1013900000007
     token_id 7569
   ]
   edge [
     source 173
     target 6469
     key 0
-    weight 3025.9870899999996
+    weight 3025.987090000001
     token_id 3240
   ]
   edge [
     source 173
     target 508
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 3239
   ]
   edge [
     source 174
     target 164
     key 0
-    weight 3464.5445999999997
+    weight 3464.5446
     token_id 319
   ]
   edge [
     source 174
     target 218
     key 0
-    weight 3499.54
+    weight 3499.5400000000004
     token_id 320
   ]
   edge [
@@ -84019,7 +84019,7 @@ graph [
     source 177
     target 508
     key 0
-    weight 8012.908799999999
+    weight 8012.908800000002
     token_id 324
   ]
   edge [
@@ -84040,14 +84040,14 @@ graph [
     source 182
     target 228
     key 0
-    weight 4724.379
+    weight 4724.379000000001
     token_id 331
   ]
   edge [
     source 182
     target 267
     key 0
-    weight 6474.149
+    weight 6474.149000000001
     token_id 332
   ]
   edge [
@@ -84068,14 +84068,14 @@ graph [
     source 185
     target 321
     key 0
-    weight 8398.895999999999
+    weight 8398.896
     token_id 38
   ]
   edge [
     source 185
     target 589
     key 0
-    weight 7533.504
+    weight 7533.504000000003
     token_id 261
   ]
   edge [
@@ -84089,14 +84089,14 @@ graph [
     source 185
     target 2529
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 1443
   ]
   edge [
     source 185
     target 6094
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 1440
   ]
   edge [
@@ -84131,14 +84131,14 @@ graph [
     source 185
     target 7446
     key 0
-    weight 3254.1120000000014
+    weight 3254.1120000000005
     token_id 1701
   ]
   edge [
     source 185
     target 6154
     key 0
-    weight 35687.700000000004
+    weight 35687.700000000084
     token_id 196
   ]
   edge [
@@ -84208,7 +84208,7 @@ graph [
     source 189
     target 6
     key 0
-    weight 9235.260000000002
+    weight 9235.26
     token_id 341
   ]
   edge [
@@ -84229,7 +84229,7 @@ graph [
     source 194
     target 308
     key 0
-    weight 6999.08
+    weight 6999.080000000001
     token_id 347
   ]
   edge [
@@ -84250,14 +84250,14 @@ graph [
     source 197
     target 241
     key 0
-    weight 4829.365199999999
+    weight 4829.3652
     token_id 260
   ]
   edge [
     source 197
     target 267
     key 0
-    weight 5599.264
+    weight 5599.264000000001
     token_id 243
   ]
   edge [
@@ -84271,14 +84271,14 @@ graph [
     source 199
     target 7274
     key 0
-    weight 6487.715520000001
+    weight 6487.7155200000025
     token_id 1568
   ]
   edge [
     source 200
     target 266
     key 0
-    weight 6999.08
+    weight 6999.080000000001
     token_id 354
   ]
   edge [
@@ -84299,7 +84299,7 @@ graph [
     source 202
     target 523
     key 0
-    weight 8560.8
+    weight 8560.800000000003
     token_id 358
   ]
   edge [
@@ -84320,14 +84320,14 @@ graph [
     source 206
     target 7214
     key 0
-    weight 2508.4917
+    weight 2508.491700000001
     token_id 3695
   ]
   edge [
     source 207
     target 438
     key 0
-    weight 6964.0846
+    weight 6964.084600000001
     token_id 235
   ]
   edge [
@@ -84355,7 +84355,7 @@ graph [
     source 207
     target 7305
     key 0
-    weight 4089.1851
+    weight 4089.1851000000015
     token_id 4071
   ]
   edge [
@@ -84376,7 +84376,7 @@ graph [
     source 210
     target 222
     key 0
-    weight 3499.54
+    weight 3499.5400000000004
     token_id 367
   ]
   edge [
@@ -84411,21 +84411,21 @@ graph [
     source 219
     target 1911
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 4443
   ]
   edge [
     source 219
     target 5526
     key 0
-    weight 3097.4671
+    weight 3097.4671000000008
     token_id 2322
   ]
   edge [
     source 219
     target 5615
     key 0
-    weight 10997.08800000001
+    weight 10997.088000000002
     token_id 2935
   ]
   edge [
@@ -84446,7 +84446,7 @@ graph [
     source 222
     target 3166
     key 0
-    weight 6156.840000000001
+    weight 6156.84
     token_id 8422
   ]
   edge [
@@ -84481,7 +84481,7 @@ graph [
     source 224
     target 7297
     key 0
-    weight 3401.9271000000003
+    weight 3401.9271000000012
     token_id 8491
   ]
   edge [
@@ -84516,21 +84516,21 @@ graph [
     source 226
     target 299
     key 0
-    weight 6473.799046
+    weight 6473.799046000001
     token_id 381
   ]
   edge [
     source 226
     target 583
     key 0
-    weight 7875.593567999999
+    weight 7875.593568000003
     token_id 380
   ]
   edge [
     source 227
     target 292
     key 0
-    weight 6474.149
+    weight 6474.149000000001
     token_id 382
   ]
   edge [
@@ -84544,21 +84544,21 @@ graph [
     source 229
     target 342
     key 0
-    weight 8013.9466
+    weight 8013.946600000001
     token_id 385
   ]
   edge [
     source 229
     target 398
     key 0
-    weight 6999.08
+    weight 6999.080000000001
     token_id 384
   ]
   edge [
     source 230
     target 266
     key 0
-    weight 6999.08
+    weight 6999.080000000001
     token_id 387
   ]
   edge [
@@ -84572,21 +84572,21 @@ graph [
     source 234
     target 434
     key 0
-    weight 6964.0846
+    weight 6964.084600000001
     token_id 391
   ]
   edge [
     source 234
     target 6618
     key 0
-    weight 6637.429499999999
+    weight 6637.429500000001
     token_id 2550
   ]
   edge [
     source 235
     target 588
     key 0
-    weight 7704.719999999999
+    weight 7704.720000000002
     token_id 392
   ]
   edge [
@@ -84607,7 +84607,7 @@ graph [
     source 238
     target 467
     key 0
-    weight 4700.384000000003
+    weight 4700.384000000001
     token_id 400
   ]
   edge [
@@ -84621,14 +84621,14 @@ graph [
     source 240
     target 573
     key 0
-    weight 7533.1615679999995
+    weight 7533.161568000002
     token_id 54
   ]
   edge [
     source 243
     target 7301
     key 0
-    weight 2749.0320000000006
+    weight 2749.032000000001
     token_id 405
   ]
   edge [
@@ -84642,14 +84642,14 @@ graph [
     source 247
     target 585
     key 0
-    weight 7978.665599999999
+    weight 7978.665600000003
     token_id 410
   ]
   edge [
     source 251
     target 569
     key 0
-    weight 7419.1317119999985
+    weight 7419.131712000002
     token_id 417
   ]
   edge [
@@ -84663,7 +84663,7 @@ graph [
     source 252
     target 321
     key 0
-    weight 7733.9834
+    weight 7733.983400000001
     token_id 521
   ]
   edge [
@@ -84684,21 +84684,21 @@ graph [
     source 252
     target 2478
     key 0
-    weight 5105.714999999999
+    weight 5105.715000000001
     token_id 2636
   ]
   edge [
     source 252
     target 8069
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 2151
   ]
   edge [
     source 253
     target 357
     key 0
-    weight 7873.965
+    weight 7873.965000000001
     token_id 379
   ]
   edge [
@@ -84712,42 +84712,42 @@ graph [
     source 254
     target 273
     key 0
-    weight 6964.0846
+    weight 6964.084600000001
     token_id 421
   ]
   edge [
     source 254
     target 321
     key 0
-    weight 14698.068000000001
+    weight 14698.068000000003
     token_id 420
   ]
   edge [
     source 256
     target 317
     key 0
-    weight 6474.149
+    weight 6474.149000000001
     token_id 425
   ]
   edge [
     source 260
     target 303
     key 0
-    weight 6334.1674
+    weight 6334.167400000001
     token_id 370
   ]
   edge [
     source 261
     target 306
     key 0
-    weight 6824.103
+    weight 6824.103000000001
     token_id 431
   ]
   edge [
     source 261
     target 567
     key 0
-    weight 8389.584
+    weight 8389.584000000003
     token_id 430
   ]
   edge [
@@ -84761,35 +84761,35 @@ graph [
     source 262
     target 7651
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 3869
   ]
   edge [
     source 262
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 4988
   ]
   edge [
     source 265
     target 508
     key 0
-    weight 9485.366399999999
+    weight 9485.366400000003
     token_id 432
   ]
   edge [
     source 265
     target 357
     key 0
-    weight 7704.719999999999
+    weight 7704.720000000002
     token_id 433
   ]
   edge [
     source 268
     target 321
     key 0
-    weight 6789.107599999999
+    weight 6789.1076
     token_id 435
   ]
   edge [
@@ -84831,14 +84831,14 @@ graph [
     source 279
     target 369
     key 0
-    weight 6964.0846
+    weight 6964.084600000001
     token_id 447
   ]
   edge [
     source 279
     target 569
     key 0
-    weight 7872.511679999999
+    weight 7872.511680000002
     token_id 448
   ]
   edge [
@@ -84852,7 +84852,7 @@ graph [
     source 281
     target 306
     key 0
-    weight 6824.103
+    weight 6824.103000000001
     token_id 452
   ]
   edge [
@@ -84866,28 +84866,28 @@ graph [
     source 282
     target 7507
     key 0
-    weight 5353.155000000001
+    weight 5353.155000000013
     token_id 454
   ]
   edge [
     source 283
     target 8072
     key 0
-    weight 9484.988400000007
+    weight 9484.9884
     token_id 3158
   ]
   edge [
     source 284
     target 569
     key 0
-    weight 7875.935999999999
+    weight 7875.9360000000015
     token_id 455
   ]
   edge [
     source 284
     target 575
     key 0
-    weight 8355.3408
+    weight 8355.340800000002
     token_id 456
   ]
   edge [
@@ -84901,14 +84901,14 @@ graph [
     source 288
     target 6645
     key 0
-    weight 5105.714999999999
+    weight 5105.715000000001
     token_id 4069
   ]
   edge [
     source 289
     target 463
     key 0
-    weight 7628.997200000001
+    weight 7628.997200000002
     token_id 464
   ]
   edge [
@@ -84929,28 +84929,28 @@ graph [
     source 291
     target 473
     key 0
-    weight 8153.9282
+    weight 8153.928200000001
     token_id 468
   ]
   edge [
     source 291
     target 7673
     key 0
-    weight 3490.2570600000004
+    weight 3490.2570600000086
     token_id 404
   ]
   edge [
     source 295
     target 446
     key 0
-    weight 7524.0109999999995
+    weight 7524.011
     token_id 474
   ]
   edge [
     source 296
     target 460
     key 0
-    weight 7698.988
+    weight 7698.988000000001
     token_id 475
   ]
   edge [
@@ -84971,7 +84971,7 @@ graph [
     source 300
     target 560
     key 0
-    weight 8184.1248
+    weight 8184.124800000003
     token_id 481
   ]
   edge [
@@ -84992,7 +84992,7 @@ graph [
     source 301
     target 5289
     key 0
-    weight 5848.9980000000005
+    weight 5848.998
     token_id 1340
   ]
   edge [
@@ -85006,7 +85006,7 @@ graph [
     source 309
     target 321
     key 0
-    weight 8398.895999999999
+    weight 8398.896
     token_id 143
   ]
   edge [
@@ -85020,7 +85020,7 @@ graph [
     source 313
     target 369
     key 0
-    weight 7698.988
+    weight 7698.988000000001
     token_id 490
   ]
   edge [
@@ -85034,21 +85034,21 @@ graph [
     source 314
     target 6143
     key 0
-    weight 4595.143499999999
+    weight 4595.143500000001
     token_id 8736
   ]
   edge [
     source 315
     target 322
     key 0
-    weight 8608.8684
+    weight 8608.868400000001
     token_id 461
   ]
   edge [
     source 315
     target 490
     key 0
-    weight 7978.665599999999
+    weight 7978.665600000003
     token_id 529
   ]
   edge [
@@ -85069,14 +85069,14 @@ graph [
     source 315
     target 435
     key 0
-    weight 3436.2900000000004
+    weight 3436.2900000000013
     token_id 1856
   ]
   edge [
     source 315
     target 7896
     key 0
-    weight 11684.40600000001
+    weight 11684.406
     token_id 1091
   ]
   edge [
@@ -85216,7 +85216,7 @@ graph [
     source 325
     target 8219
     key 0
-    weight 10653.42900000001
+    weight 10653.429
     token_id 356
   ]
   edge [
@@ -85230,7 +85230,7 @@ graph [
     source 326
     target 4789
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 3631
   ]
   edge [
@@ -85244,21 +85244,21 @@ graph [
     source 327
     target 8109
     key 0
-    weight 9966.111000000008
+    weight 9966.111
     token_id 2352
   ]
   edge [
     source 328
     target 347
     key 0
-    weight 7698.988
+    weight 7698.988000000001
     token_id 498
   ]
   edge [
     source 328
     target 371
     key 0
-    weight 7943.9558
+    weight 7943.955800000001
     token_id 497
   ]
   edge [
@@ -85300,7 +85300,7 @@ graph [
     source 330
     target 498
     key 0
-    weight 9930.527999999998
+    weight 9930.528000000002
     token_id 619
   ]
   edge [
@@ -85328,7 +85328,7 @@ graph [
     source 331
     target 463
     key 0
-    weight 7873.965
+    weight 7873.965000000001
     token_id 504
   ]
   edge [
@@ -85349,21 +85349,21 @@ graph [
     source 337
     target 417
     key 0
-    weight 6999.08
+    weight 6999.080000000001
     token_id 511
   ]
   edge [
     source 338
     target 453
     key 0
-    weight 7628.997200000001
+    weight 7628.997200000002
     token_id 512
   ]
   edge [
     source 338
     target 461
     key 0
-    weight 7663.9926
+    weight 7663.9926000000005
     token_id 513
   ]
   edge [
@@ -85377,49 +85377,49 @@ graph [
     source 343
     target 6160
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 7297
   ]
   edge [
     source 343
     target 5147
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 6172
   ]
   edge [
     source 343
     target 6461
     key 0
-    weight 3022.5832799999994
+    weight 3022.5832800000007
     token_id 3972
   ]
   edge [
     source 343
     target 6463
     key 0
-    weight 3022.5832799999994
+    weight 3022.5832800000007
     token_id 5901
   ]
   edge [
     source 343
     target 381
     key 0
-    weight 8509.524999999998
+    weight 8509.525000000001
     token_id 6333
   ]
   edge [
     source 343
     target 8118
     key 0
-    weight 10997.08800000001
+    weight 10997.088000000002
     token_id 4763
   ]
   edge [
     source 343
     target 8203
     key 0
-    weight 10962.722100000008
+    weight 10962.7221
     token_id 7573
   ]
   edge [
@@ -85440,14 +85440,14 @@ graph [
     source 349
     target 361
     key 0
-    weight 7943.9558
+    weight 7943.955800000001
     token_id 517
   ]
   edge [
     source 349
     target 569
     key 0
-    weight 3094.0632899999996
+    weight 3094.063290000001
     token_id 4057
   ]
   edge [
@@ -85468,7 +85468,7 @@ graph [
     source 352
     target 4789
     key 0
-    weight 17181.45
+    weight 17181.450000000008
     token_id 4708
   ]
   edge [
@@ -85482,7 +85482,7 @@ graph [
     source 355
     target 508
     key 0
-    weight 16265.519999999999
+    weight 16265.520000000006
     token_id 523
   ]
   edge [
@@ -85503,21 +85503,21 @@ graph [
     source 361
     target 1203
     key 0
-    weight 4673.407700000001
+    weight 4673.4077
     token_id 2845
   ]
   edge [
     source 363
     target 321
     key 0
-    weight 7873.965
+    weight 7873.965000000001
     token_id 534
   ]
   edge [
     source 363
     target 8069
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 533
   ]
   edge [
@@ -85650,28 +85650,28 @@ graph [
     source 374
     target 571
     key 0
-    weight 7704.719999999999
+    weight 7704.720000000002
     token_id 542
   ]
   edge [
     source 374
     target 571
     key 1
-    weight 8218.367999999999
+    weight 8218.368000000002
     token_id 541
   ]
   edge [
     source 375
     target 540
     key 0
-    weight 8047.152
+    weight 8047.152000000003
     token_id 543
   ]
   edge [
     source 375
     target 538
     key 0
-    weight 8047.152
+    weight 8047.152000000003
     token_id 544
   ]
   edge [
@@ -85692,14 +85692,14 @@ graph [
     source 381
     target 6412
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 5672
   ]
   edge [
     source 381
     target 666
     key 0
-    weight 3033.4545000000003
+    weight 3033.454500000007
     token_id 3136
   ]
   edge [
@@ -85727,14 +85727,14 @@ graph [
     source 383
     target 506
     key 0
-    weight 8218.367999999999
+    weight 8218.368000000002
     token_id 554
   ]
   edge [
     source 386
     target 490
     key 0
-    weight 7704.719999999999
+    weight 7704.720000000002
     token_id 552
   ]
   edge [
@@ -85748,14 +85748,14 @@ graph [
     source 389
     target 470
     key 0
-    weight 7698.988
+    weight 7698.988000000001
     token_id 550
   ]
   edge [
     source 391
     target 400
     key 0
-    weight 6999.08
+    weight 6999.080000000001
     token_id 548
   ]
   edge [
@@ -85769,14 +85769,14 @@ graph [
     source 393
     target 7571
     key 0
-    weight 3140.5176000000006
+    weight 3140.5176000000074
     token_id 4826
   ]
   edge [
     source 393
     target 209
     key 0
-    weight 11884.004100000002
+    weight 11884.00410000003
     token_id 6604
   ]
   edge [
@@ -85804,21 +85804,21 @@ graph [
     source 393
     target 6105
     key 0
-    weight 13402.357341000012
+    weight 13402.357341
     token_id 8156
   ]
   edge [
     source 395
     target 7910
     key 0
-    weight 7656.010000000002
+    weight 7656.009999999999
     token_id 562
   ]
   edge [
     source 396
     target 546
     key 0
-    weight 8526.5568
+    weight 8526.556800000004
     token_id 564
   ]
   edge [
@@ -85839,35 +85839,35 @@ graph [
     source 399
     target 4701
     key 0
-    weight 8029.732500000001
+    weight 8029.732500000019
     token_id 3018
   ]
   edge [
     source 401
     target 417
     key 0
-    weight 6929.089199999999
+    weight 6929.0892
     token_id 571
   ]
   edge [
     source 402
     target 438
     key 0
-    weight 6999.08
+    weight 6999.080000000001
     token_id 547
   ]
   edge [
     source 404
     target 539
     key 0
-    weight 7978.665599999999
+    weight 7978.665600000003
     token_id 574
   ]
   edge [
     source 404
     target 566
     key 0
-    weight 8492.3136
+    weight 8492.313600000003
     token_id 575
   ]
   edge [
@@ -85930,7 +85930,7 @@ graph [
     source 416
     target 7927
     key 0
-    weight 10238.716188684799
+    weight 10238.71618868479
     token_id 8012
   ]
   edge [
@@ -85958,7 +85958,7 @@ graph [
     source 420
     target 503
     key 0
-    weight 8218.367999999999
+    weight 8218.368000000002
     token_id 491
   ]
   edge [
@@ -85972,14 +85972,14 @@ graph [
     source 421
     target 6403
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 599
   ]
   edge [
     source 423
     target 321
     key 0
-    weight 6788.757646
+    weight 6788.757646000001
     token_id 603
   ]
   edge [
@@ -86007,7 +86007,7 @@ graph [
     source 426
     target 7461
     key 0
-    weight 11340.747000000008
+    weight 11340.747
     token_id 1432
   ]
   edge [
@@ -86098,21 +86098,21 @@ graph [
     source 438
     target 7901
     key 0
-    weight 6464.682000000002
+    weight 6464.682000000001
     token_id 4168
   ]
   edge [
     source 439
     target 594
     key 0
-    weight 7498.918368
+    weight 7498.918368000003
     token_id 503
   ]
   edge [
     source 439
     target 8101
     key 0
-    weight 9378.454110000008
+    weight 9378.45411
     token_id 1598
   ]
   edge [
@@ -86126,21 +86126,21 @@ graph [
     source 442
     target 469
     key 0
-    weight 7663.642646
+    weight 7663.642646000001
     token_id 627
   ]
   edge [
     source 442
     target 7478
     key 0
-    weight 5423.520000000002
+    weight 5423.52
     token_id 6353
   ]
   edge [
     source 442
     target 6915
     key 0
-    weight 5959.8459
+    weight 5959.845900000014
     token_id 3629
   ]
   edge [
@@ -86154,7 +86154,7 @@ graph [
     source 443
     target 3664
     key 0
-    weight 11302.94451000001
+    weight 11302.944510000001
     token_id 488
   ]
   edge [
@@ -86175,35 +86175,35 @@ graph [
     source 446
     target 6841
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 4887
   ]
   edge [
     source 448
     target 484
     key 0
-    weight 8047.152
+    weight 8047.152000000003
     token_id 634
   ]
   edge [
     source 453
     target 7927
     key 0
-    weight 8419.645500000008
+    weight 8419.6455
     token_id 232
   ]
   edge [
     source 453
     target 8254
     key 0
-    weight 7822.445000000003
+    weight 7822.445
     token_id 8755
   ]
   edge [
     source 453
     target 7960
     key 0
-    weight 7097.445000000018
+    weight 7097.445000000005
     token_id 1279
   ]
   edge [
@@ -86217,21 +86217,21 @@ graph [
     source 457
     target 8261
     key 0
-    weight 7988.880000000003
+    weight 7988.879999999999
     token_id 1933
   ]
   edge [
     source 458
     target 569
     key 0
-    weight 8355.3408
+    weight 8355.340800000002
     token_id 646
   ]
   edge [
     source 458
     target 591
     key 0
-    weight 7191.072
+    weight 7191.072000000003
     token_id 645
   ]
   edge [
@@ -86273,7 +86273,7 @@ graph [
     source 475
     target 499
     key 0
-    weight 8047.152
+    weight 8047.152000000003
     token_id 662
   ]
   edge [
@@ -86287,14 +86287,14 @@ graph [
     source 477
     target 701
     key 0
-    weight 22669.374599999996
+    weight 22669.374600000006
     token_id 666
   ]
   edge [
     source 477
     target 7626
     key 0
-    weight 10962.722100000008
+    weight 10962.7221
     token_id 5328
   ]
   edge [
@@ -86308,14 +86308,14 @@ graph [
     source 478
     target 7347
     key 0
-    weight 3092.6610000000005
+    weight 3092.6610000000014
     token_id 3334
   ]
   edge [
     source 479
     target 6091
     key 0
-    weight 4746.464100000001
+    weight 4746.464100000012
     token_id 669
   ]
   edge [
@@ -86329,21 +86329,21 @@ graph [
     source 480
     target 498
     key 0
-    weight 7944.422399999999
+    weight 7944.422400000002
     token_id 657
   ]
   edge [
     source 483
     target 508
     key 0
-    weight 8047.152
+    weight 8047.152000000003
     token_id 673
   ]
   edge [
     source 483
     target 515
     key 0
-    weight 8218.367999999999
+    weight 8218.368000000002
     token_id 674
   ]
   edge [
@@ -86371,7 +86371,7 @@ graph [
     source 491
     target 6449
     key 0
-    weight 3199.581399999999
+    weight 3199.5814000000005
     token_id 1922
   ]
   edge [
@@ -86385,14 +86385,14 @@ graph [
     source 492
     target 7418
     key 0
-    weight 3073.3280000000013
+    weight 3073.328
     token_id 681
   ]
   edge [
     source 494
     target 574
     key 0
-    weight 8903.232
+    weight 8903.232000000004
     token_id 686
   ]
   edge [
@@ -86406,14 +86406,14 @@ graph [
     source 494
     target 7629
     key 0
-    weight 4403.86218
+    weight 4403.862180000011
     token_id 1168
   ]
   edge [
     source 495
     target 7927
     key 0
-    weight 8591.475000000008
+    weight 8591.475
     token_id 159
   ]
   edge [
@@ -86448,14 +86448,14 @@ graph [
     source 507
     target 592
     key 0
-    weight 7533.504
+    weight 7533.504000000003
     token_id 773
   ]
   edge [
     source 512
     target 1332
     key 0
-    weight 3812.2672
+    weight 3812.267200000001
     token_id 702
   ]
   edge [
@@ -86469,7 +86469,7 @@ graph [
     source 513
     target 7481
     key 0
-    weight 4158.032000000002
+    weight 4158.032
     token_id 704
   ]
   edge [
@@ -86483,7 +86483,7 @@ graph [
     source 519
     target 1285
     key 0
-    weight 11454.15447000001
+    weight 11454.154470000001
     token_id 305
   ]
   edge [
@@ -86497,14 +86497,14 @@ graph [
     source 524
     target 8121
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 5488
   ]
   edge [
     source 526
     target 569
     key 0
-    weight 7701.29568
+    weight 7701.295680000003
     token_id 716
   ]
   edge [
@@ -86546,28 +86546,28 @@ graph [
     source 532
     target 8084
     key 0
-    weight 9725.549700000009
+    weight 9725.549700000001
     token_id 720
   ]
   edge [
     source 532
     target 8088
     key 0
-    weight 10241.038200000008
+    weight 10241.0382
     token_id 728
   ]
   edge [
     source 532
     target 8117
     key 0
-    weight 13059.04200000001
+    weight 13059.042
     token_id 729
   ]
   edge [
     source 532
     target 148
     key 0
-    weight 11856.23550000001
+    weight 11856.2355
     token_id 718
   ]
   edge [
@@ -86588,14 +86588,14 @@ graph [
     source 534
     target 538
     key 0
-    weight 7875.935999999999
+    weight 7875.9360000000015
     token_id 733
   ]
   edge [
     source 534
     target 543
     key 0
-    weight 8218.367999999999
+    weight 8218.368000000002
     token_id 732
   ]
   edge [
@@ -86609,7 +86609,7 @@ graph [
     source 537
     target 7654
     key 0
-    weight 13561.326000000001
+    weight 13561.326000000032
     token_id 633
   ]
   edge [
@@ -86623,7 +86623,7 @@ graph [
     source 544
     target 2368
     key 0
-    weight 6464.682000000002
+    weight 6464.682000000001
     token_id 3056
   ]
   edge [
@@ -86644,7 +86644,7 @@ graph [
     source 550
     target 508
     key 0
-    weight 27394.559999999998
+    weight 27394.56000000001
     token_id 565
   ]
   edge [
@@ -86679,7 +86679,7 @@ graph [
     source 559
     target 569
     key 0
-    weight 7875.935999999999
+    weight 7875.9360000000015
     token_id 756
   ]
   edge [
@@ -86728,7 +86728,7 @@ graph [
     source 567
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 5496
   ]
   edge [
@@ -86756,7 +86756,7 @@ graph [
     source 573
     target 7584
     key 0
-    weight 8295.990000000002
+    weight 8295.99
     token_id 132
   ]
   edge [
@@ -86770,7 +86770,7 @@ graph [
     source 579
     target 6900
     key 0
-    weight 2926.3914
+    weight 2926.391400000007
     token_id 775
   ]
   edge [
@@ -86798,14 +86798,14 @@ graph [
     source 591
     target 4654
     key 0
-    weight 12443.985000000002
+    weight 12443.985
     token_id 5173
   ]
   edge [
     source 593
     target 8201
     key 0
-    weight 12028.06500000001
+    weight 12028.065
     token_id 6641
   ]
   edge [
@@ -86903,7 +86903,7 @@ graph [
     source 595
     target 4615
     key 0
-    weight 3211.8930000000005
+    weight 3211.8930000000078
     token_id 5451
   ]
   edge [
@@ -86959,7 +86959,7 @@ graph [
     source 611
     target 6153
     key 0
-    weight 3910.9776899999997
+    weight 3910.977690000001
     token_id 3169
   ]
   edge [
@@ -86973,14 +86973,14 @@ graph [
     source 615
     target 7927
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 190
   ]
   edge [
     source 615
     target 8184
     key 0
-    weight 10241.038200000008
+    weight 10241.0382
     token_id 4039
   ]
   edge [
@@ -86994,35 +86994,35 @@ graph [
     source 620
     target 8211
     key 0
-    weight 11168.917500000009
+    weight 11168.9175
     token_id 1286
   ]
   edge [
     source 620
     target 7063
     key 0
-    weight 7489.575000000003
+    weight 7489.575
     token_id 352
   ]
   edge [
     source 620
     target 4825
     key 0
-    weight 7156.705000000003
+    weight 7156.704999999999
     token_id 8682
   ]
   edge [
     source 620
     target 7574
     key 0
-    weight 7256.566000000003
+    weight 7256.566
     token_id 8745
   ]
   edge [
     source 620
     target 8296
     key 0
-    weight 7589.436000000002
+    weight 7589.435999999999
     token_id 2817
   ]
   edge [
@@ -87169,287 +87169,287 @@ graph [
     source 620
     target 555
     key 0
-    weight 5392.393500000001
+    weight 5392.3935
     token_id 3643
   ]
   edge [
     source 620
     target 4654
     key 0
-    weight 4977.594000000001
+    weight 4977.594
     token_id 1927
   ]
   edge [
     source 620
     target 4654
     key 1
-    weight 4839.3275
+    weight 4839.327499999999
     token_id 114
   ]
   edge [
     source 620
     target 7922
     key 0
-    weight 4949.940700000001
+    weight 4949.9407
     token_id 654
   ]
   edge [
     source 620
     target 1923
     key 0
-    weight 5558.3133
+    weight 5558.313299999999
     token_id 199
   ]
   edge [
     source 620
     target 1923
     key 1
-    weight 5834.8463
+    weight 5834.846299999999
     token_id 4336
   ]
   edge [
     source 620
     target 5645
     key 0
-    weight 5917.806200000001
+    weight 5917.8062
     token_id 8145
   ]
   edge [
     source 620
     target 2738
     key 0
-    weight 4977.594000000001
+    weight 4977.594
     token_id 1916
   ]
   edge [
     source 620
     target 7876
     key 0
-    weight 4977.594000000001
+    weight 4977.594
     token_id 2042
   ]
   edge [
     source 620
     target 5856
     key 0
-    weight 4977.594000000001
+    weight 4977.594
     token_id 8687
   ]
   edge [
     source 620
     target 7550
     key 0
-    weight 4977.594000000001
+    weight 4977.594
     token_id 2658
   ]
   edge [
     source 620
     target 7550
     key 1
-    weight 4977.594000000001
+    weight 4977.594
     token_id 3454
   ]
   edge [
     source 620
     target 7550
     key 2
-    weight 4977.594000000001
+    weight 4977.594
     token_id 3368
   ]
   edge [
     source 620
     target 7550
     key 3
-    weight 4977.594000000001
+    weight 4977.594
     token_id 5339
   ]
   edge [
     source 620
     target 7973
     key 0
-    weight 4977.594000000001
+    weight 4977.594
     token_id 4872
   ]
   edge [
     source 620
     target 7973
     key 1
-    weight 4977.594000000001
+    weight 4977.594
     token_id 701
   ]
   edge [
     source 620
     target 7973
     key 2
-    weight 4977.594000000001
+    weight 4977.594
     token_id 2816
   ]
   edge [
     source 620
     target 3402
     key 0
-    weight 4977.594000000001
+    weight 4977.594
     token_id 3108
   ]
   edge [
     source 620
     target 8366
     key 0
-    weight 4977.594000000001
+    weight 4977.594
     token_id 3507
   ]
   edge [
     source 620
     target 8391
     key 0
-    weight 4977.594000000001
+    weight 4977.594
     token_id 3883
   ]
   edge [
     source 620
     target 8392
     key 0
-    weight 4977.594000000001
+    weight 4977.594
     token_id 558
   ]
   edge [
     source 620
     target 8444
     key 0
-    weight 5910.566400000001
+    weight 5910.5664
     token_id 5884
   ]
   edge [
     source 620
     target 2534
     key 0
-    weight 5848.9980000000005
+    weight 5848.998
     token_id 626
   ]
   edge [
     source 620
     target 8439
     key 0
-    weight 5848.9980000000005
+    weight 5848.998
     token_id 3500
   ]
   edge [
     source 620
     target 189
     key 0
-    weight 5848.9980000000005
+    weight 5848.998
     token_id 7322
   ]
   edge [
     source 620
     target 8454
     key 0
-    weight 5848.9980000000005
+    weight 5848.998
     token_id 2252
   ]
   edge [
     source 620
     target 5947
     key 0
-    weight 5848.9980000000005
+    weight 5848.998
     token_id 7226
   ]
   edge [
     source 620
     target 8456
     key 0
-    weight 5848.9980000000005
+    weight 5848.998
     token_id 4732
   ]
   edge [
     source 620
     target 8459
     key 0
-    weight 5848.9980000000005
+    weight 5848.998
     token_id 2043
   ]
   edge [
     source 620
     target 8460
     key 0
-    weight 5848.9980000000005
+    weight 5848.998
     token_id 6605
   ]
   edge [
     source 620
     target 5933
     key 0
-    weight 5848.9980000000005
+    weight 5848.998
     token_id 5661
   ]
   edge [
     source 620
     target 8462
     key 0
-    weight 5848.9980000000005
+    weight 5848.998
     token_id 7270
   ]
   edge [
     source 620
     target 8462
     key 1
-    weight 5848.9980000000005
+    weight 5848.998
     token_id 3429
   ]
   edge [
     source 620
     target 8466
     key 0
-    weight 5848.9980000000005
+    weight 5848.998
     token_id 3812
   ]
   edge [
     source 620
     target 8478
     key 0
-    weight 9204.475800000002
+    weight 9204.4758
     token_id 1403
   ]
   edge [
     source 620
     target 8478
     key 1
-    weight 9204.475800000002
+    weight 9204.4758
     token_id 6013
   ]
   edge [
     source 620
     target 8478
     key 2
-    weight 9204.475800000002
+    weight 9204.4758
     token_id 7320
   ]
   edge [
     source 620
     target 6824
     key 0
-    weight 9204.475800000002
+    weight 9204.4758
     token_id 5340
   ]
   edge [
     source 628
     target 7703
     key 0
-    weight 3461.7069
+    weight 3461.7069000000083
     token_id 797
   ]
   edge [
     source 628
     target 6145
     key 0
-    weight 8255.176000000003
+    weight 8255.176
     token_id 5178
   ]
   edge [
     source 628
     target 4205
     key 0
-    weight 8255.176000000003
+    weight 8255.176
     token_id 5177
   ]
   edge [
@@ -87463,7 +87463,7 @@ graph [
     source 631
     target 8381
     key 0
-    weight 9235.260000000002
+    weight 9235.26
     token_id 8296
   ]
   edge [
@@ -87484,7 +87484,7 @@ graph [
     source 635
     target 6361
     key 0
-    weight 3196.5179709999998
+    weight 3196.517971000001
     token_id 2990
   ]
   edge [
@@ -87505,7 +87505,7 @@ graph [
     source 635
     target 5930
     key 0
-    weight 14153.632400000004
+    weight 14153.632399999999
     token_id 5337
   ]
   edge [
@@ -87519,21 +87519,21 @@ graph [
     source 635
     target 8407
     key 0
-    weight 6308.270796000002
+    weight 6308.270796
     token_id 6956
   ]
   edge [
     source 635
     target 8366
     key 0
-    weight 5083.506139000001
+    weight 5083.506139
     token_id 467
   ]
   edge [
     source 635
     target 8421
     key 0
-    weight 4972.616406000001
+    weight 4972.616406
     token_id 4566
   ]
   edge [
@@ -87547,7 +87547,7 @@ graph [
     source 636
     target 7249
     key 0
-    weight 17148.584100000015
+    weight 17148.5841
     token_id 525
   ]
   edge [
@@ -87631,7 +87631,7 @@ graph [
     source 654
     target 5911
     key 0
-    weight 4275.386460000001
+    weight 4275.38646000001
     token_id 812
   ]
   edge [
@@ -87708,7 +87708,7 @@ graph [
     source 669
     target 628
     key 0
-    weight 5935.193760000001
+    weight 5935.19376
     token_id 2369
   ]
   edge [
@@ -87757,14 +87757,14 @@ graph [
     source 674
     target 4789
     key 0
-    weight 3073.3280000000013
+    weight 3073.328
     token_id 1781
   ]
   edge [
     source 674
     target 6973
     key 0
-    weight 2964.857600000001
+    weight 2964.8576000000003
     token_id 2119
   ]
   edge [
@@ -87778,7 +87778,7 @@ graph [
     source 674
     target 8020
     key 0
-    weight 9897.379200000008
+    weight 9897.3792
     token_id 4167
   ]
   edge [
@@ -87792,7 +87792,7 @@ graph [
     source 679
     target 467
     key 0
-    weight 4996.278
+    weight 4996.278000000012
     token_id 2936
   ]
   edge [
@@ -87806,7 +87806,7 @@ graph [
     source 679
     target 1991
     key 0
-    weight 6126.055800000001
+    weight 6126.0558
     token_id 5102
   ]
   edge [
@@ -87834,28 +87834,28 @@ graph [
     source 682
     target 7334
     key 0
-    weight 2714.3254710000006
+    weight 2714.325471000001
     token_id 6859
   ]
   edge [
     source 682
     target 5463
     key 0
-    weight 2888.2051840000013
+    weight 2888.205184
     token_id 2831
   ]
   edge [
     source 682
     target 4406
     key 0
-    weight 4639.401000000001
+    weight 4639.401000000012
     token_id 1108
   ]
   edge [
     source 684
     target 7697
     key 0
-    weight 4460.962500000001
+    weight 4460.962500000011
     token_id 221
   ]
   edge [
@@ -87876,7 +87876,7 @@ graph [
     source 685
     target 6167
     key 0
-    weight 11443.84470000001
+    weight 11443.844700000001
     token_id 2346
   ]
   edge [
@@ -87981,7 +87981,7 @@ graph [
     source 693
     target 6053
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 823
   ]
   edge [
@@ -87995,14 +87995,14 @@ graph [
     source 698
     target 6131
     key 0
-    weight 4050.533899999999
+    weight 4050.533900000001
     token_id 835
   ]
   edge [
     source 698
     target 3708
     key 0
-    weight 4050.533899999999
+    weight 4050.533900000001
     token_id 834
   ]
   edge [
@@ -88016,14 +88016,14 @@ graph [
     source 700
     target 6302
     key 0
-    weight 3505.9242999999997
+    weight 3505.924300000001
     token_id 4495
   ]
   edge [
     source 702
     target 6370
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 846
   ]
   edge [
@@ -88072,7 +88072,7 @@ graph [
     source 713
     target 2272
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 869
   ]
   edge [
@@ -88086,7 +88086,7 @@ graph [
     source 714
     target 6289
     key 0
-    weight 3914.381499999999
+    weight 3914.381500000001
     token_id 872
   ]
   edge [
@@ -88149,7 +88149,7 @@ graph [
     source 730
     target 7151
     key 0
-    weight 4246.8363
+    weight 4246.83630000001
     token_id 908
   ]
   edge [
@@ -88212,7 +88212,7 @@ graph [
     source 735
     target 5975
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 8450
   ]
   edge [
@@ -88233,7 +88233,7 @@ graph [
     source 741
     target 7251
     key 0
-    weight 2608.14411
+    weight 2608.144110000001
     token_id 934
   ]
   edge [
@@ -88261,14 +88261,14 @@ graph [
     source 743
     target 7252
     key 0
-    weight 3092.6610000000005
+    weight 3092.6610000000014
     token_id 941
   ]
   edge [
     source 743
     target 8491
     key 0
-    weight 7388.2080000000005
+    weight 7388.208
     token_id 940
   ]
   edge [
@@ -88289,7 +88289,7 @@ graph [
     source 746
     target 5951
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 8454
   ]
   edge [
@@ -88310,14 +88310,14 @@ graph [
     source 747
     target 8492
     key 0
-    weight 6403.1136000000015
+    weight 6403.113600000001
     token_id 2214
   ]
   edge [
     source 747
     target 8529
     key 0
-    weight 7728.32900000002
+    weight 7728.329000000006
     token_id 948
   ]
   edge [
@@ -88345,7 +88345,7 @@ graph [
     source 754
     target 6657
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 962
   ]
   edge [
@@ -88387,28 +88387,28 @@ graph [
     source 754
     target 7498
     key 0
-    weight 3250.4963200000016
+    weight 3250.49632
     token_id 8133
   ]
   edge [
     source 754
     target 3751
     key 0
-    weight 3889.959300000001
+    weight 3889.9593000000095
     token_id 4664
   ]
   edge [
     source 754
     target 7639
     key 0
-    weight 3889.959300000001
+    weight 3889.9593000000095
     token_id 1449
   ]
   edge [
     source 754
     target 7642
     key 0
-    weight 3497.3946000000005
+    weight 3497.3946000000083
     token_id 6784
   ]
   edge [
@@ -88464,7 +88464,7 @@ graph [
     source 758
     target 6336
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 972
   ]
   edge [
@@ -88548,7 +88548,7 @@ graph [
     source 776
     target 1807
     key 0
-    weight 5105.714999999999
+    weight 5105.715000000001
     token_id 890
   ]
   edge [
@@ -88660,14 +88660,14 @@ graph [
     source 778
     target 7554
     key 0
-    weight 5353.155000000001
+    weight 5353.155000000013
     token_id 1018
   ]
   edge [
     source 778
     target 3606
     key 0
-    weight 12887.21250000001
+    weight 12887.212500000001
     token_id 1019
   ]
   edge [
@@ -88688,7 +88688,7 @@ graph [
     source 779
     target 5851
     key 0
-    weight 3230.2156899999995
+    weight 3230.2156900000004
     token_id 2951
   ]
   edge [
@@ -88709,7 +88709,7 @@ graph [
     source 782
     target 5806
     key 0
-    weight 3165.5433
+    weight 3165.543300000001
     token_id 1033
   ]
   edge [
@@ -88737,14 +88737,14 @@ graph [
     source 787
     target 6207
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1043
   ]
   edge [
     source 787
     target 2988
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1044
   ]
   edge [
@@ -88779,7 +88779,7 @@ graph [
     source 792
     target 5922
     key 0
-    weight 2675.6032000000014
+    weight 2675.6032
     token_id 1059
   ]
   edge [
@@ -88800,14 +88800,14 @@ graph [
     source 794
     target 539
     key 0
-    weight 4251.018308999999
+    weight 4251.018309000001
     token_id 6863
   ]
   edge [
     source 795
     target 6195
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1067
   ]
   edge [
@@ -88828,7 +88828,7 @@ graph [
     source 797
     target 7553
     key 0
-    weight 3211.8930000000005
+    weight 3211.8930000000078
     token_id 6067
   ]
   edge [
@@ -88842,56 +88842,56 @@ graph [
     source 798
     target 6133
     key 0
-    weight 3642.0766999999996
+    weight 3642.076700000001
     token_id 3299
   ]
   edge [
     source 798
     target 620
     key 0
-    weight 3454.867149999999
+    weight 3454.8671500000005
     token_id 1079
   ]
   edge [
     source 800
     target 357
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 1906
   ]
   edge [
     source 800
     target 6203
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 1082
   ]
   edge [
     source 800
     target 1332
     key 0
-    weight 3710.1528999999996
+    weight 3710.1529000000014
     token_id 1739
   ]
   edge [
     source 800
     target 1332
     key 1
-    weight 3710.1528999999996
+    weight 3710.1529000000014
     token_id 1002
   ]
   edge [
     source 800
     target 6449
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 1083
   ]
   edge [
     source 801
     target 6306
     key 0
-    weight 3570.5966899999994
+    weight 3570.5966900000008
     token_id 3835
   ]
   edge [
@@ -88912,7 +88912,7 @@ graph [
     source 804
     target 3408
     key 0
-    weight 3033.4545000000003
+    weight 3033.454500000007
     token_id 1090
   ]
   edge [
@@ -88940,7 +88940,7 @@ graph [
     source 808
     target 315
     key 0
-    weight 5785.088000000003
+    weight 5785.088000000001
     token_id 7172
   ]
   edge [
@@ -88968,14 +88968,14 @@ graph [
     source 816
     target 2679
     key 0
-    weight 22887.68940000002
+    weight 22887.689400000003
     token_id 1373
   ]
   edge [
     source 816
     target 7077
     key 0
-    weight 13746.360000000011
+    weight 13746.36
     token_id 2069
   ]
   edge [
@@ -88996,7 +88996,7 @@ graph [
     source 821
     target 5437
     key 0
-    weight 4282.524
+    weight 4282.52400000001
     token_id 1125
   ]
   edge [
@@ -89017,21 +89017,21 @@ graph [
     source 825
     target 6024
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 3529
   ]
   edge [
     source 825
     target 3474
     key 0
-    weight 5317.4673
+    weight 5317.467300000013
     token_id 1130
   ]
   edge [
     source 825
     target 7671
     key 0
-    weight 3747.2085000000006
+    weight 3747.2085000000093
     token_id 1131
   ]
   edge [
@@ -89045,7 +89045,7 @@ graph [
     source 826
     target 5844
     key 0
-    weight 3165.5433
+    weight 3165.543300000001
     token_id 1134
   ]
   edge [
@@ -89066,7 +89066,7 @@ graph [
     source 830
     target 508
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1141
   ]
   edge [
@@ -89080,21 +89080,21 @@ graph [
     source 834
     target 513
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 1147
   ]
   edge [
     source 834
     target 2613
     key 0
-    weight 8954.203000000003
+    weight 8954.203
     token_id 1146
   ]
   edge [
     source 835
     target 4481
     key 0
-    weight 3403.4696189999995
+    weight 3403.469619000001
     token_id 1148
   ]
   edge [
@@ -89108,7 +89108,7 @@ graph [
     source 836
     target 6229
     key 0
-    weight 3710.1528999999996
+    weight 3710.1529000000014
     token_id 1151
   ]
   edge [
@@ -89122,7 +89122,7 @@ graph [
     source 837
     target 1895
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 1155
   ]
   edge [
@@ -89136,7 +89136,7 @@ graph [
     source 838
     target 6297
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1157
   ]
   edge [
@@ -89185,7 +89185,7 @@ graph [
     source 844
     target 6421
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 1176
   ]
   edge [
@@ -89213,7 +89213,7 @@ graph [
     source 853
     target 8271
     key 0
-    weight 7822.445000000003
+    weight 7822.445
     token_id 1196
   ]
   edge [
@@ -89227,7 +89227,7 @@ graph [
     source 856
     target 4869
     key 0
-    weight 2676.5775000000003
+    weight 2676.5775000000067
     token_id 1201
   ]
   edge [
@@ -89269,7 +89269,7 @@ graph [
     source 865
     target 7681
     key 0
-    weight 3961.334700000001
+    weight 3961.33470000001
     token_id 1222
   ]
   edge [
@@ -89374,7 +89374,7 @@ graph [
     source 886
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 1281
   ]
   edge [
@@ -89395,21 +89395,21 @@ graph [
     source 890
     target 5731
     key 0
-    weight 3441.592291
+    weight 3441.5922910000013
     token_id 1290
   ]
   edge [
     source 890
     target 6059
     key 0
-    weight 3052.196427
+    weight 3052.1964270000008
     token_id 1289
   ]
   edge [
     source 890
     target 6501
     key 0
-    weight 3044.7080449999994
+    weight 3044.7080450000008
     token_id 1291
   ]
   edge [
@@ -89437,7 +89437,7 @@ graph [
     source 894
     target 6494
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 3133
   ]
   edge [
@@ -89451,14 +89451,14 @@ graph [
     source 894
     target 7272
     key 0
-    weight 3608.1045000000004
+    weight 3608.1045000000017
     token_id 3134
   ]
   edge [
     source 896
     target 5898
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1306
   ]
   edge [
@@ -89472,14 +89472,14 @@ graph [
     source 900
     target 7211
     key 0
-    weight 2505.0554100000004
+    weight 2505.055410000001
     token_id 5417
   ]
   edge [
     source 900
     target 7151
     key 0
-    weight 3390.3315000000002
+    weight 3390.331500000008
     token_id 2497
   ]
   edge [
@@ -89500,21 +89500,21 @@ graph [
     source 906
     target 1911
     key 0
-    weight 3676.1148
+    weight 3676.114800000001
     token_id 8741
   ]
   edge [
     source 906
     target 614
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 8742
   ]
   edge [
     source 907
     target 5725
     key 0
-    weight 3052.877189
+    weight 3052.8771890000007
     token_id 1327
   ]
   edge [
@@ -89528,7 +89528,7 @@ graph [
     source 909
     target 5892
     key 0
-    weight 3154.9914889999995
+    weight 3154.9914890000005
     token_id 1334
   ]
   edge [
@@ -89549,7 +89549,7 @@ graph [
     source 914
     target 8206
     key 0
-    weight 13711.994100000013
+    weight 13711.994100000002
     token_id 1348
   ]
   edge [
@@ -89626,7 +89626,7 @@ graph [
     source 924
     target 5353
     key 0
-    weight 12887.21250000001
+    weight 12887.212500000001
     token_id 1376
   ]
   edge [
@@ -89640,7 +89640,7 @@ graph [
     source 926
     target 1332
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 1380
   ]
   edge [
@@ -89654,28 +89654,28 @@ graph [
     source 930
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 1391
   ]
   edge [
     source 931
     target 5878
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1395
   ]
   edge [
     source 931
     target 2038
     key 0
-    weight 2987.5240369999997
+    weight 2987.524037000001
     token_id 1394
   ]
   edge [
     source 931
     target 6396
     key 0
-    weight 3028.3697569999995
+    weight 3028.369757000001
     token_id 1396
   ]
   edge [
@@ -89794,14 +89794,14 @@ graph [
     source 955
     target 4988
     key 0
-    weight 3022.5832799999994
+    weight 3022.5832800000007
     token_id 1463
   ]
   edge [
     source 958
     target 6339
     key 0
-    weight 5446.096
+    weight 5446.096000000001
     token_id 1473
   ]
   edge [
@@ -89815,7 +89815,7 @@ graph [
     source 959
     target 5977
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1475
   ]
   edge [
@@ -89829,7 +89829,7 @@ graph [
     source 965
     target 508
     key 0
-    weight 3182.5623499999997
+    weight 3182.562350000001
     token_id 1491
   ]
   edge [
@@ -89843,14 +89843,14 @@ graph [
     source 970
     target 2529
     key 0
-    weight 3659.0957499999995
+    weight 3659.095750000001
     token_id 1500
   ]
   edge [
     source 970
     target 7440
     key 0
-    weight 3254.1120000000014
+    weight 3254.1120000000005
     token_id 1501
   ]
   edge [
@@ -89864,7 +89864,7 @@ graph [
     source 971
     target 8252
     key 0
-    weight 6823.835000000002
+    weight 6823.834999999999
     token_id 1502
   ]
   edge [
@@ -89892,7 +89892,7 @@ graph [
     source 975
     target 6141
     key 0
-    weight 3539.9623999999994
+    weight 3539.962400000001
     token_id 1513
   ]
   edge [
@@ -89927,7 +89927,7 @@ graph [
     source 979
     target 5885
     key 0
-    weight 3676.1148
+    weight 3676.114800000001
     token_id 1521
   ]
   edge [
@@ -89990,14 +89990,14 @@ graph [
     source 989
     target 7801
     key 0
-    weight 16770.559200000014
+    weight 16770.5592
     token_id 1546
   ]
   edge [
     source 990
     target 6305
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1551
   ]
   edge [
@@ -90018,7 +90018,7 @@ graph [
     source 995
     target 6449
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 1561
   ]
   edge [
@@ -90060,35 +90060,35 @@ graph [
     source 1001
     target 5968
     key 0
-    weight 3301.6956999999993
+    weight 3301.6957000000007
     token_id 1574
   ]
   edge [
     source 1002
     target 6379
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 1576
   ]
   edge [
     source 1002
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 1586
   ]
   edge [
     source 1003
     target 7564
     key 0
-    weight 3211.8930000000005
+    weight 3211.8930000000078
     token_id 1580
   ]
   edge [
     source 1005
     target 8101
     key 0
-    weight 9278.793000000009
+    weight 9278.793000000001
     token_id 1584
   ]
   edge [
@@ -90151,7 +90151,7 @@ graph [
     source 1017
     target 2988
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 1616
   ]
   edge [
@@ -90186,14 +90186,14 @@ graph [
     source 1025
     target 5513
     key 0
-    weight 3252.3404549999996
+    weight 3252.340455000001
     token_id 1635
   ]
   edge [
     source 1027
     target 324
     key 0
-    weight 11168.917500000009
+    weight 11168.9175
     token_id 1637
   ]
   edge [
@@ -90207,7 +90207,7 @@ graph [
     source 1028
     target 7485
     key 0
-    weight 2711.760000000001
+    weight 2711.76
     token_id 1639
   ]
   edge [
@@ -90228,7 +90228,7 @@ graph [
     source 1030
     target 7587
     key 0
-    weight 3176.2053000000005
+    weight 3176.205300000008
     token_id 1647
   ]
   edge [
@@ -90249,7 +90249,7 @@ graph [
     source 1033
     target 5959
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1652
   ]
   edge [
@@ -90270,7 +90270,7 @@ graph [
     source 1038
     target 74
     key 0
-    weight 4254.762499999999
+    weight 4254.762500000001
     token_id 1663
   ]
   edge [
@@ -90291,7 +90291,7 @@ graph [
     source 1042
     target 5971
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1671
   ]
   edge [
@@ -90312,7 +90312,7 @@ graph [
     source 1046
     target 5265
     key 0
-    weight 3233.2791189999994
+    weight 3233.2791190000007
     token_id 1680
   ]
   edge [
@@ -90347,7 +90347,7 @@ graph [
     source 1056
     target 4874
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 1703
   ]
   edge [
@@ -90389,14 +90389,14 @@ graph [
     source 1059
     target 2826
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1711
   ]
   edge [
     source 1059
     target 6451
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 1712
   ]
   edge [
@@ -90417,7 +90417,7 @@ graph [
     source 1060
     target 6585
     key 0
-    weight 16839.291000000016
+    weight 16839.291
     token_id 1715
   ]
   edge [
@@ -90480,28 +90480,28 @@ graph [
     source 1073
     target 7451
     key 0
-    weight 7101.8523000000005
+    weight 7101.852300000017
     token_id 1745
   ]
   edge [
     source 1075
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 1749
   ]
   edge [
     source 1075
     target 7927
     key 1
-    weight 10309.770000000008
+    weight 10309.77
     token_id 1748
   ]
   edge [
     source 1077
     target 6433
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 1756
   ]
   edge [
@@ -90515,14 +90515,14 @@ graph [
     source 1078
     target 5626
     key 0
-    weight 3743.850619
+    weight 3743.850619000001
     token_id 1758
   ]
   edge [
     source 1078
     target 6152
     key 0
-    weight 3536.558589999999
+    weight 3536.5585900000005
     token_id 1757
   ]
   edge [
@@ -90557,14 +90557,14 @@ graph [
     source 1083
     target 204
     key 0
-    weight 3400.4061899999997
+    weight 3400.406190000001
     token_id 1772
   ]
   edge [
     source 1083
     target 6198
     key 0
-    weight 3502.520489999999
+    weight 3502.520490000001
     token_id 2193
   ]
   edge [
@@ -90585,14 +90585,14 @@ graph [
     source 1084
     target 1332
     key 0
-    weight 8208.171
+    weight 8208.171000000018
     token_id 1773
   ]
   edge [
     source 1084
     target 7684
     key 0
-    weight 4639.401000000001
+    weight 4639.401000000012
     token_id 1774
   ]
   edge [
@@ -90606,28 +90606,28 @@ graph [
     source 1086
     target 6021
     key 0
-    weight 4050.533899999999
+    weight 4050.533900000001
     token_id 1612
   ]
   edge [
     source 1086
     target 1332
     key 0
-    weight 3812.2672
+    weight 3812.267200000001
     token_id 1780
   ]
   edge [
     source 1086
     target 6053
     key 0
-    weight 3131.5051999999996
+    weight 3131.505200000001
     token_id 1779
   ]
   edge [
     source 1086
     target 6379
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 1614
   ]
   edge [
@@ -90641,7 +90641,7 @@ graph [
     source 1089
     target 6335
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 1790
   ]
   edge [
@@ -90655,14 +90655,14 @@ graph [
     source 1092
     target 5882
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 1797
   ]
   edge [
     source 1092
     target 620
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 1798
   ]
   edge [
@@ -90683,7 +90683,7 @@ graph [
     source 1094
     target 6350
     key 0
-    weight 8475.4869
+    weight 8475.486900000004
     token_id 1805
   ]
   edge [
@@ -90718,7 +90718,7 @@ graph [
     source 1101
     target 6824
     key 0
-    weight 3401.9271000000003
+    weight 3401.9271000000012
     token_id 1819
   ]
   edge [
@@ -90732,14 +90732,14 @@ graph [
     source 1102
     target 7542
     key 0
-    weight 4282.524
+    weight 4282.52400000001
     token_id 1822
   ]
   edge [
     source 1102
     target 4592
     key 0
-    weight 4639.401000000001
+    weight 4639.401000000012
     token_id 1821
   ]
   edge [
@@ -90767,7 +90767,7 @@ graph [
     source 1103
     target 6447
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 3297
   ]
   edge [
@@ -90781,7 +90781,7 @@ graph [
     source 1107
     target 620
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 1833
   ]
   edge [
@@ -90809,35 +90809,35 @@ graph [
     source 1109
     target 6313
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 8154
   ]
   edge [
     source 1109
     target 6317
     key 0
-    weight 3359.5604699999994
+    weight 3359.560470000001
     token_id 8153
   ]
   edge [
     source 1109
     target 6317
     key 1
-    weight 3301.6956999999993
+    weight 3301.6957000000007
     token_id 8155
   ]
   edge [
     source 1110
     target 3413
     key 0
-    weight 2995.3527999999997
+    weight 2995.3528000000006
     token_id 1842
   ]
   edge [
     source 1110
     target 6449
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 1841
   ]
   edge [
@@ -90858,14 +90858,14 @@ graph [
     source 1112
     target 7497
     key 0
-    weight 8321.750000000004
+    weight 8321.75
     token_id 2749
   ]
   edge [
     source 1113
     target 304
     key 0
-    weight 17011.120500000015
+    weight 17011.1205
     token_id 1850
   ]
   edge [
@@ -90879,28 +90879,28 @@ graph [
     source 1114
     target 7502
     key 0
-    weight 7231.360000000003
+    weight 7231.360000000001
     token_id 1853
   ]
   edge [
     source 1114
     target 5497
     key 0
-    weight 5848.9980000000005
+    weight 5848.998
     token_id 5589
   ]
   edge [
     source 1115
     target 6321
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 1857
   ]
   edge [
     source 1115
     target 6326
     key 0
-    weight 3263.5730279999993
+    weight 3263.5730280000007
     token_id 1855
   ]
   edge [
@@ -90921,7 +90921,7 @@ graph [
     source 1126
     target 4962
     key 0
-    weight 3579.5232000000015
+    weight 3579.5232
     token_id 1880
   ]
   edge [
@@ -90935,7 +90935,7 @@ graph [
     source 1127
     target 7523
     key 0
-    weight 5353.155000000001
+    weight 5353.155000000013
     token_id 1883
   ]
   edge [
@@ -90970,14 +90970,14 @@ graph [
     source 1131
     target 6407
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 1897
   ]
   edge [
     source 1132
     target 508
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 1900
   ]
   edge [
@@ -91075,28 +91075,28 @@ graph [
     source 1146
     target 2826
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 2775
   ]
   edge [
     source 1146
     target 6319
     key 0
-    weight 3328.9261799999995
+    weight 3328.926180000001
     token_id 1937
   ]
   edge [
     source 1146
     target 1332
     key 0
-    weight 15463.305000000002
+    weight 15463.305000000006
     token_id 5552
   ]
   edge [
     source 1146
     target 7178
     key 0
-    weight 6869.430432000003
+    weight 6869.430432
     token_id 2366
   ]
   edge [
@@ -91110,14 +91110,14 @@ graph [
     source 1148
     target 6011
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 1944
   ]
   edge [
     source 1148
     target 6015
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 1943
   ]
   edge [
@@ -91131,7 +91131,7 @@ graph [
     source 1150
     target 6338
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 1947
   ]
   edge [
@@ -91229,7 +91229,7 @@ graph [
     source 1163
     target 6059
     key 0
-    weight 3914.381499999999
+    weight 3914.381500000001
     token_id 1979
   ]
   edge [
@@ -91271,7 +91271,7 @@ graph [
     source 1167
     target 2530
     key 0
-    weight 16839.291000000016
+    weight 16839.291
     token_id 1990
   ]
   edge [
@@ -91306,7 +91306,7 @@ graph [
     source 1170
     target 5513
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 1999
   ]
   edge [
@@ -91320,7 +91320,7 @@ graph [
     source 1171
     target 6081
     key 0
-    weight 3999.4767499999994
+    weight 3999.476750000001
     token_id 2002
   ]
   edge [
@@ -91390,14 +91390,14 @@ graph [
     source 1179
     target 6550
     key 0
-    weight 3301.6956999999993
+    weight 3301.6957000000007
     token_id 2019
   ]
   edge [
     source 1179
     target 1098
     key 0
-    weight 4638.991500000001
+    weight 4638.991500000002
     token_id 2017
   ]
   edge [
@@ -91425,14 +91425,14 @@ graph [
     source 1185
     target 5990
     key 0
-    weight 3676.1148
+    weight 3676.114800000001
     token_id 2027
   ]
   edge [
     source 1185
     target 3849
     key 0
-    weight 3676.1148
+    weight 3676.114800000001
     token_id 2028
   ]
   edge [
@@ -91460,21 +91460,21 @@ graph [
     source 1187
     target 166
     key 0
-    weight 4220.724399999999
+    weight 4220.724400000001
     token_id 2031
   ]
   edge [
     source 1189
     target 4789
     key 0
-    weight 17181.45
+    weight 17181.450000000008
     token_id 2037
   ]
   edge [
     source 1189
     target 7435
     key 0
-    weight 3217.9552000000017
+    weight 3217.9552000000003
     token_id 2036
   ]
   edge [
@@ -91488,14 +91488,14 @@ graph [
     source 1191
     target 5869
     key 0
-    weight 3267.6575999999995
+    weight 3267.657600000001
     token_id 2041
   ]
   edge [
     source 1192
     target 708
     key 0
-    weight 8987.322500000002
+    weight 8987.3225
     token_id 2045
   ]
   edge [
@@ -91523,7 +91523,7 @@ graph [
     source 1199
     target 6139
     key 0
-    weight 5105.714999999999
+    weight 5105.715000000001
     token_id 2062
   ]
   edge [
@@ -91544,14 +91544,14 @@ graph [
     source 1202
     target 6086
     key 0
-    weight 4421.549189999999
+    weight 4421.549190000001
     token_id 2072
   ]
   edge [
     source 1202
     target 508
     key 0
-    weight 3250.638549999999
+    weight 3250.6385500000006
     token_id 2070
   ]
   edge [
@@ -91572,7 +91572,7 @@ graph [
     source 1207
     target 7810
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 2081
   ]
   edge [
@@ -91600,7 +91600,7 @@ graph [
     source 1212
     target 5398
     key 0
-    weight 12948.643000000005
+    weight 12948.643
     token_id 7292
   ]
   edge [
@@ -91621,14 +91621,14 @@ graph [
     source 1214
     target 7283
     key 0
-    weight 2577.2175
+    weight 2577.217500000001
     token_id 2097
   ]
   edge [
     source 1215
     target 1332
     key 0
-    weight 3676.1148
+    weight 3676.114800000001
     token_id 2101
   ]
   edge [
@@ -91649,7 +91649,7 @@ graph [
     source 1216
     target 7218
     key 0
-    weight 2697.4876500000005
+    weight 2697.487650000001
     token_id 2105
   ]
   edge [
@@ -91740,14 +91740,14 @@ graph [
     source 1236
     target 6279
     key 0
-    weight 3642.0766999999996
+    weight 3642.076700000001
     token_id 2145
   ]
   edge [
     source 1237
     target 5753
     key 0
-    weight 3362.9642799999992
+    weight 3362.9642800000006
     token_id 2147
   ]
   edge [
@@ -91761,7 +91761,7 @@ graph [
     source 1238
     target 6398
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 2150
   ]
   edge [
@@ -91775,7 +91775,7 @@ graph [
     source 1241
     target 7801
     key 0
-    weight 10619.063100000008
+    weight 10619.0631
     token_id 4347
   ]
   edge [
@@ -91803,28 +91803,28 @@ graph [
     source 1250
     target 3671
     key 0
-    weight 3743.850619
+    weight 3743.850619000001
     token_id 1262
   ]
   edge [
     source 1251
     target 5996
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 2175
   ]
   edge [
     source 1251
     target 5885
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 2174
   ]
   edge [
     source 1251
     target 6003
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 2176
   ]
   edge [
@@ -91873,7 +91873,7 @@ graph [
     source 1256
     target 8209
     key 0
-    weight 103097.70000000008
+    weight 103097.70000000001
     token_id 2191
   ]
   edge [
@@ -91950,7 +91950,7 @@ graph [
     source 1265
     target 6164
     key 0
-    weight 4104.0855
+    weight 4104.085500000009
     token_id 2211
   ]
   edge [
@@ -91964,14 +91964,14 @@ graph [
     source 1266
     target 7425
     key 0
-    weight 2856.3872000000015
+    weight 2856.3872000000006
     token_id 2217
   ]
   edge [
     source 1267
     target 6134
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 2220
   ]
   edge [
@@ -91992,7 +91992,7 @@ graph [
     source 1269
     target 7654
     key 0
-    weight 3925.647000000001
+    weight 3925.64700000001
     token_id 2226
   ]
   edge [
@@ -92034,21 +92034,21 @@ graph [
     source 1276
     target 620
     key 0
-    weight 3403.4696189999995
+    weight 3403.469619000001
     token_id 2245
   ]
   edge [
     source 1276
     target 508
     key 0
-    weight 3403.4696189999995
+    weight 3403.469619000001
     token_id 2244
   ]
   edge [
     source 1276
     target 5993
     key 0
-    weight 3437.8480999999997
+    weight 3437.848100000001
     token_id 2243
   ]
   edge [
@@ -92083,7 +92083,7 @@ graph [
     source 1287
     target 8101
     key 0
-    weight 8763.304500000007
+    weight 8763.3045
     token_id 2269
   ]
   edge [
@@ -92104,7 +92104,7 @@ graph [
     source 1297
     target 5967
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 2290
   ]
   edge [
@@ -92118,7 +92118,7 @@ graph [
     source 1299
     target 5289
     key 0
-    weight 5115.860500000001
+    weight 5115.8605
     token_id 2293
   ]
   edge [
@@ -92181,7 +92181,7 @@ graph [
     source 1308
     target 7151
     key 0
-    weight 3604.4577000000004
+    weight 3604.4577000000086
     token_id 2313
   ]
   edge [
@@ -92195,14 +92195,14 @@ graph [
     source 1308
     target 5297
     key 0
-    weight 8454.898000000003
+    weight 8454.898
     token_id 2930
   ]
   edge [
     source 1308
     target 8245
     key 0
-    weight 8977.171030000003
+    weight 8977.17103
     token_id 6517
   ]
   edge [
@@ -92258,14 +92258,14 @@ graph [
     source 1322
     target 6180
     key 0
-    weight 3519.5395399999998
+    weight 3519.539540000001
     token_id 2349
   ]
   edge [
     source 1322
     target 7196
     key 0
-    weight 2570.3449200000005
+    weight 2570.344920000001
     token_id 2350
   ]
   edge [
@@ -92279,7 +92279,7 @@ graph [
     source 1323
     target 6649
     key 0
-    weight 5446.096
+    weight 5446.096000000001
     token_id 3451
   ]
   edge [
@@ -92328,14 +92328,14 @@ graph [
     source 1336
     target 6294
     key 0
-    weight 3556.9814499999993
+    weight 3556.9814500000007
     token_id 2381
   ]
   edge [
     source 1336
     target 508
     key 0
-    weight 3097.4671
+    weight 3097.4671000000008
     token_id 2383
   ]
   edge [
@@ -92377,7 +92377,7 @@ graph [
     source 1343
     target 8475
     key 0
-    weight 8003.892000000002
+    weight 8003.892000000001
     token_id 6644
   ]
   edge [
@@ -92391,14 +92391,14 @@ graph [
     source 1344
     target 2643
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 2403
   ]
   edge [
     source 1347
     target 341
     key 0
-    weight 4104.0855
+    weight 4104.085500000009
     token_id 2407
   ]
   edge [
@@ -92545,7 +92545,7 @@ graph [
     source 1358
     target 267
     key 0
-    weight 3199.581399999999
+    weight 3199.5814000000005
     token_id 2428
   ]
   edge [
@@ -92573,7 +92573,7 @@ graph [
     source 1361
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 2436
   ]
   edge [
@@ -92601,7 +92601,7 @@ graph [
     source 1364
     target 458
     key 0
-    weight 11913.335
+    weight 11913.335000000003
     token_id 1104
   ]
   edge [
@@ -92629,14 +92629,14 @@ graph [
     source 1366
     target 21
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 1037
   ]
   edge [
     source 1366
     target 4791
     key 0
-    weight 4765.333999999999
+    weight 4765.334000000001
     token_id 1600
   ]
   edge [
@@ -92664,7 +92664,7 @@ graph [
     source 1368
     target 620
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 2451
   ]
   edge [
@@ -92685,7 +92685,7 @@ graph [
     source 1369
     target 6139
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 4216
   ]
   edge [
@@ -92706,49 +92706,49 @@ graph [
     source 1373
     target 6088
     key 0
-    weight 3131.5051999999996
+    weight 3131.505200000001
     token_id 3070
   ]
   edge [
     source 1373
     target 3338
     key 0
-    weight 3131.5051999999996
+    weight 3131.505200000001
     token_id 3708
   ]
   edge [
     source 1373
     target 6332
     key 0
-    weight 3131.5051999999996
+    weight 3131.505200000001
     token_id 1057
   ]
   edge [
     source 1375
     target 4558
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 2470
   ]
   edge [
     source 1375
     target 6464
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 2468
   ]
   edge [
     source 1376
     target 6006
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 2472
   ]
   edge [
     source 1376
     target 3342
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 2473
   ]
   edge [
@@ -92797,21 +92797,21 @@ graph [
     source 1381
     target 4366
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 2484
   ]
   edge [
     source 1381
     target 6449
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 2483
   ]
   edge [
     source 1381
     target 6395
     key 0
-    weight 2995.3527999999997
+    weight 2995.3528000000006
     token_id 2485
   ]
   edge [
@@ -92860,7 +92860,7 @@ graph [
     source 1390
     target 6313
     key 0
-    weight 3022.5832799999994
+    weight 3022.5832800000007
     token_id 2506
   ]
   edge [
@@ -92895,7 +92895,7 @@ graph [
     source 1395
     target 4411
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 2519
   ]
   edge [
@@ -92916,7 +92916,7 @@ graph [
     source 1398
     target 2826
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 2525
   ]
   edge [
@@ -92972,7 +92972,7 @@ graph [
     source 1400
     target 6428
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 2528
   ]
   edge [
@@ -92986,7 +92986,7 @@ graph [
     source 1405
     target 4560
     key 0
-    weight 5423.520000000002
+    weight 5423.52
     token_id 2543
   ]
   edge [
@@ -93007,14 +93007,14 @@ graph [
     source 1410
     target 7927
     key 0
-    weight 10137.94050000001
+    weight 10137.9405
     token_id 2551
   ]
   edge [
     source 1410
     target 4029
     key 0
-    weight 11072.692980000009
+    weight 11072.69298
     token_id 2552
   ]
   edge [
@@ -93035,28 +93035,28 @@ graph [
     source 1416
     target 8406
     key 0
-    weight 5348.148220000001
+    weight 5348.14822
     token_id 2564
   ]
   edge [
     source 1416
     target 8412
     key 0
-    weight 5494.710710000001
+    weight 5494.71071
     token_id 2562
   ]
   edge [
     source 1421
     target 7665
     key 0
-    weight 7988.547130000004
+    weight 7988.54713
     token_id 2570
   ]
   edge [
     source 1423
     target 3922
     key 0
-    weight 9463.260000000024
+    weight 9463.260000000007
     token_id 2576
   ]
   edge [
@@ -93084,14 +93084,14 @@ graph [
     source 1426
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 2581
   ]
   edge [
     source 1427
     target 508
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 2116
   ]
   edge [
@@ -93217,7 +93217,7 @@ graph [
     source 1446
     target 6021
     key 0
-    weight 3025.9870899999996
+    weight 3025.987090000001
     token_id 2628
   ]
   edge [
@@ -93231,7 +93231,7 @@ graph [
     source 1451
     target 7855
     key 0
-    weight 10993.65141000001
+    weight 10993.65141
     token_id 2637
   ]
   edge [
@@ -93252,21 +93252,21 @@ graph [
     source 1452
     target 6449
     key 0
-    weight 3025.9870899999996
+    weight 3025.987090000001
     token_id 2640
   ]
   edge [
     source 1452
     target 4784
     key 0
-    weight 9986.100000000004
+    weight 9986.099999999999
     token_id 2559
   ]
   edge [
     source 1453
     target 6054
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 2645
   ]
   edge [
@@ -93287,21 +93287,21 @@ graph [
     source 1465
     target 6379
     key 0
-    weight 3022.5832799999994
+    weight 3022.5832800000007
     token_id 1668
   ]
   edge [
     source 1465
     target 4919
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1666
   ]
   edge [
     source 1465
     target 6417
     key 0
-    weight 3097.4671
+    weight 3097.4671000000008
     token_id 2761
   ]
   edge [
@@ -93329,7 +93329,7 @@ graph [
     source 1474
     target 1332
     key 0
-    weight 3539.9623999999994
+    weight 3539.962400000001
     token_id 2682
   ]
   edge [
@@ -93371,14 +93371,14 @@ graph [
     source 1480
     target 7927
     key 0
-    weight 10223.85525000001
+    weight 10223.85525
     token_id 2697
   ]
   edge [
     source 1483
     target 7274
     key 0
-    weight 28550.160000000003
+    weight 28550.16000000007
     token_id 2702
   ]
   edge [
@@ -93399,14 +93399,14 @@ graph [
     source 1490
     target 5936
     key 0
-    weight 3403.4696189999995
+    weight 3403.469619000001
     token_id 1039
   ]
   edge [
     source 1490
     target 6452
     key 0
-    weight 3056.6213799999996
+    weight 3056.621380000001
     token_id 2478
   ]
   edge [
@@ -93420,35 +93420,35 @@ graph [
     source 1492
     target 614
     key 0
-    weight 9039.200000000004
+    weight 9039.2
     token_id 4784
   ]
   edge [
     source 1492
     target 6080
     key 0
-    weight 5353.155000000001
+    weight 5353.155000000013
     token_id 2302
   ]
   edge [
     source 1492
     target 5875
     key 0
-    weight 8935.134000000007
+    weight 8935.134
     token_id 7004
   ]
   edge [
     source 1492
     target 7260
     key 0
-    weight 8247.816000000006
+    weight 8247.816
     token_id 2109
   ]
   edge [
     source 1494
     target 5839
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 2718
   ]
   edge [
@@ -93462,7 +93462,7 @@ graph [
     source 1501
     target 6405
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 2737
   ]
   edge [
@@ -93483,7 +93483,7 @@ graph [
     source 1506
     target 5954
     key 0
-    weight 3403.4696189999995
+    weight 3403.469619000001
     token_id 1589
   ]
   edge [
@@ -93497,7 +93497,7 @@ graph [
     source 1507
     target 6316
     key 0
-    weight 3344.2433249999995
+    weight 3344.243325000001
     token_id 2751
   ]
   edge [
@@ -93539,14 +93539,14 @@ graph [
     source 1513
     target 6583
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 2765
   ]
   edge [
     source 1513
     target 1332
     key 0
-    weight 13558.800000000007
+    weight 13558.800000000001
     token_id 2766
   ]
   edge [
@@ -93560,7 +93560,7 @@ graph [
     source 1516
     target 7354
     key 0
-    weight 7938.949500000002
+    weight 7938.949499999999
     token_id 2774
   ]
   edge [
@@ -93574,7 +93574,7 @@ graph [
     source 1521
     target 6475
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 2783
   ]
   edge [
@@ -93609,7 +93609,7 @@ graph [
     source 1528
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 2792
   ]
   edge [
@@ -93637,21 +93637,21 @@ graph [
     source 1533
     target 5945
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 1967
   ]
   edge [
     source 1533
     target 2051
     key 0
-    weight 8509.524999999998
+    weight 8509.525000000001
     token_id 1193
   ]
   edge [
     source 1536
     target 3634
     key 0
-    weight 8290.966464000001
+    weight 8290.96646400002
     token_id 1345
   ]
   edge [
@@ -93672,7 +93672,7 @@ graph [
     source 1539
     target 7379
     key 0
-    weight 3747.2085000000006
+    weight 3747.2085000000093
     token_id 2810
   ]
   edge [
@@ -93686,7 +93686,7 @@ graph [
     source 1544
     target 6379
     key 0
-    weight 2961.3146999999994
+    weight 2961.314700000001
     token_id 2823
   ]
   edge [
@@ -93763,49 +93763,49 @@ graph [
     source 1545
     target 5752
     key 0
-    weight 3318.7147499999996
+    weight 3318.7147500000005
     token_id 6101
   ]
   edge [
     source 1545
     target 5722
     key 0
-    weight 3318.7147499999996
+    weight 3318.7147500000005
     token_id 1293
   ]
   edge [
     source 1545
     target 5824
     key 0
-    weight 3332.3299899999993
+    weight 3332.3299900000006
     token_id 6331
   ]
   edge [
     source 1545
     target 5753
     key 0
-    weight 3318.7147499999996
+    weight 3318.7147500000005
     token_id 8047
   ]
   edge [
     source 1545
     target 3342
     key 0
-    weight 3828.9458689999997
+    weight 3828.945869000001
     token_id 6318
   ]
   edge [
     source 1545
     target 6027
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 8055
   ]
   edge [
     source 1545
     target 6038
     key 0
-    weight 4251.35869
+    weight 4251.358690000002
     token_id 5201
   ]
   edge [
@@ -93819,14 +93819,14 @@ graph [
     source 1545
     target 7255
     key 0
-    weight 2749.0320000000006
+    weight 2749.032000000001
     token_id 3331
   ]
   edge [
     source 1545
     target 5973
     key 0
-    weight 2749.0320000000006
+    weight 2749.032000000001
     token_id 6690
   ]
   edge [
@@ -93854,14 +93854,14 @@ graph [
     source 1550
     target 6384
     key 0
-    weight 3046.4099499999998
+    weight 3046.4099500000007
     token_id 3795
   ]
   edge [
     source 1550
     target 6415
     key 0
-    weight 3080.4480499999995
+    weight 3080.448050000001
     token_id 2053
   ]
   edge [
@@ -93889,14 +93889,14 @@ graph [
     source 1552
     target 8035
     key 0
-    weight 9622.452000000007
+    weight 9622.452
     token_id 2839
   ]
   edge [
     source 1556
     target 7733
     key 0
-    weight 9924.871920000009
+    weight 9924.87192
     token_id 2852
   ]
   edge [
@@ -93917,14 +93917,14 @@ graph [
     source 1562
     target 6295
     key 0
-    weight 3127.4206279999994
+    weight 3127.4206280000008
     token_id 2865
   ]
   edge [
     source 1562
     target 1332
     key 0
-    weight 3025.3063279999997
+    weight 3025.306328000001
     token_id 2866
   ]
   edge [
@@ -93959,21 +93959,21 @@ graph [
     source 1567
     target 7340
     key 0
-    weight 2714.6691000000005
+    weight 2714.669100000001
     token_id 3172
   ]
   edge [
     source 1567
     target 7213
     key 0
-    weight 2855.0160000000005
+    weight 2855.016000000007
     token_id 2881
   ]
   edge [
     source 1567
     target 6378
     key 0
-    weight 6959.101500000001
+    weight 6959.101500000017
     token_id 2883
   ]
   edge [
@@ -94008,7 +94008,7 @@ graph [
     source 1573
     target 6451
     key 0
-    weight 19932.222000000016
+    weight 19932.222
     token_id 6075
   ]
   edge [
@@ -94022,7 +94022,7 @@ graph [
     source 1576
     target 7466
     key 0
-    weight 3434.8960000000015
+    weight 3434.896
     token_id 2904
   ]
   edge [
@@ -94043,7 +94043,7 @@ graph [
     source 1580
     target 508
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 2912
   ]
   edge [
@@ -94099,7 +94099,7 @@ graph [
     source 1587
     target 6169
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 2926
   ]
   edge [
@@ -94120,7 +94120,7 @@ graph [
     source 1592
     target 5981
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 2941
   ]
   edge [
@@ -94148,14 +94148,14 @@ graph [
     source 1597
     target 5068
     key 0
-    weight 3054.9194749999992
+    weight 3054.9194750000006
     token_id 2952
   ]
   edge [
     source 1598
     target 2204
     key 0
-    weight 9850.944000000003
+    weight 9850.944000000001
     token_id 2953
   ]
   edge [
@@ -94176,14 +94176,14 @@ graph [
     source 1600
     target 2542
     key 0
-    weight 3710.1528999999996
+    weight 3710.1529000000014
     token_id 1446
   ]
   edge [
     source 1600
     target 8069
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 4148
   ]
   edge [
@@ -94197,7 +94197,7 @@ graph [
     source 1601
     target 620
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 2959
   ]
   edge [
@@ -94225,28 +94225,28 @@ graph [
     source 1605
     target 5842
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1235
   ]
   edge [
     source 1605
     target 6593
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 1406
   ]
   edge [
     source 1606
     target 1975
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 2971
   ]
   edge [
     source 1606
     target 359
     key 0
-    weight 3535.877827999999
+    weight 3535.8778280000006
     token_id 2972
   ]
   edge [
@@ -94267,7 +94267,7 @@ graph [
     source 1608
     target 5857
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 2976
   ]
   edge [
@@ -94281,7 +94281,7 @@ graph [
     source 1614
     target 7330
     key 0
-    weight 3436.2900000000004
+    weight 3436.2900000000013
     token_id 2987
   ]
   edge [
@@ -94302,14 +94302,14 @@ graph [
     source 1617
     target 6047
     key 0
-    weight 6807.619999999999
+    weight 6807.620000000002
     token_id 5824
   ]
   edge [
     source 1617
     target 4669
     key 0
-    weight 5616.286499999999
+    weight 5616.286500000001
     token_id 5902
   ]
   edge [
@@ -94323,14 +94323,14 @@ graph [
     source 1618
     target 6464
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 2020
   ]
   edge [
     source 1620
     target 6144
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 2999
   ]
   edge [
@@ -94351,14 +94351,14 @@ graph [
     source 1623
     target 6307
     key 0
-    weight 3505.9242999999997
+    weight 3505.924300000001
     token_id 3006
   ]
   edge [
     source 1623
     target 5644
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 3007
   ]
   edge [
@@ -94400,7 +94400,7 @@ graph [
     source 1634
     target 6613
     key 0
-    weight 6807.619999999999
+    weight 6807.620000000002
     token_id 2077
   ]
   edge [
@@ -94435,14 +94435,14 @@ graph [
     source 1639
     target 3338
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 3034
   ]
   edge [
     source 1639
     target 508
     key 0
-    weight 3025.9870899999996
+    weight 3025.987090000001
     token_id 3032
   ]
   edge [
@@ -94477,28 +94477,28 @@ graph [
     source 1644
     target 508
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 2422
   ]
   edge [
     source 1644
     target 6028
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 1931
   ]
   edge [
     source 1644
     target 6048
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 2421
   ]
   edge [
     source 1644
     target 6532
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 2375
   ]
   edge [
@@ -94540,28 +94540,28 @@ graph [
     source 1651
     target 7408
     key 0
-    weight 2350.1920000000014
+    weight 2350.1920000000005
     token_id 3054
   ]
   edge [
     source 1652
     target 6449
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 3057
   ]
   edge [
     source 1652
     target 467
     key 0
-    weight 3063.0886189999997
+    weight 3063.088619000001
     token_id 3055
   ]
   edge [
     source 1653
     target 6387
     key 0
-    weight 3131.5051999999996
+    weight 3131.505200000001
     token_id 3060
   ]
   edge [
@@ -94575,7 +94575,7 @@ graph [
     source 1654
     target 369
     key 0
-    weight 13826.650000000001
+    weight 13826.65
     token_id 3062
   ]
   edge [
@@ -94624,21 +94624,21 @@ graph [
     source 1656
     target 5968
     key 0
-    weight 3403.4696189999995
+    weight 3403.469619000001
     token_id 2712
   ]
   edge [
     source 1656
     target 508
     key 0
-    weight 3403.4696189999995
+    weight 3403.469619000001
     token_id 2167
   ]
   edge [
     source 1657
     target 5706
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 3069
   ]
   edge [
@@ -94652,7 +94652,7 @@ graph [
     source 1659
     target 185
     key 0
-    weight 8591.475000000008
+    weight 8591.475
     token_id 3074
   ]
   edge [
@@ -94701,7 +94701,7 @@ graph [
     source 1669
     target 3634
     key 0
-    weight 42825.240000000005
+    weight 42825.24000000011
     token_id 1313
   ]
   edge [
@@ -94750,7 +94750,7 @@ graph [
     source 1671
     target 7141
     key 0
-    weight 3435.9463710000005
+    weight 3435.9463710000014
     token_id 3097
   ]
   edge [
@@ -94813,28 +94813,28 @@ graph [
     source 1684
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 3126
   ]
   edge [
     source 1684
     target 8478
     key 0
-    weight 15392.100000000002
+    weight 15392.1
     token_id 3010
   ]
   edge [
     source 1685
     target 6590
     key 0
-    weight 5105.714999999999
+    weight 5105.715000000001
     token_id 1905
   ]
   edge [
     source 1685
     target 7598
     key 0
-    weight 3211.8930000000005
+    weight 3211.8930000000078
     token_id 8437
   ]
   edge [
@@ -94855,7 +94855,7 @@ graph [
     source 1687
     target 7643
     key 0
-    weight 3318.599223
+    weight 3318.599223000008
     token_id 3131
   ]
   edge [
@@ -94883,35 +94883,35 @@ graph [
     source 1689
     target 4379
     key 0
-    weight 4322.838699999999
+    weight 4322.838700000001
     token_id 6989
   ]
   edge [
     source 1690
     target 6142
     key 0
-    weight 3914.381499999999
+    weight 3914.381500000001
     token_id 3140
   ]
   edge [
     source 1690
     target 6327
     key 0
-    weight 3264.2537899999993
+    weight 3264.2537900000007
     token_id 3139
   ]
   edge [
     source 1691
     target 1377
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 3142
   ]
   edge [
     source 1691
     target 2826
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 3141
   ]
   edge [
@@ -94995,14 +94995,14 @@ graph [
     source 1698
     target 7599
     key 0
-    weight 5531.593500000001
+    weight 5531.593500000014
     token_id 5152
   ]
   edge [
     source 1701
     target 3634
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 1878
   ]
   edge [
@@ -95037,7 +95037,7 @@ graph [
     source 1719
     target 8418
     key 0
-    weight 6083.7260000000015
+    weight 6083.726000000001
     token_id 3211
   ]
   edge [
@@ -95128,21 +95128,21 @@ graph [
     source 1734
     target 6120
     key 0
-    weight 3706.7490899999993
+    weight 3706.7490900000007
     token_id 3243
   ]
   edge [
     source 1734
     target 5362
     key 0
-    weight 3710.1528999999996
+    weight 3710.1529000000014
     token_id 3242
   ]
   edge [
     source 1734
     target 7679
     key 0
-    weight 4282.524
+    weight 4282.52400000001
     token_id 3244
   ]
   edge [
@@ -95191,7 +95191,7 @@ graph [
     source 1741
     target 4509
     key 0
-    weight 2711.760000000001
+    weight 2711.76
     token_id 3255
   ]
   edge [
@@ -95205,7 +95205,7 @@ graph [
     source 1745
     target 2988
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 3263
   ]
   edge [
@@ -95226,14 +95226,14 @@ graph [
     source 1748
     target 8168
     key 0
-    weight 13746.360000000011
+    weight 13746.36
     token_id 3273
   ]
   edge [
     source 1749
     target 6389
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 3274
   ]
   edge [
@@ -95254,21 +95254,21 @@ graph [
     source 1753
     target 5997
     key 0
-    weight 3737.3833799999998
+    weight 3737.383380000001
     token_id 3282
   ]
   edge [
     source 1754
     target 7548
     key 0
-    weight 10137.94050000001
+    weight 10137.9405
     token_id 3285
   ]
   edge [
     source 1754
     target 1620
     key 0
-    weight 11684.40600000001
+    weight 11684.406
     token_id 3216
   ]
   edge [
@@ -95324,14 +95324,14 @@ graph [
     source 1767
     target 6044
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 3313
   ]
   edge [
     source 1768
     target 7390
     key 0
-    weight 2809.383360000001
+    weight 2809.3833600000003
     token_id 3316
   ]
   edge [
@@ -95394,7 +95394,7 @@ graph [
     source 1772
     target 5935
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 3322
   ]
   edge [
@@ -95527,21 +95527,21 @@ graph [
     source 1779
     target 569
     key 0
-    weight 3267.6575999999995
+    weight 3267.657600000001
     token_id 7467
   ]
   edge [
     source 1779
     target 5409
     key 0
-    weight 8509.524999999998
+    weight 8509.525000000001
     token_id 5420
   ]
   edge [
     source 1780
     target 6290
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 3336
   ]
   edge [
@@ -95625,7 +95625,7 @@ graph [
     source 1798
     target 7254
     key 0
-    weight 24054.030000000002
+    weight 24054.03000000001
     token_id 3372
   ]
   edge [
@@ -95653,7 +95653,7 @@ graph [
     source 1805
     target 473
     key 0
-    weight 2903.66505
+    weight 2903.665050000001
     token_id 3382
   ]
   edge [
@@ -95674,14 +95674,14 @@ graph [
     source 1807
     target 1911
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 4542
   ]
   edge [
     source 1807
     target 6133
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 5259
   ]
   edge [
@@ -95695,7 +95695,7 @@ graph [
     source 1807
     target 470
     key 0
-    weight 6780.6630000000005
+    weight 6780.663000000016
     token_id 4034
   ]
   edge [
@@ -95716,7 +95716,7 @@ graph [
     source 1811
     target 5975
     key 0
-    weight 3128.10139
+    weight 3128.1013900000007
     token_id 3389
   ]
   edge [
@@ -95730,42 +95730,42 @@ graph [
     source 1814
     target 7356
     key 0
-    weight 2802.1520000000014
+    weight 2802.1520000000005
     token_id 8836
   ]
   edge [
     source 1814
     target 7362
     key 0
-    weight 2711.760000000001
+    weight 2711.76
     token_id 2325
   ]
   edge [
     source 1814
     target 620
     key 0
-    weight 3796.4640000000018
+    weight 3796.4640000000004
     token_id 1246
   ]
   edge [
     source 1814
     target 2309
     key 0
-    weight 5242.736000000003
+    weight 5242.736
     token_id 7634
   ]
   edge [
     source 1814
     target 6293
     key 0
-    weight 9966.111000000008
+    weight 9966.111
     token_id 7253
   ]
   edge [
     source 1814
     target 8478
     key 0
-    weight 12282.895800000002
+    weight 12282.8958
     token_id 1030
   ]
   edge [
@@ -95786,7 +95786,7 @@ graph [
     source 1815
     target 1911
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 6057
   ]
   edge [
@@ -95800,21 +95800,21 @@ graph [
     source 1817
     target 620
     key 0
-    weight 3226.8118799999993
+    weight 3226.8118800000007
     token_id 3404
   ]
   edge [
     source 1820
     target 6519
     key 0
-    weight 3097.4671
+    weight 3097.4671000000008
     token_id 3410
   ]
   edge [
     source 1820
     target 6519
     key 1
-    weight 3097.4671
+    weight 3097.4671000000008
     token_id 3411
   ]
   edge [
@@ -95863,7 +95863,7 @@ graph [
     source 1831
     target 1046
     key 0
-    weight 5105.714999999999
+    weight 5105.715000000001
     token_id 3431
   ]
   edge [
@@ -95877,21 +95877,21 @@ graph [
     source 1836
     target 6329
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 3440
   ]
   edge [
     source 1837
     target 508
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 3441
   ]
   edge [
     source 1837
     target 2826
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 3442
   ]
   edge [
@@ -95933,7 +95933,7 @@ graph [
     source 1842
     target 620
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 1800
   ]
   edge [
@@ -95947,21 +95947,21 @@ graph [
     source 1843
     target 5847
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8721
   ]
   edge [
     source 1843
     target 5855
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8720
   ]
   edge [
     source 1848
     target 1452
     key 0
-    weight 8155.315000000003
+    weight 8155.3150000000005
     token_id 6138
   ]
   edge [
@@ -95982,7 +95982,7 @@ graph [
     source 1849
     target 658
     key 0
-    weight 4254.762499999999
+    weight 4254.762500000001
     token_id 8247
   ]
   edge [
@@ -95996,7 +95996,7 @@ graph [
     source 1851
     target 4789
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 982
   ]
   edge [
@@ -96052,14 +96052,14 @@ graph [
     source 1864
     target 620
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 3484
   ]
   edge [
     source 1864
     target 523
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 3483
   ]
   edge [
@@ -96080,7 +96080,7 @@ graph [
     source 1872
     target 1332
     key 0
-    weight 3475.2900099999993
+    weight 3475.2900100000006
     token_id 3499
   ]
   edge [
@@ -96122,21 +96122,21 @@ graph [
     source 1877
     target 8154
     key 0
-    weight 10653.42900000001
+    weight 10653.429
     token_id 3509
   ]
   edge [
     source 1877
     target 8269
     key 0
-    weight 9653.230000000003
+    weight 9653.23
     token_id 3508
   ]
   edge [
     source 1878
     target 508
     key 0
-    weight 3488.9052499999993
+    weight 3488.9052500000007
     token_id 3511
   ]
   edge [
@@ -96164,7 +96164,7 @@ graph [
     source 1882
     target 7297
     key 0
-    weight 3092.6610000000005
+    weight 3092.6610000000014
     token_id 3517
   ]
   edge [
@@ -96178,7 +96178,7 @@ graph [
     source 1884
     target 6362
     key 0
-    weight 3100.8709099999996
+    weight 3100.870910000001
     token_id 3523
   ]
   edge [
@@ -96199,14 +96199,14 @@ graph [
     source 1888
     target 5851
     key 0
-    weight 3182.5623499999997
+    weight 3182.562350000001
     token_id 3530
   ]
   edge [
     source 1890
     target 5083
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 1665
   ]
   edge [
@@ -96248,21 +96248,21 @@ graph [
     source 1896
     target 7386
     key 0
-    weight 3253.7504320000016
+    weight 3253.7504320000003
     token_id 3547
   ]
   edge [
     source 1897
     target 407
     key 0
-    weight 3615.6800000000017
+    weight 3615.6800000000003
     token_id 3548
   ]
   edge [
     source 1898
     target 4866
     key 0
-    weight 6700.7655
+    weight 6700.765500000002
     token_id 3553
   ]
   edge [
@@ -96304,14 +96304,14 @@ graph [
     source 1914
     target 6103
     key 0
-    weight 3642.0766999999996
+    weight 3642.076700000001
     token_id 3586
   ]
   edge [
     source 1914
     target 2529
     key 0
-    weight 3635.2690799999996
+    weight 3635.269080000001
     token_id 3584
   ]
   edge [
@@ -96353,7 +96353,7 @@ graph [
     source 1924
     target 6380
     key 0
-    weight 2995.3527999999997
+    weight 2995.3528000000006
     token_id 3599
   ]
   edge [
@@ -96374,21 +96374,21 @@ graph [
     source 1927
     target 5250
     key 0
-    weight 3073.3280000000013
+    weight 3073.328
     token_id 3608
   ]
   edge [
     source 1927
     target 35
     key 0
-    weight 2964.857600000001
+    weight 2964.8576000000003
     token_id 3607
   ]
   edge [
     source 1927
     target 7543
     key 0
-    weight 3033.4545000000003
+    weight 3033.454500000007
     token_id 3606
   ]
   edge [
@@ -96437,14 +96437,14 @@ graph [
     source 1940
     target 7374
     key 0
-    weight 2530.976000000001
+    weight 2530.976
     token_id 3635
   ]
   edge [
     source 1940
     target 457
     key 0
-    weight 8654.620000000003
+    weight 8654.619999999999
     token_id 3637
   ]
   edge [
@@ -96479,14 +96479,14 @@ graph [
     source 1948
     target 467
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 3654
   ]
   edge [
     source 1950
     target 3784
     key 0
-    weight 3025.9870899999996
+    weight 3025.987090000001
     token_id 3660
   ]
   edge [
@@ -96521,7 +96521,7 @@ graph [
     source 1956
     target 6656
     key 0
-    weight 4050.533899999999
+    weight 4050.533900000001
     token_id 1601
   ]
   edge [
@@ -96535,7 +96535,7 @@ graph [
     source 1957
     target 7551
     key 0
-    weight 3092.6960820000004
+    weight 3092.6960820000077
     token_id 3671
   ]
   edge [
@@ -96556,7 +96556,7 @@ graph [
     source 1967
     target 7400
     key 0
-    weight 2892.5440000000017
+    weight 2892.5440000000003
     token_id 3686
   ]
   edge [
@@ -96612,14 +96612,14 @@ graph [
     source 1982
     target 6002
     key 0
-    weight 4251.35869
+    weight 4251.358690000002
     token_id 7318
   ]
   edge [
     source 1982
     target 2204
     key 0
-    weight 5888.591299999999
+    weight 5888.591300000002
     token_id 2125
   ]
   edge [
@@ -96647,14 +96647,14 @@ graph [
     source 1991
     target 4539
     key 0
-    weight 3723.7681399999997
+    weight 3723.768140000001
     token_id 7993
   ]
   edge [
     source 1991
     target 6023
     key 0
-    weight 3745.5561000000007
+    weight 3745.5561000000016
     token_id 3725
   ]
   edge [
@@ -96675,7 +96675,7 @@ graph [
     source 1995
     target 7305
     key 0
-    weight 5353.155000000001
+    weight 5353.155000000013
     token_id 3734
   ]
   edge [
@@ -96696,7 +96696,7 @@ graph [
     source 1998
     target 7464
     key 0
-    weight 3532.5193600000016
+    weight 3532.5193600000002
     token_id 3743
   ]
   edge [
@@ -96738,14 +96738,14 @@ graph [
     source 2002
     target 6341
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 3755
   ]
   edge [
     source 2003
     target 508
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 3757
   ]
   edge [
@@ -96780,7 +96780,7 @@ graph [
     source 2009
     target 7653
     key 0
-    weight 3390.3315000000002
+    weight 3390.331500000008
     token_id 3770
   ]
   edge [
@@ -96815,7 +96815,7 @@ graph [
     source 2015
     target 7141
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 8827
   ]
   edge [
@@ -96829,7 +96829,7 @@ graph [
     source 2016
     target 5584
     key 0
-    weight 83217.50000000003
+    weight 83217.5
     token_id 3781
   ]
   edge [
@@ -96843,7 +96843,7 @@ graph [
     source 2019
     target 7623
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 3788
   ]
   edge [
@@ -96857,14 +96857,14 @@ graph [
     source 2020
     target 5963
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 3791
   ]
   edge [
     source 2023
     target 6449
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 3798
   ]
   edge [
@@ -96899,14 +96899,14 @@ graph [
     source 2029
     target 5882
     key 0
-    weight 4050.533899999999
+    weight 4050.533900000001
     token_id 975
   ]
   edge [
     source 2029
     target 6304
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 1571
   ]
   edge [
@@ -96927,35 +96927,35 @@ graph [
     source 2032
     target 2921
     key 0
-    weight 2920.8465
+    weight 2920.846500000001
     token_id 3818
   ]
   edge [
     source 2032
     target 199
     key 0
-    weight 4123.548000000001
+    weight 4123.548000000002
     token_id 3817
   ]
   edge [
     source 2032
     target 3634
     key 0
-    weight 12490.695000000002
+    weight 12490.69500000003
     token_id 3816
   ]
   edge [
     source 2033
     target 6149
     key 0
-    weight 3914.381499999999
+    weight 3914.381500000001
     token_id 3820
   ]
   edge [
     source 2033
     target 6133
     key 0
-    weight 3914.381499999999
+    weight 3914.381500000001
     token_id 3819
   ]
   edge [
@@ -97011,7 +97011,7 @@ graph [
     source 2044
     target 6392
     key 0
-    weight 3022.5832799999994
+    weight 3022.5832800000007
     token_id 3837
   ]
   edge [
@@ -97039,14 +97039,14 @@ graph [
     source 2048
     target 7066
     key 0
-    weight 10308.87
+    weight 10308.870000000004
     token_id 2626
   ]
   edge [
     source 2049
     target 6102
     key 0
-    weight 3703.3452799999995
+    weight 3703.3452800000014
     token_id 1055
   ]
   edge [
@@ -97060,21 +97060,21 @@ graph [
     source 2051
     target 185
     key 0
-    weight 9106.963500000007
+    weight 9106.9635
     token_id 1655
   ]
   edge [
     source 2053
     target 5997
     key 0
-    weight 3676.1148
+    weight 3676.114800000001
     token_id 2597
   ]
   edge [
     source 2053
     target 6542
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 7121
   ]
   edge [
@@ -97116,7 +97116,7 @@ graph [
     source 2059
     target 7575
     key 0
-    weight 4460.962500000001
+    weight 4460.962500000011
     token_id 3856
   ]
   edge [
@@ -97151,7 +97151,7 @@ graph [
     source 2071
     target 5872
     key 0
-    weight 3223.4080699999995
+    weight 3223.408070000001
     token_id 2662
   ]
   edge [
@@ -97207,14 +97207,14 @@ graph [
     source 2081
     target 6177
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 3893
   ]
   edge [
     source 2082
     target 2287
     key 0
-    weight 3037.171200000001
+    weight 3037.1712
     token_id 2717
   ]
   edge [
@@ -97242,14 +97242,14 @@ graph [
     source 2087
     target 5987
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 8639
   ]
   edge [
     source 2087
     target 587
     key 0
-    weight 3080.4480499999995
+    weight 3080.448050000001
     token_id 8014
   ]
   edge [
@@ -97312,14 +97312,14 @@ graph [
     source 2093
     target 7502
     key 0
-    weight 3615.6800000000017
+    weight 3615.6800000000003
     token_id 3911
   ]
   edge [
     source 2095
     target 6509
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 3914
   ]
   edge [
@@ -97347,7 +97347,7 @@ graph [
     source 2104
     target 1332
     key 0
-    weight 3842.9014899999993
+    weight 3842.901490000001
     token_id 3929
   ]
   edge [
@@ -97375,21 +97375,21 @@ graph [
     source 2107
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 3935
   ]
   edge [
     source 2109
     target 1332
     key 0
-    weight 2974.9299399999995
+    weight 2974.929940000001
     token_id 3938
   ]
   edge [
     source 2109
     target 2784
     key 0
-    weight 2880.6419070000006
+    weight 2880.641907000001
     token_id 3936
   ]
   edge [
@@ -97431,14 +97431,14 @@ graph [
     source 2115
     target 6163
     key 0
-    weight 3913.700737999999
+    weight 3913.700738000001
     token_id 3948
   ]
   edge [
     source 2115
     target 6497
     key 0
-    weight 3138.9935819999996
+    weight 3138.993582000001
     token_id 8546
   ]
   edge [
@@ -97452,7 +97452,7 @@ graph [
     source 2116
     target 7892
     key 0
-    weight 6772.524000000002
+    weight 6772.524
     token_id 3953
   ]
   edge [
@@ -97466,7 +97466,7 @@ graph [
     source 2122
     target 8038
     key 0
-    weight 8591.475000000008
+    weight 8591.475
     token_id 3966
   ]
   edge [
@@ -97487,7 +97487,7 @@ graph [
     source 2133
     target 6498
     key 0
-    weight 3025.6467089999996
+    weight 3025.646709000001
     token_id 3984
   ]
   edge [
@@ -97501,7 +97501,7 @@ graph [
     source 2133
     target 7355
     key 0
-    weight 2928.7008000000014
+    weight 2928.7008000000005
     token_id 3985
   ]
   edge [
@@ -97529,14 +97529,14 @@ graph [
     source 2138
     target 7233
     key 0
-    weight 3951.7335000000003
+    weight 3951.733500000001
     token_id 3999
   ]
   edge [
     source 2138
     target 7345
     key 0
-    weight 4996.278
+    weight 4996.278000000012
     token_id 3997
   ]
   edge [
@@ -97550,14 +97550,14 @@ graph [
     source 2140
     target 7927
     key 0
-    weight 10137.94050000001
+    weight 10137.9405
     token_id 4004
   ]
   edge [
     source 2142
     target 6254
     key 0
-    weight 3710.1528999999996
+    weight 3710.1529000000014
     token_id 3378
   ]
   edge [
@@ -97571,7 +97571,7 @@ graph [
     source 2143
     target 1332
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 3683
   ]
   edge [
@@ -97599,7 +97599,7 @@ graph [
     source 2148
     target 5935
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 4015
   ]
   edge [
@@ -97690,7 +97690,7 @@ graph [
     source 2176
     target 5945
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 4067
   ]
   edge [
@@ -97704,7 +97704,7 @@ graph [
     source 2181
     target 7231
     key 0
-    weight 6872.580000000001
+    weight 6872.580000000003
     token_id 2872
   ]
   edge [
@@ -97760,14 +97760,14 @@ graph [
     source 2188
     target 556
     key 0
-    weight 3812.2672
+    weight 3812.267200000001
     token_id 4084
   ]
   edge [
     source 2188
     target 8145
     key 0
-    weight 10962.722100000008
+    weight 10962.7221
     token_id 4083
   ]
   edge [
@@ -97802,7 +97802,7 @@ graph [
     source 2193
     target 3176
     key 0
-    weight 7137.540000000001
+    weight 7137.540000000017
     token_id 4094
   ]
   edge [
@@ -97823,7 +97823,7 @@ graph [
     source 2201
     target 7801
     key 0
-    weight 8179.084200000007
+    weight 8179.0842
     token_id 1052
   ]
   edge [
@@ -97837,14 +97837,14 @@ graph [
     source 2204
     target 7927
     key 0
-    weight 10168.86981000001
+    weight 10168.86981
     token_id 2720
   ]
   edge [
     source 2204
     target 2694
     key 0
-    weight 11959.33320000001
+    weight 11959.333200000001
     token_id 6537
   ]
   edge [
@@ -97858,28 +97858,28 @@ graph [
     source 2208
     target 8117
     key 0
-    weight 10206.67230000001
+    weight 10206.672300000002
     token_id 4117
   ]
   edge [
     source 2212
     target 1332
     key 0
-    weight 3676.0423385708277
+    weight 3676.042338570829
     token_id 4369
   ]
   edge [
     source 2212
     target 5914
     key 0
-    weight 3742.7575017875524
+    weight 3742.757501787554
     token_id 3118
   ]
   edge [
     source 2212
     target 6271
     key 0
-    weight 3676.1148
+    weight 3676.114800000001
     token_id 7101
   ]
   edge [
@@ -97914,56 +97914,56 @@ graph [
     source 2212
     target 7205
     key 0
-    weight 3774.017096585782
+    weight 3774.017096585783
     token_id 5036
   ]
   edge [
     source 2212
     target 4789
     key 0
-    weight 4295.3625
+    weight 4295.362500000002
     token_id 1096
   ]
   edge [
     source 2212
     target 4789
     key 1
-    weight 4621.81005
+    weight 4621.810050000002
     token_id 1005
   ]
   edge [
     source 2212
     target 7296
     key 0
-    weight 3264.418779799149
+    weight 3264.41877979915
     token_id 85
   ]
   edge [
     source 2212
     target 7183
     key 0
-    weight 3297.5001600000014
+    weight 3297.5001600000005
     token_id 607
   ]
   edge [
     source 2212
     target 7257
     key 0
-    weight 4049.5616000000023
+    weight 4049.561600000001
     token_id 5937
   ]
   edge [
     source 2212
     target 6405
     key 0
-    weight 3105.869120000001
+    weight 3105.8691200000003
     token_id 7734
   ]
   edge [
     source 2212
     target 6226
     key 0
-    weight 4493.08143
+    weight 4493.08143000001
     token_id 7764
   ]
   edge [
@@ -97991,14 +97991,14 @@ graph [
     source 2212
     target 6898
     key 0
-    weight 8546.02692448969
+    weight 8546.026924489683
     token_id 7637
   ]
   edge [
     source 2212
     target 8069
     key 0
-    weight 8216.89516146262
+    weight 8216.895161462613
     token_id 1397
   ]
   edge [
@@ -98012,35 +98012,35 @@ graph [
     source 2212
     target 636
     key 0
-    weight 10252.396000000004
+    weight 10252.395999999999
     token_id 2922
   ]
   edge [
     source 2212
     target 3708
     key 0
-    weight 8544.869700000001
+    weight 8544.8697
     token_id 5879
   ]
   edge [
     source 2212
     target 8233
     key 0
-    weight 7881.1905000000015
+    weight 7881.1905
     token_id 1581
   ]
   edge [
     source 2212
     target 8421
     key 0
-    weight 5334.321570000001
+    weight 5334.32157
     token_id 6436
   ]
   edge [
     source 2215
     target 7884
     key 0
-    weight 8295.990000000002
+    weight 8295.99
     token_id 4125
   ]
   edge [
@@ -98075,14 +98075,14 @@ graph [
     source 2226
     target 7357
     key 0
-    weight 3615.6800000000017
+    weight 3615.6800000000003
     token_id 4145
   ]
   edge [
     source 2226
     target 7384
     key 0
-    weight 7231.360000000003
+    weight 7231.360000000001
     token_id 4143
   ]
   edge [
@@ -98103,21 +98103,21 @@ graph [
     source 2235
     target 2826
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 4158
   ]
   edge [
     source 2235
     target 6058
     key 0
-    weight 3128.10139
+    weight 3128.1013900000007
     token_id 4156
   ]
   edge [
     source 2236
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 4161
   ]
   edge [
@@ -98152,7 +98152,7 @@ graph [
     source 2240
     target 2204
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 8798
   ]
   edge [
@@ -98180,7 +98180,7 @@ graph [
     source 2251
     target 6342
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 4187
   ]
   edge [
@@ -98201,56 +98201,56 @@ graph [
     source 2254
     target 5068
     key 0
-    weight 4282.524
+    weight 4282.52400000001
     token_id 1280
   ]
   edge [
     source 2254
     target 287
     key 0
-    weight 60140.32500000005
+    weight 60140.325000000004
     token_id 4996
   ]
   edge [
     source 2255
     target 7842
     key 0
-    weight 10103.230941000009
+    weight 10103.230941000002
     token_id 1499
   ]
   edge [
     source 2256
     target 4267
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 3123
   ]
   edge [
     source 2256
     target 6175
     key 0
-    weight 3676.1148
+    weight 3676.114800000001
     token_id 1287
   ]
   edge [
     source 2256
     target 6335
     key 0
-    weight 3131.1648189999996
+    weight 3131.164819000001
     token_id 1285
   ]
   edge [
     source 2257
     target 1054
     key 0
-    weight 3676.1148
+    weight 3676.114800000001
     token_id 4193
   ]
   edge [
     source 2257
     target 6520
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 4192
   ]
   edge [
@@ -98264,7 +98264,7 @@ graph [
     source 2259
     target 6346
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 1552
   ]
   edge [
@@ -98278,7 +98278,7 @@ graph [
     source 2259
     target 5251
     key 0
-    weight 20344.612800000017
+    weight 20344.6128
     token_id 460
   ]
   edge [
@@ -98292,7 +98292,7 @@ graph [
     source 2260
     target 6324
     key 0
-    weight 3131.1648189999996
+    weight 3131.164819000001
     token_id 8723
   ]
   edge [
@@ -98327,28 +98327,28 @@ graph [
     source 2262
     target 679
     key 0
-    weight 6773.581899999999
+    weight 6773.581900000002
     token_id 4198
   ]
   edge [
     source 2263
     target 6215
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 2955
   ]
   edge [
     source 2266
     target 6011
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 4200
   ]
   edge [
     source 2266
     target 6225
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 4202
   ]
   edge [
@@ -98362,21 +98362,21 @@ graph [
     source 2267
     target 508
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 4204
   ]
   edge [
     source 2268
     target 5935
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 4207
   ]
   edge [
     source 2272
     target 5513
     key 0
-    weight 3907.233498999999
+    weight 3907.233499000001
     token_id 5234
   ]
   edge [
@@ -98439,7 +98439,7 @@ graph [
     source 2279
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 4226
   ]
   edge [
@@ -98467,7 +98467,7 @@ graph [
     source 2287
     target 3678
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 4262
   ]
   edge [
@@ -98523,7 +98523,7 @@ graph [
     source 2297
     target 7272
     key 0
-    weight 2903.66505
+    weight 2903.665050000001
     token_id 1874
   ]
   edge [
@@ -98537,14 +98537,14 @@ graph [
     source 2299
     target 504
     key 0
-    weight 3441.592291
+    weight 3441.5922910000013
     token_id 1462
   ]
   edge [
     source 2300
     target 625
     key 0
-    weight 4550.893969999999
+    weight 4550.893970000001
     token_id 915
   ]
   edge [
@@ -98558,7 +98558,7 @@ graph [
     source 2300
     target 7514
     key 0
-    weight 3458.1381300000003
+    weight 3458.1381300000085
     token_id 6623
   ]
   edge [
@@ -98572,7 +98572,7 @@ graph [
     source 2304
     target 5900
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 8306
   ]
   edge [
@@ -98593,7 +98593,7 @@ graph [
     source 2305
     target 6131
     key 0
-    weight 3914.381499999999
+    weight 3914.381500000001
     token_id 4251
   ]
   edge [
@@ -98607,21 +98607,21 @@ graph [
     source 2307
     target 8014
     key 0
-    weight 12028.06500000001
+    weight 12028.065
     token_id 4252
   ]
   edge [
     source 2309
     target 508
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 3446
   ]
   edge [
     source 2311
     target 6152
     key 0
-    weight 3914.381499999999
+    weight 3914.381500000001
     token_id 4257
   ]
   edge [
@@ -98642,7 +98642,7 @@ graph [
     source 2317
     target 3713
     key 0
-    weight 10211.429999999998
+    weight 10211.430000000002
     token_id 2940
   ]
   edge [
@@ -98656,21 +98656,21 @@ graph [
     source 2317
     target 8189
     key 0
-    weight 12028.06500000001
+    weight 12028.065
     token_id 6219
   ]
   edge [
     source 2317
     target 8274
     key 0
-    weight 9986.100000000004
+    weight 9986.099999999999
     token_id 7398
   ]
   edge [
     source 2317
     target 8384
     key 0
-    weight 8295.990000000002
+    weight 8295.99
     token_id 6336
   ]
   edge [
@@ -98712,14 +98712,14 @@ graph [
     source 2323
     target 5986
     key 0
-    weight 1701.9049999999997
+    weight 1701.9050000000004
     token_id 4283
   ]
   edge [
     source 2323
     target 7527
     key 0
-    weight 2855.0160000000005
+    weight 2855.016000000007
     token_id 4282
   ]
   edge [
@@ -98747,14 +98747,14 @@ graph [
     source 2326
     target 6297
     key 0
-    weight 3505.9242999999997
+    weight 3505.924300000001
     token_id 4290
   ]
   edge [
     source 2328
     target 8156
     key 0
-    weight 9588.086100000008
+    weight 9588.0861
     token_id 4297
   ]
   edge [
@@ -98775,21 +98775,21 @@ graph [
     source 2332
     target 6558
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 4310
   ]
   edge [
     source 2333
     target 267
     key 0
-    weight 2893.2384999999995
+    weight 2893.238500000001
     token_id 4311
   ]
   edge [
     source 2333
     target 8153
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 4312
   ]
   edge [
@@ -98810,14 +98810,14 @@ graph [
     source 2335
     target 5900
     key 0
-    weight 3301.3553189999993
+    weight 3301.3553190000007
     token_id 2544
   ]
   edge [
     source 2336
     target 6421
     key 0
-    weight 3131.5051999999996
+    weight 3131.505200000001
     token_id 2429
   ]
   edge [
@@ -98852,7 +98852,7 @@ graph [
     source 2346
     target 602
     key 0
-    weight 5701.38175
+    weight 5701.381750000001
     token_id 8716
   ]
   edge [
@@ -98894,21 +98894,21 @@ graph [
     source 2351
     target 682
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 4339
   ]
   edge [
     source 2351
     target 7266
     key 0
-    weight 3436.2900000000004
+    weight 3436.2900000000013
     token_id 4338
   ]
   edge [
     source 2351
     target 7344
     key 0
-    weight 2405.4030000000002
+    weight 2405.4030000000007
     token_id 4337
   ]
   edge [
@@ -98922,7 +98922,7 @@ graph [
     source 2354
     target 6080
     key 0
-    weight 4424.6126189999995
+    weight 4424.612619000001
     token_id 2713
   ]
   edge [
@@ -99013,7 +99013,7 @@ graph [
     source 2368
     target 4843
     key 0
-    weight 3162.1394899999996
+    weight 3162.139490000001
     token_id 6099
   ]
   edge [
@@ -99027,21 +99027,21 @@ graph [
     source 2368
     target 7475
     key 0
-    weight 3181.7984000000015
+    weight 3181.7984
     token_id 8258
   ]
   edge [
     source 2368
     target 7694
     key 0
-    weight 3925.647000000001
+    weight 3925.64700000001
     token_id 2754
   ]
   edge [
     source 2368
     target 8239
     key 0
-    weight 11443.84470000001
+    weight 11443.844700000001
     token_id 7826
   ]
   edge [
@@ -99055,14 +99055,14 @@ graph [
     source 2369
     target 6313
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 4365
   ]
   edge [
     source 2369
     target 4789
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 4366
   ]
   edge [
@@ -99083,14 +99083,14 @@ graph [
     source 2374
     target 6094
     key 0
-    weight 3539.9623999999994
+    weight 3539.962400000001
     token_id 3033
   ]
   edge [
     source 2376
     target 6545
     key 0
-    weight 4016.1554189999993
+    weight 4016.1554190000006
     token_id 3710
   ]
   edge [
@@ -99104,7 +99104,7 @@ graph [
     source 2381
     target 4502
     key 0
-    weight 3539.3787000000007
+    weight 3539.3787000000016
     token_id 4380
   ]
   edge [
@@ -99139,7 +99139,7 @@ graph [
     source 2389
     target 5996
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 816
   ]
   edge [
@@ -99153,7 +99153,7 @@ graph [
     source 2391
     target 8496
     key 0
-    weight 7326.639600000001
+    weight 7326.6395999999995
     token_id 6129
   ]
   edge [
@@ -99202,7 +99202,7 @@ graph [
     source 2399
     target 4205
     key 0
-    weight 4338.816000000002
+    weight 4338.816
     token_id 4396
   ]
   edge [
@@ -99223,7 +99223,7 @@ graph [
     source 2402
     target 7654
     key 0
-    weight 3925.2901230000007
+    weight 3925.2901230000098
     token_id 2548
   ]
   edge [
@@ -99244,7 +99244,7 @@ graph [
     source 2404
     target 1332
     key 0
-    weight 4977.594000000001
+    weight 4977.594
     token_id 4400
   ]
   edge [
@@ -99272,7 +99272,7 @@ graph [
     source 2410
     target 6655
     key 0
-    weight 4254.081738
+    weight 4254.081738000001
     token_id 5001
   ]
   edge [
@@ -99300,21 +99300,21 @@ graph [
     source 2412
     target 6055
     key 0
-    weight 4322.838699999999
+    weight 4322.838700000001
     token_id 6858
   ]
   edge [
     source 2412
     target 4789
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 1942
   ]
   edge [
     source 2416
     target 7700
     key 0
-    weight 3390.3315000000002
+    weight 3390.331500000008
     token_id 4417
   ]
   edge [
@@ -99349,7 +99349,7 @@ graph [
     source 2428
     target 6673
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 3703
   ]
   edge [
@@ -99440,7 +99440,7 @@ graph [
     source 2444
     target 7510
     key 0
-    weight 2819.3283000000006
+    weight 2819.328300000007
     token_id 3392
   ]
   edge [
@@ -99454,21 +99454,21 @@ graph [
     source 2447
     target 5642
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 3452
   ]
   edge [
     source 2447
     target 5966
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 3453
   ]
   edge [
     source 2448
     target 556
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 4449
   ]
   edge [
@@ -99510,14 +99510,14 @@ graph [
     source 2455
     target 54
     key 0
-    weight 4638.991500000001
+    weight 4638.991500000002
     token_id 8367
   ]
   edge [
     source 2459
     target 399
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 4470
   ]
   edge [
@@ -99580,14 +99580,14 @@ graph [
     source 2474
     target 116
     key 0
-    weight 3366.3680899999995
+    weight 3366.368090000001
     token_id 8610
   ]
   edge [
     source 2474
     target 6473
     key 0
-    weight 3025.9870899999996
+    weight 3025.987090000001
     token_id 1178
   ]
   edge [
@@ -99601,28 +99601,28 @@ graph [
     source 2475
     target 7281
     key 0
-    weight 4123.548000000001
+    weight 4123.548000000002
     token_id 4914
   ]
   edge [
     source 2475
     target 7591
     key 0
-    weight 4211.1486
+    weight 4211.1486000000095
     token_id 6948
   ]
   edge [
     source 2475
     target 7601
     key 0
-    weight 6066.909000000001
+    weight 6066.909000000014
     token_id 5505
   ]
   edge [
     source 2475
     target 7618
     key 0
-    weight 5174.7165
+    weight 5174.716500000012
     token_id 4945
   ]
   edge [
@@ -99664,7 +99664,7 @@ graph [
     source 2484
     target 6111
     key 0
-    weight 3608.0386
+    weight 3608.038600000001
     token_id 2120
   ]
   edge [
@@ -99692,7 +99692,7 @@ graph [
     source 2485
     target 7216
     key 0
-    weight 3436.2900000000004
+    weight 3436.2900000000013
     token_id 8026
   ]
   edge [
@@ -99727,7 +99727,7 @@ graph [
     source 2486
     target 8246
     key 0
-    weight 9320.027130000004
+    weight 9320.02713
     token_id 6749
   ]
   edge [
@@ -99755,7 +99755,7 @@ graph [
     source 2493
     target 8101
     key 0
-    weight 9622.452000000007
+    weight 9622.452
     token_id 4518
   ]
   edge [
@@ -99769,7 +99769,7 @@ graph [
     source 2496
     target 5953
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 4523
   ]
   edge [
@@ -99804,7 +99804,7 @@ graph [
     source 2506
     target 4151
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 4599
   ]
   edge [
@@ -99846,7 +99846,7 @@ graph [
     source 2512
     target 2943
     key 0
-    weight 7955.5930000000035
+    weight 7955.593
     token_id 4546
   ]
   edge [
@@ -99867,7 +99867,7 @@ graph [
     source 2521
     target 8137
     key 0
-    weight 11168.917500000009
+    weight 11168.9175
     token_id 4562
   ]
   edge [
@@ -99895,28 +99895,28 @@ graph [
     source 2526
     target 5162
     key 0
-    weight 13196.505600000011
+    weight 13196.5056
     token_id 6910
   ]
   edge [
     source 2526
     target 7974
     key 0
-    weight 10241.038200000008
+    weight 10241.0382
     token_id 5912
   ]
   edge [
     source 2526
     target 5645
     key 0
-    weight 15395.923200000014
+    weight 15395.923200000003
     token_id 3183
   ]
   edge [
     source 2526
     target 359
     key 0
-    weight 12302.23800000003
+    weight 12302.238000000008
     token_id 8238
   ]
   edge [
@@ -99958,7 +99958,7 @@ graph [
     source 2530
     target 6310
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 4568
   ]
   edge [
@@ -99972,7 +99972,7 @@ graph [
     source 2532
     target 6282
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 4570
   ]
   edge [
@@ -100035,7 +100035,7 @@ graph [
     source 2539
     target 8095
     key 0
-    weight 9794.281500000008
+    weight 9794.281500000001
     token_id 8386
   ]
   edge [
@@ -100049,21 +100049,21 @@ graph [
     source 2541
     target 4817
     key 0
-    weight 3022.5832799999994
+    weight 3022.5832800000007
     token_id 2651
   ]
   edge [
     source 2541
     target 8060
     key 0
-    weight 7491.766200000006
+    weight 7491.766200000001
     token_id 7246
   ]
   edge [
     source 2542
     target 4199
     key 0
-    weight 3140.5176000000006
+    weight 3140.5176000000074
     token_id 862
   ]
   edge [
@@ -100084,7 +100084,7 @@ graph [
     source 2544
     target 349
     key 0
-    weight 4731.295899999999
+    weight 4731.295900000001
     token_id 1420
   ]
   edge [
@@ -100105,7 +100105,7 @@ graph [
     source 2546
     target 6280
     key 0
-    weight 3608.0386
+    weight 3608.038600000001
     token_id 1590
   ]
   edge [
@@ -100119,14 +100119,14 @@ graph [
     source 2546
     target 8229
     key 0
-    weight 10653.42900000001
+    weight 10653.429
     token_id 8009
   ]
   edge [
     source 2547
     target 8023
     key 0
-    weight 9588.086100000008
+    weight 9588.0861
     token_id 100
   ]
   edge [
@@ -100217,7 +100217,7 @@ graph [
     source 2555
     target 4205
     key 0
-    weight 9852.952000000003
+    weight 9852.952
     token_id 3878
   ]
   edge [
@@ -100252,14 +100252,14 @@ graph [
     source 2556
     target 5912
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 5143
   ]
   edge [
     source 2556
     target 5965
     key 0
-    weight 3403.4696189999995
+    weight 3403.469619000001
     token_id 6839
   ]
   edge [
@@ -100273,7 +100273,7 @@ graph [
     source 2557
     target 4789
     key 0
-    weight 3401.9271000000003
+    weight 3401.9271000000012
     token_id 4581
   ]
   edge [
@@ -100294,7 +100294,7 @@ graph [
     source 2563
     target 5931
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 4587
   ]
   edge [
@@ -100322,14 +100322,14 @@ graph [
     source 2568
     target 6599
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 4594
   ]
   edge [
     source 2577
     target 5914
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 4079
   ]
   edge [
@@ -100357,14 +100357,14 @@ graph [
     source 2582
     target 573
     key 0
-    weight 5423.520000000002
+    weight 5423.52
     token_id 1965
   ]
   edge [
     source 2583
     target 6449
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 1135
   ]
   edge [
@@ -100399,21 +100399,21 @@ graph [
     source 2597
     target 5990
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 8694
   ]
   edge [
     source 2597
     target 6157
     key 0
-    weight 4016.4957999999992
+    weight 4016.4958000000006
     token_id 8695
   ]
   edge [
     source 2597
     target 6174
     key 0
-    weight 3638.6728899999994
+    weight 3638.6728900000007
     token_id 8696
   ]
   edge [
@@ -100441,7 +100441,7 @@ graph [
     source 2603
     target 5292
     key 0
-    weight 17182.950000000015
+    weight 17182.95
     token_id 1765
   ]
   edge [
@@ -100455,7 +100455,7 @@ graph [
     source 2605
     target 6214
     key 0
-    weight 3710.1528999999996
+    weight 3710.1529000000014
     token_id 4323
   ]
   edge [
@@ -100469,14 +100469,14 @@ graph [
     source 2607
     target 2511
     key 0
-    weight 8619.576000000001
+    weight 8619.576
     token_id 3090
   ]
   edge [
     source 2608
     target 5835
     key 0
-    weight 3291.1438889999995
+    weight 3291.143889000001
     token_id 4430
   ]
   edge [
@@ -100504,14 +100504,14 @@ graph [
     source 2611
     target 7995
     key 0
-    weight 9278.793000000009
+    weight 9278.793000000001
     token_id 4649
   ]
   edge [
     source 2612
     target 6164
     key 0
-    weight 3354.6438000000003
+    weight 3354.643800000008
     token_id 6676
   ]
   edge [
@@ -100546,42 +100546,42 @@ graph [
     source 2621
     target 5712
     key 0
-    weight 13314.800000000005
+    weight 13314.8
     token_id 3373
   ]
   edge [
     source 2621
     target 3251
     key 0
-    weight 9986.100000000004
+    weight 9986.099999999999
     token_id 4099
   ]
   edge [
     source 2621
     target 8399
     key 0
-    weight 5530.660000000001
+    weight 5530.66
     token_id 3827
   ]
   edge [
     source 2621
     target 98
     key 0
-    weight 5392.393500000001
+    weight 5392.3935
     token_id 4185
   ]
   edge [
     source 2621
     target 3782
     key 0
-    weight 5530.660000000001
+    weight 5530.66
     token_id 2735
   ]
   edge [
     source 2621
     target 2404
     key 0
-    weight 5530.660000000001
+    weight 5530.66
     token_id 4557
   ]
   edge [
@@ -100602,14 +100602,14 @@ graph [
     source 2623
     target 5854
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 4656
   ]
   edge [
     source 2627
     target 7321
     key 0
-    weight 2436.3296100000002
+    weight 2436.3296100000007
     token_id 4660
   ]
   edge [
@@ -100630,7 +100630,7 @@ graph [
     source 2631
     target 6475
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 5687
   ]
   edge [
@@ -100651,21 +100651,21 @@ graph [
     source 2633
     target 6468
     key 0
-    weight 2995.3527999999997
+    weight 2995.3528000000006
     token_id 2960
   ]
   edge [
     source 2633
     target 501
     key 0
-    weight 6956.983000000002
+    weight 6956.982999999999
     token_id 877
   ]
   edge [
     source 2633
     target 7910
     key 0
-    weight 7822.445000000003
+    weight 7822.445
     token_id 1924
   ]
   edge [
@@ -100700,7 +100700,7 @@ graph [
     source 2639
     target 4789
     key 0
-    weight 9896.515200000002
+    weight 9896.515200000003
     token_id 7382
   ]
   edge [
@@ -100721,28 +100721,28 @@ graph [
     source 2642
     target 7357
     key 0
-    weight 2892.5440000000017
+    weight 2892.5440000000003
     token_id 1961
   ]
   edge [
     source 2644
     target 6585
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 3015
   ]
   edge [
     source 2644
     target 21
     key 0
-    weight 9360.477499999999
+    weight 9360.477500000003
     token_id 3824
   ]
   edge [
     source 2644
     target 6083
     key 0
-    weight 5071.6768999999995
+    weight 5071.676900000001
     token_id 1950
   ]
   edge [
@@ -100763,7 +100763,7 @@ graph [
     source 2646
     target 8262
     key 0
-    weight 7323.140000000003
+    weight 7323.14
     token_id 3543
   ]
   edge [
@@ -100777,21 +100777,21 @@ graph [
     source 2647
     target 6164
     key 0
-    weight 3902.8085459999998
+    weight 3902.808546000001
     token_id 8698
   ]
   edge [
     source 2647
     target 4552
     key 0
-    weight 3903.8296889999997
+    weight 3903.829689000001
     token_id 8697
   ]
   edge [
     source 2649
     target 620
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 4672
   ]
   edge [
@@ -100861,7 +100861,7 @@ graph [
     source 2660
     target 7657
     key 0
-    weight 3365.3501100000003
+    weight 3365.350110000008
     token_id 1670
   ]
   edge [
@@ -100875,14 +100875,14 @@ graph [
     source 2661
     target 7654
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 4686
   ]
   edge [
     source 2663
     target 6464
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1700
   ]
   edge [
@@ -100896,14 +100896,14 @@ graph [
     source 2665
     target 6013
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 2196
   ]
   edge [
     source 2667
     target 6372
     key 0
-    weight 3615.6800000000017
+    weight 3615.6800000000003
     token_id 4690
   ]
   edge [
@@ -100938,7 +100938,7 @@ graph [
     source 2670
     target 1332
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 3696
   ]
   edge [
@@ -100959,7 +100959,7 @@ graph [
     source 2673
     target 8522
     key 0
-    weight 7886.050000000019
+    weight 7886.050000000006
     token_id 3394
   ]
   edge [
@@ -101008,21 +101008,21 @@ graph [
     source 2678
     target 7259
     key 0
-    weight 3092.6610000000005
+    weight 3092.6610000000014
     token_id 4697
   ]
   edge [
     source 2681
     target 74
     key 0
-    weight 3914.381499999999
+    weight 3914.381500000001
     token_id 2789
   ]
   edge [
     source 2682
     target 234
     key 0
-    weight 3982.457699999999
+    weight 3982.457700000001
     token_id 2549
   ]
   edge [
@@ -101057,7 +101057,7 @@ graph [
     source 2688
     target 2048
     key 0
-    weight 2577.2175
+    weight 2577.217500000001
     token_id 2997
   ]
   edge [
@@ -101085,14 +101085,14 @@ graph [
     source 2693
     target 5678
     key 0
-    weight 3868.777600000002
+    weight 3868.7776000000003
     token_id 3494
   ]
   edge [
     source 2694
     target 620
     key 0
-    weight 3195.7497000000008
+    weight 3195.749700000001
     token_id 4710
   ]
   edge [
@@ -101106,14 +101106,14 @@ graph [
     source 2699
     target 7672
     key 0
-    weight 3390.3315000000002
+    weight 3390.331500000008
     token_id 4712
   ]
   edge [
     source 2703
     target 4913
     key 0
-    weight 5105.714999999999
+    weight 5105.715000000001
     token_id 7803
   ]
   edge [
@@ -101155,21 +101155,21 @@ graph [
     source 2712
     target 3145
     key 0
-    weight 9619.015410000007
+    weight 9619.01541
     token_id 5848
   ]
   edge [
     source 2712
     target 6310
     key 0
-    weight 4947.175370000001
+    weight 4947.17537
     token_id 3048
   ]
   edge [
     source 2714
     target 7373
     key 0
-    weight 3579.5232000000015
+    weight 3579.5232
     token_id 2669
   ]
   edge [
@@ -101183,7 +101183,7 @@ graph [
     source 2718
     target 6594
     key 0
-    weight 3497.3946000000005
+    weight 3497.3946000000083
     token_id 3339
   ]
   edge [
@@ -101197,7 +101197,7 @@ graph [
     source 2721
     target 573
     key 0
-    weight 18078.40000000001
+    weight 18078.4
     token_id 2736
   ]
   edge [
@@ -101295,7 +101295,7 @@ graph [
     source 2731
     target 8380
     key 0
-    weight 6885.671700000002
+    weight 6885.671700000001
     token_id 1751
   ]
   edge [
@@ -101316,14 +101316,14 @@ graph [
     source 2733
     target 5123
     key 0
-    weight 3127.0239000000006
+    weight 3127.0239000000015
     token_id 3742
   ]
   edge [
     source 2733
     target 7570
     key 0
-    weight 3925.647000000001
+    weight 3925.64700000001
     token_id 1315
   ]
   edge [
@@ -101344,21 +101344,21 @@ graph [
     source 2737
     target 6447
     key 0
-    weight 2711.760000000001
+    weight 2711.76
     token_id 4498
   ]
   edge [
     source 2738
     target 8087
     key 0
-    weight 9966.111000000008
+    weight 9966.111
     token_id 5323
   ]
   edge [
     source 2739
     target 5870
     key 0
-    weight 3366.3680899999995
+    weight 3366.368090000001
     token_id 2306
   ]
   edge [
@@ -101449,7 +101449,7 @@ graph [
     source 2757
     target 2752
     key 0
-    weight 2494.819200000001
+    weight 2494.8192
     token_id 3214
   ]
   edge [
@@ -101484,7 +101484,7 @@ graph [
     source 2757
     target 501
     key 0
-    weight 7256.566000000003
+    weight 7256.566
     token_id 1632
   ]
   edge [
@@ -101498,14 +101498,14 @@ graph [
     source 2762
     target 8101
     key 0
-    weight 9416.256600000008
+    weight 9416.2566
     token_id 4768
   ]
   edge [
     source 2764
     target 6389
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 1389
   ]
   edge [
@@ -101519,7 +101519,7 @@ graph [
     source 2765
     target 2988
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 4278
   ]
   edge [
@@ -101554,14 +101554,14 @@ graph [
     source 2768
     target 6054
     key 0
-    weight 4390.9149
+    weight 4390.914900000002
     token_id 2863
   ]
   edge [
     source 2768
     target 6611
     key 0
-    weight 4595.143499999999
+    weight 4595.143500000001
     token_id 3809
   ]
   edge [
@@ -101575,28 +101575,28 @@ graph [
     source 2769
     target 6662
     key 0
-    weight 5446.096
+    weight 5446.096000000001
     token_id 2168
   ]
   edge [
     source 2769
     target 6047
     key 0
-    weight 6807.619999999999
+    weight 6807.620000000002
     token_id 2501
   ]
   edge [
     source 2772
     target 7530
     key 0
-    weight 3033.4545000000003
+    weight 3033.454500000007
     token_id 4771
   ]
   edge [
     source 2774
     target 5982
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 3245
   ]
   edge [
@@ -101617,14 +101617,14 @@ graph [
     source 2777
     target 333
     key 0
-    weight 3328.9261799999995
+    weight 3328.926180000001
     token_id 4775
   ]
   edge [
     source 2777
     target 508
     key 0
-    weight 3328.9261799999995
+    weight 3328.926180000001
     token_id 4777
   ]
   edge [
@@ -101666,7 +101666,7 @@ graph [
     source 2787
     target 1596
     key 0
-    weight 2995.3527999999997
+    weight 2995.3528000000006
     token_id 1230
   ]
   edge [
@@ -101736,7 +101736,7 @@ graph [
     source 2795
     target 7661
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 2618
   ]
   edge [
@@ -101764,7 +101764,7 @@ graph [
     source 2801
     target 6054
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 4820
   ]
   edge [
@@ -101799,7 +101799,7 @@ graph [
     source 2804
     target 7656
     key 0
-    weight 3276.1308600000007
+    weight 3276.130860000008
     token_id 4825
   ]
   edge [
@@ -101820,42 +101820,42 @@ graph [
     source 2809
     target 6146
     key 0
-    weight 3781.9732909999993
+    weight 3781.9732910000007
     token_id 4834
   ]
   edge [
     source 2809
     target 6256
     key 0
-    weight 3880.3433999999993
+    weight 3880.3434000000007
     token_id 4835
   ]
   edge [
     source 2810
     target 7315
     key 0
-    weight 3092.6610000000005
+    weight 3092.6610000000014
     token_id 6664
   ]
   edge [
     source 2812
     target 7508
     key 0
-    weight 2747.9529
+    weight 2747.9529000000066
     token_id 4840
   ]
   edge [
     source 2817
     target 7621
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 4850
   ]
   edge [
     source 2818
     target 4176
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 4852
   ]
   edge [
@@ -101890,7 +101890,7 @@ graph [
     source 2821
     target 5826
     key 0
-    weight 9450.622500000009
+    weight 9450.622500000001
     token_id 8346
   ]
   edge [
@@ -101904,7 +101904,7 @@ graph [
     source 2822
     target 6952
     key 0
-    weight 9244.427100000008
+    weight 9244.4271
     token_id 2166
   ]
   edge [
@@ -101932,21 +101932,21 @@ graph [
     source 2826
     target 8258
     key 0
-    weight 13980.540000000006
+    weight 13980.539999999999
     token_id 6317
   ]
   edge [
     source 2830
     target 6449
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 1889
   ]
   edge [
     source 2830
     target 5362
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 7150
   ]
   edge [
@@ -101960,35 +101960,35 @@ graph [
     source 2836
     target 7706
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 3365
   ]
   edge [
     source 2836
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 3364
   ]
   edge [
     source 2836
     target 7927
     key 1
-    weight 10309.770000000008
+    weight 10309.77
     token_id 4868
   ]
   edge [
     source 2836
     target 5935
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 3363
   ]
   edge [
     source 2836
     target 6397
     key 0
-    weight 6156.840000000001
+    weight 6156.84
     token_id 4869
   ]
   edge [
@@ -102009,21 +102009,21 @@ graph [
     source 2841
     target 6283
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 2399
   ]
   edge [
     source 2842
     target 5042
     key 0
-    weight 3022.5832799999994
+    weight 3022.5832800000007
     token_id 2173
   ]
   edge [
     source 2842
     target 260
     key 0
-    weight 3019.1794699999996
+    weight 3019.179470000001
     token_id 5294
   ]
   edge [
@@ -102037,28 +102037,28 @@ graph [
     source 2845
     target 8404
     key 0
-    weight 7881.1905000000015
+    weight 7881.1905
     token_id 4033
   ]
   edge [
     source 2847
     target 7346
     key 0
-    weight 2749.0320000000006
+    weight 2749.032000000001
     token_id 3448
   ]
   edge [
     source 2847
     target 8072
     key 0
-    weight 7560.498000000007
+    weight 7560.4980000000005
     token_id 1250
   ]
   edge [
     source 2848
     target 6223
     key 0
-    weight 3743.850619
+    weight 3743.850619000001
     token_id 4873
   ]
   edge [
@@ -102100,7 +102100,7 @@ graph [
     source 2855
     target 243
     key 0
-    weight 6780.6630000000005
+    weight 6780.663000000016
     token_id 4885
   ]
   edge [
@@ -102114,21 +102114,21 @@ graph [
     source 2857
     target 7650
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 1887
   ]
   edge [
     source 2861
     target 8037
     key 0
-    weight 8763.304500000007
+    weight 8763.3045
     token_id 1941
   ]
   edge [
     source 2868
     target 5631
     key 0
-    weight 2920.8465
+    weight 2920.846500000001
     token_id 1351
   ]
   edge [
@@ -102156,35 +102156,35 @@ graph [
     source 2870
     target 7573
     key 0
-    weight 3140.5176000000006
+    weight 3140.5176000000074
     token_id 1645
   ]
   edge [
     source 2872
     target 6521
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 4895
   ]
   edge [
     source 2875
     target 7482
     key 0
-    weight 3615.6800000000017
+    weight 3615.6800000000003
     token_id 4899
   ]
   edge [
     source 2876
     target 5295
     key 0
-    weight 3436.2900000000004
+    weight 3436.2900000000013
     token_id 4900
   ]
   edge [
     source 2876
     target 7629
     key 0
-    weight 7137.540000000001
+    weight 7137.540000000017
     token_id 4901
   ]
   edge [
@@ -102233,14 +102233,14 @@ graph [
     source 2882
     target 7829
     key 0
-    weight 9210.061200000007
+    weight 9210.0612
     token_id 2715
   ]
   edge [
     source 2882
     target 7617
     key 0
-    weight 7633.696400000019
+    weight 7633.696400000005
     token_id 4040
   ]
   edge [
@@ -102254,7 +102254,7 @@ graph [
     source 2883
     target 6420
     key 0
-    weight 3025.9870899999996
+    weight 3025.987090000001
     token_id 4917
   ]
   edge [
@@ -102268,7 +102268,7 @@ graph [
     source 2885
     target 5189
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 4921
   ]
   edge [
@@ -102331,21 +102331,21 @@ graph [
     source 2897
     target 5995
     key 0
-    weight 3781.6329099999994
+    weight 3781.6329100000007
     token_id 6225
   ]
   edge [
     source 2901
     target 7586
     key 0
-    weight 3211.8930000000005
+    weight 3211.8930000000078
     token_id 3862
   ]
   edge [
     source 2902
     target 4509
     key 0
-    weight 35687.700000000004
+    weight 35687.700000000084
     token_id 4943
   ]
   edge [
@@ -102373,7 +102373,7 @@ graph [
     source 2911
     target 3259
     key 0
-    weight 3097.4671
+    weight 3097.4671000000008
     token_id 5185
   ]
   edge [
@@ -102387,14 +102387,14 @@ graph [
     source 2911
     target 4789
     key 0
-    weight 3608.1045000000004
+    weight 3608.1045000000017
     token_id 4962
   ]
   edge [
     source 2915
     target 7681
     key 0
-    weight 10085.961000000003
+    weight 10085.961
     token_id 4966
   ]
   edge [
@@ -102422,21 +102422,21 @@ graph [
     source 2918
     target 6173
     key 0
-    weight 3710.1528999999996
+    weight 3710.1529000000014
     token_id 4975
   ]
   edge [
     source 2918
     target 1054
     key 0
-    weight 3642.0766999999996
+    weight 3642.076700000001
     token_id 6323
   ]
   edge [
     source 2918
     target 6423
     key 0
-    weight 3131.5051999999996
+    weight 3131.505200000001
     token_id 6324
   ]
   edge [
@@ -102464,21 +102464,21 @@ graph [
     source 2921
     target 7205
     key 0
-    weight 2920.8465
+    weight 2920.846500000001
     token_id 8440
   ]
   edge [
     source 2922
     target 5978
     key 0
-    weight 3400.4061899999997
+    weight 3400.406190000001
     token_id 4985
   ]
   edge [
     source 2922
     target 6353
     key 0
-    weight 3097.4671
+    weight 3097.4671000000008
     token_id 4986
   ]
   edge [
@@ -102492,7 +102492,7 @@ graph [
     source 2924
     target 8472
     key 0
-    weight 6464.682000000002
+    weight 6464.682000000001
     token_id 5850
   ]
   edge [
@@ -102506,14 +102506,14 @@ graph [
     source 2938
     target 7437
     key 0
-    weight 3037.171200000001
+    weight 3037.1712
     token_id 5028
   ]
   edge [
     source 2938
     target 7427
     key 0
-    weight 35.68770000000001
+    weight 35.687700000000085
     token_id 5029
   ]
   edge [
@@ -102534,14 +102534,14 @@ graph [
     source 2943
     target 7588
     key 0
-    weight 3033.4545000000003
+    weight 3033.454500000007
     token_id 5042
   ]
   edge [
     source 2943
     target 5437
     key 0
-    weight 12915.356000000003
+    weight 12915.356
     token_id 5041
   ]
   edge [
@@ -102555,14 +102555,14 @@ graph [
     source 2947
     target 395
     key 0
-    weight 7696.050000000001
+    weight 7696.05
     token_id 5052
   ]
   edge [
     source 2948
     target 6439
     key 0
-    weight 2995.3527999999997
+    weight 2995.3528000000006
     token_id 5054
   ]
   edge [
@@ -102583,14 +102583,14 @@ graph [
     source 2952
     target 620
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 5060
   ]
   edge [
     source 2955
     target 7690
     key 0
-    weight 3458.1381300000003
+    weight 3458.1381300000085
     token_id 5063
   ]
   edge [
@@ -102604,21 +102604,21 @@ graph [
     source 2958
     target 6054
     key 0
-    weight 4050.533899999999
+    weight 4050.533900000001
     token_id 5140
   ]
   edge [
     source 2959
     target 6260
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 5069
   ]
   edge [
     source 2959
     target 6276
     key 0
-    weight 3505.9242999999997
+    weight 3505.924300000001
     token_id 5068
   ]
   edge [
@@ -102667,14 +102667,14 @@ graph [
     source 2970
     target 7191
     key 0
-    weight 2439.7659000000003
+    weight 2439.765900000001
     token_id 6884
   ]
   edge [
     source 2972
     target 5930
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 3012
   ]
   edge [
@@ -102688,7 +102688,7 @@ graph [
     source 2976
     target 4457
     key 0
-    weight 9530.667999999998
+    weight 9530.668000000001
     token_id 5092
   ]
   edge [
@@ -102709,49 +102709,49 @@ graph [
     source 2977
     target 8115
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 5095
   ]
   edge [
     source 2979
     target 2839
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 5100
   ]
   edge [
     source 2980
     target 7654
     key 0
-    weight 3390.3315000000002
+    weight 3390.331500000008
     token_id 5104
   ]
   edge [
     source 2981
     target 7420
     key 0
-    weight 2928.7008000000014
+    weight 2928.7008000000005
     token_id 7859
   ]
   edge [
     source 2981
     target 669
     key 0
-    weight 8029.732500000001
+    weight 8029.732500000019
     token_id 7860
   ]
   edge [
     source 2981
     target 4789
     key 0
-    weight 12715.38300000001
+    weight 12715.383000000002
     token_id 7858
   ]
   edge [
     source 2982
     target 5897
     key 0
-    weight 3199.581399999999
+    weight 3199.5814000000005
     token_id 5106
   ]
   edge [
@@ -102786,21 +102786,21 @@ graph [
     source 2986
     target 5738
     key 0
-    weight 3615.6800000000017
+    weight 3615.6800000000003
     token_id 5113
   ]
   edge [
     source 2987
     target 3634
     key 0
-    weight 25309.760000000013
+    weight 25309.760000000002
     token_id 5116
   ]
   edge [
     source 2987
     target 7568
     key 0
-    weight 7851.294000000002
+    weight 7851.29400000002
     token_id 5118
   ]
   edge [
@@ -102877,28 +102877,28 @@ graph [
     source 2992
     target 7172
     key 0
-    weight 3436.2900000000004
+    weight 3436.2900000000013
     token_id 3079
   ]
   edge [
     source 2992
     target 302
     key 0
-    weight 5387.3632000000025
+    weight 5387.363200000001
     token_id 2830
   ]
   edge [
     source 2992
     target 4199
     key 0
-    weight 3386.7627300000004
+    weight 3386.762730000008
     token_id 3381
   ]
   edge [
     source 2992
     target 7652
     key 0
-    weight 3354.6438000000003
+    weight 3354.643800000008
     token_id 2512
   ]
   edge [
@@ -102933,14 +102933,14 @@ graph [
     source 2999
     target 620
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 5129
   ]
   edge [
     source 2999
     target 1332
     key 0
-    weight 3768.0176699999993
+    weight 3768.017670000001
     token_id 5127
   ]
   edge [
@@ -102961,14 +102961,14 @@ graph [
     source 3009
     target 6027
     key 0
-    weight 3910.9776899999997
+    weight 3910.977690000001
     token_id 5149
   ]
   edge [
     source 3009
     target 508
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 5150
   ]
   edge [
@@ -102982,42 +102982,42 @@ graph [
     source 3012
     target 5517
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 5153
   ]
   edge [
     source 3017
     target 620
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 5161
   ]
   edge [
     source 3017
     target 5841
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 5162
   ]
   edge [
     source 3017
     target 5938
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 5160
   ]
   edge [
     source 3017
     target 4789
     key 0
-    weight 3028.0293759999995
+    weight 3028.0293760000004
     token_id 6962
   ]
   edge [
     source 3020
     target 4774
     key 0
-    weight 3779.919000000001
+    weight 3779.9190000000017
     token_id 5166
   ]
   edge [
@@ -103031,7 +103031,7 @@ graph [
     source 3024
     target 5121
     key 0
-    weight 5154.435
+    weight 5154.435000000002
     token_id 5172
   ]
   edge [
@@ -103045,7 +103045,7 @@ graph [
     source 3025
     target 7668
     key 0
-    weight 3854.271600000001
+    weight 3854.2716000000096
     token_id 5176
   ]
   edge [
@@ -103066,21 +103066,21 @@ graph [
     source 3033
     target 6514
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 5191
   ]
   edge [
     source 3034
     target 5731
     key 0
-    weight 3710.1528999999996
+    weight 3710.1529000000014
     token_id 5194
   ]
   edge [
     source 3037
     target 5898
     key 0
-    weight 3237.0233099999996
+    weight 3237.0233100000005
     token_id 5203
   ]
   edge [
@@ -103108,28 +103108,28 @@ graph [
     source 3046
     target 479
     key 0
-    weight 4460.962500000001
+    weight 4460.962500000011
     token_id 2824
   ]
   edge [
     source 3047
     target 4205
     key 0
-    weight 3727.1719499999995
+    weight 3727.171950000001
     token_id 2962
   ]
   edge [
     source 3048
     target 1348
     key 0
-    weight 12654.880000000006
+    weight 12654.880000000001
     token_id 5221
   ]
   edge [
     source 3048
     target 7645
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 5220
   ]
   edge [
@@ -103171,7 +103171,7 @@ graph [
     source 3055
     target 8066
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 5235
   ]
   edge [
@@ -103185,7 +103185,7 @@ graph [
     source 3058
     target 7282
     key 0
-    weight 4467.177000000001
+    weight 4467.1770000000015
     token_id 5241
   ]
   edge [
@@ -103234,7 +103234,7 @@ graph [
     source 3062
     target 7927
     key 0
-    weight 10120.757550000008
+    weight 10120.75755
     token_id 5253
   ]
   edge [
@@ -103269,7 +103269,7 @@ graph [
     source 3077
     target 7269
     key 0
-    weight 3195.7497000000008
+    weight 3195.749700000001
     token_id 5283
   ]
   edge [
@@ -103283,21 +103283,21 @@ graph [
     source 3080
     target 6274
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 5289
   ]
   edge [
     source 3080
     target 1332
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 5290
   ]
   edge [
     source 3080
     target 1332
     key 1
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 5291
   ]
   edge [
@@ -103311,21 +103311,21 @@ graph [
     source 3084
     target 348
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 5297
   ]
   edge [
     source 3086
     target 3713
     key 0
-    weight 13746.360000000011
+    weight 13746.36
     token_id 5302
   ]
   edge [
     source 3088
     target 1332
     key 0
-    weight 3819.755582
+    weight 3819.755582000001
     token_id 5306
   ]
   edge [
@@ -103339,14 +103339,14 @@ graph [
     source 3092
     target 5525
     key 0
-    weight 7658.572499999998
+    weight 7658.572500000002
     token_id 5316
   ]
   edge [
     source 3092
     target 8072
     key 0
-    weight 9450.622500000009
+    weight 9450.622500000001
     token_id 6022
   ]
   edge [
@@ -103374,28 +103374,28 @@ graph [
     source 3104
     target 7602
     key 0
-    weight 3529.51353
+    weight 3529.5135300000084
     token_id 3833
   ]
   edge [
     source 3104
     target 7616
     key 0
-    weight 3529.51353
+    weight 3529.5135300000084
     token_id 6886
   ]
   edge [
     source 3104
     target 8081
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 5344
   ]
   edge [
     source 3104
     target 8043
     key 0
-    weight 17145.147510000013
+    weight 17145.14751
     token_id 893
   ]
   edge [
@@ -103409,7 +103409,7 @@ graph [
     source 3107
     target 8101
     key 0
-    weight 9622.452000000007
+    weight 9622.452
     token_id 5349
   ]
   edge [
@@ -103423,7 +103423,7 @@ graph [
     source 3112
     target 6429
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 5362
   ]
   edge [
@@ -103437,14 +103437,14 @@ graph [
     source 3113
     target 6390
     key 0
-    weight 2893.2384999999995
+    weight 2893.238500000001
     token_id 5364
   ]
   edge [
     source 3116
     target 6596
     key 0
-    weight 3880.3433999999993
+    weight 3880.3434000000007
     token_id 5369
   ]
   edge [
@@ -103458,7 +103458,7 @@ graph [
     source 3121
     target 1332
     key 0
-    weight 3437.8480999999997
+    weight 3437.848100000001
     token_id 1417
   ]
   edge [
@@ -103472,35 +103472,35 @@ graph [
     source 3121
     target 7192
     key 0
-    weight 3092.6610000000005
+    weight 3092.6610000000014
     token_id 5963
   ]
   edge [
     source 3124
     target 7440
     key 0
-    weight 3579.5232000000015
+    weight 3579.5232
     token_id 5380
   ]
   edge [
     source 3125
     target 7196
     key 0
-    weight 2749.0320000000006
+    weight 2749.032000000001
     token_id 2343
   ]
   edge [
     source 3125
     target 7317
     key 0
-    weight 2745.5957100000005
+    weight 2745.5957100000014
     token_id 8753
   ]
   edge [
     source 3125
     target 7464
     key 0
-    weight 2849.1558400000013
+    weight 2849.1558400000004
     token_id 8857
   ]
   edge [
@@ -103514,21 +103514,21 @@ graph [
     source 3127
     target 1332
     key 0
-    weight 2995.3527999999997
+    weight 2995.3528000000006
     token_id 5385
   ]
   edge [
     source 3133
     target 4205
     key 0
-    weight 3114.4861499999997
+    weight 3114.486150000001
     token_id 5394
   ]
   edge [
     source 3133
     target 5039
     key 0
-    weight 3063.0886189999997
+    weight 3063.088619000001
     token_id 5396
   ]
   edge [
@@ -103542,7 +103542,7 @@ graph [
     source 3135
     target 6348
     key 0
-    weight 3100.8709099999996
+    weight 3100.870910000001
     token_id 5398
   ]
   edge [
@@ -103556,14 +103556,14 @@ graph [
     source 3135
     target 8532
     key 0
-    weight 18926.520000000048
+    weight 18926.520000000015
     token_id 5399
   ]
   edge [
     source 3136
     target 1348
     key 0
-    weight 6807.619999999999
+    weight 6807.620000000002
     token_id 4483
   ]
   edge [
@@ -103577,7 +103577,7 @@ graph [
     source 3139
     target 6053
     key 0
-    weight 4356.876799999999
+    weight 4356.876800000001
     token_id 1438
   ]
   edge [
@@ -103591,14 +103591,14 @@ graph [
     source 3142
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 5403
   ]
   edge [
     source 3147
     target 8199
     key 0
-    weight 10993.65141000001
+    weight 10993.65141
     token_id 2326
   ]
   edge [
@@ -103626,35 +103626,35 @@ graph [
     source 3152
     target 6320
     key 0
-    weight 3267.6575999999995
+    weight 3267.657600000001
     token_id 4905
   ]
   edge [
     source 3152
     target 6675
     key 0
-    weight 4765.333999999999
+    weight 4765.334000000001
     token_id 2657
   ]
   edge [
     source 3152
     target 8046
     key 0
-    weight 9794.281500000008
+    weight 9794.281500000001
     token_id 7196
   ]
   edge [
     source 3153
     target 1332
     key 0
-    weight 3638.6728899999994
+    weight 3638.6728900000007
     token_id 2921
   ]
   edge [
     source 3154
     target 6449
     key 0
-    weight 3025.9870899999996
+    weight 3025.987090000001
     token_id 4814
   ]
   edge [
@@ -103696,21 +103696,21 @@ graph [
     source 3163
     target 467
     key 0
-    weight 2855.0160000000005
+    weight 2855.016000000007
     token_id 6247
   ]
   edge [
     source 3165
     target 185
     key 0
-    weight 9278.793000000009
+    weight 9278.793000000001
     token_id 5429
   ]
   edge [
     source 3166
     target 1478
     key 0
-    weight 3907.573879999999
+    weight 3907.573880000001
     token_id 1982
   ]
   edge [
@@ -103745,14 +103745,14 @@ graph [
     source 3171
     target 620
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 5433
   ]
   edge [
     source 3171
     target 6190
     key 0
-    weight 3536.558589999999
+    weight 3536.5585900000005
     token_id 5434
   ]
   edge [
@@ -103773,28 +103773,28 @@ graph [
     source 3174
     target 6450
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 5439
   ]
   edge [
     source 3177
     target 8448
     key 0
-    weight 5845.919580000001
+    weight 5845.91958
     token_id 1414
   ]
   edge [
     source 3177
     target 8256
     key 0
-    weight 7234.287000000001
+    weight 7234.287
     token_id 2659
   ]
   edge [
     source 3178
     target 620
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 5446
   ]
   edge [
@@ -103899,21 +103899,21 @@ graph [
     source 3189
     target 6131
     key 0
-    weight 4387.511089999999
+    weight 4387.511090000001
     token_id 901
   ]
   edge [
     source 3189
     target 6127
     key 0
-    weight 3740.7871899999996
+    weight 3740.787190000001
     token_id 5633
   ]
   edge [
     source 3189
     target 3073
     key 0
-    weight 3230.2156899999995
+    weight 3230.2156900000004
     token_id 3379
   ]
   edge [
@@ -103927,7 +103927,7 @@ graph [
     source 3191
     target 6508
     key 0
-    weight 2961.3146999999994
+    weight 2961.314700000001
     token_id 5462
   ]
   edge [
@@ -103941,7 +103941,7 @@ graph [
     source 3196
     target 6416
     key 0
-    weight 3097.4671
+    weight 3097.4671000000008
     token_id 5469
   ]
   edge [
@@ -103997,7 +103997,7 @@ graph [
     source 3204
     target 4024
     key 0
-    weight 13746.360000000011
+    weight 13746.36
     token_id 5486
   ]
   edge [
@@ -104025,28 +104025,28 @@ graph [
     source 3210
     target 5983
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 5499
   ]
   edge [
     source 3212
     target 5355
     key 0
-    weight 3124.6975799999996
+    weight 3124.697580000001
     token_id 5504
   ]
   edge [
     source 3216
     target 7445
     key 0
-    weight 2711.760000000001
+    weight 2711.76
     token_id 5511
   ]
   edge [
     source 3218
     target 7461
     key 0
-    weight 2675.6032000000014
+    weight 2675.6032
     token_id 5515
   ]
   edge [
@@ -104074,7 +104074,7 @@ graph [
     source 3223
     target 3481
     key 0
-    weight 10847.040000000005
+    weight 10847.04
     token_id 5524
   ]
   edge [
@@ -104088,14 +104088,14 @@ graph [
     source 3226
     target 326
     key 0
-    weight 10825.258500000009
+    weight 10825.2585
     token_id 5529
   ]
   edge [
     source 3227
     target 6379
     key 0
-    weight 8921.925000000001
+    weight 8921.925000000021
     token_id 5530
   ]
   edge [
@@ -104116,14 +104116,14 @@ graph [
     source 3232
     target 4025
     key 0
-    weight 3539.9623999999994
+    weight 3539.962400000001
     token_id 5539
   ]
   edge [
     source 3233
     target 2826
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 5542
   ]
   edge [
@@ -104151,7 +104151,7 @@ graph [
     source 3237
     target 5400
     key 0
-    weight 3192.7737799999995
+    weight 3192.7737800000004
     token_id 5550
   ]
   edge [
@@ -104165,7 +104165,7 @@ graph [
     source 3240
     target 6403
     key 0
-    weight 3131.5051999999996
+    weight 3131.505200000001
     token_id 5554
   ]
   edge [
@@ -104221,7 +104221,7 @@ graph [
     source 3249
     target 1019
     key 0
-    weight 8316.064000000004
+    weight 8316.064
     token_id 5572
   ]
   edge [
@@ -104235,14 +104235,14 @@ graph [
     source 3251
     target 7028
     key 0
-    weight 12024.62841000001
+    weight 12024.628410000001
     token_id 983
   ]
   edge [
     source 3251
     target 7512
     key 0
-    weight 25087.10700000002
+    weight 25087.107
     token_id 1112
   ]
   edge [
@@ -104263,14 +104263,14 @@ graph [
     source 3254
     target 5960
     key 0
-    weight 3400.4061899999997
+    weight 3400.406190000001
     token_id 5584
   ]
   edge [
     source 3255
     target 31
     key 0
-    weight 12586.135800000031
+    weight 12586.135800000011
     token_id 5587
   ]
   edge [
@@ -104326,14 +104326,14 @@ graph [
     source 3268
     target 7263
     key 0
-    weight 6838.217100000001
+    weight 6838.217100000003
     token_id 5608
   ]
   edge [
     source 3268
     target 1659
     key 0
-    weight 5317.4673
+    weight 5317.467300000013
     token_id 1047
   ]
   edge [
@@ -104347,7 +104347,7 @@ graph [
     source 3278
     target 7674
     key 0
-    weight 7137.540000000001
+    weight 7137.540000000017
     token_id 5620
   ]
   edge [
@@ -104361,28 +104361,28 @@ graph [
     source 3279
     target 6147
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 4843
   ]
   edge [
     source 3279
     target 6150
     key 0
-    weight 3914.381499999999
+    weight 3914.381500000001
     token_id 5377
   ]
   edge [
     source 3279
     target 6206
     key 0
-    weight 3556.9814499999993
+    weight 3556.9814500000007
     token_id 8763
   ]
   edge [
     source 3279
     target 164
     key 0
-    weight 3556.9814499999993
+    weight 3556.9814500000007
     token_id 4844
   ]
   edge [
@@ -104396,21 +104396,21 @@ graph [
     source 3281
     target 6446
     key 0
-    weight 3039.6023299999997
+    weight 3039.6023300000006
     token_id 5628
   ]
   edge [
     source 3282
     target 3708
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 5629
   ]
   edge [
     source 3283
     target 5295
     key 0
-    weight 8288.463000000003
+    weight 8288.463
     token_id 5630
   ]
   edge [
@@ -104431,21 +104431,21 @@ graph [
     source 3288
     target 7809
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 5642
   ]
   edge [
     source 3288
     target 8186
     key 0
-    weight 10653.42900000001
+    weight 10653.429
     token_id 5641
   ]
   edge [
     source 3290
     target 6577
     key 0
-    weight 4050.533899999999
+    weight 4050.533900000001
     token_id 5645
   ]
   edge [
@@ -104459,21 +104459,21 @@ graph [
     source 3295
     target 5975
     key 0
-    weight 3570.5966899999994
+    weight 3570.5966900000008
     token_id 5651
   ]
   edge [
     source 3295
     target 5989
     key 0
-    weight 3570.5966899999994
+    weight 3570.5966900000008
     token_id 5649
   ]
   edge [
     source 3295
     target 5991
     key 0
-    weight 3570.5966899999994
+    weight 3570.5966900000008
     token_id 5650
   ]
   edge [
@@ -104522,28 +104522,28 @@ graph [
     source 3303
     target 3199
     key 0
-    weight 10211.429999999998
+    weight 10211.430000000002
     token_id 5665
   ]
   edge [
     source 3304
     target 5885
     key 0
-    weight 4251.018308999999
+    weight 4251.018309000001
     token_id 5666
   ]
   edge [
     source 3304
     target 5683
     key 0
-    weight 4251.018308999999
+    weight 4251.018309000001
     token_id 5667
   ]
   edge [
     source 3304
     target 6040
     key 0
-    weight 4251.018308999999
+    weight 4251.018309000001
     token_id 5668
   ]
   edge [
@@ -104557,7 +104557,7 @@ graph [
     source 3314
     target 1332
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 5685
   ]
   edge [
@@ -104599,14 +104599,14 @@ graph [
     source 3321
     target 8231
     key 0
-    weight 9622.452000000007
+    weight 9622.452
     token_id 5815
   ]
   edge [
     source 3321
     target 8289
     key 0
-    weight 9320.360000000002
+    weight 9320.359999999999
     token_id 6988
   ]
   edge [
@@ -104620,7 +104620,7 @@ graph [
     source 3325
     target 7232
     key 0
-    weight 2705.2710059375
+    weight 2705.271005937501
     token_id 5695
   ]
   edge [
@@ -104641,7 +104641,7 @@ graph [
     source 3330
     target 166
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 5704
   ]
   edge [
@@ -104655,7 +104655,7 @@ graph [
     source 3332
     target 8057
     key 0
-    weight 7560.498000000007
+    weight 7560.4980000000005
     token_id 8766
   ]
   edge [
@@ -104669,14 +104669,14 @@ graph [
     source 3334
     target 8504
     key 0
-    weight 6301.525740000002
+    weight 6301.525740000001
     token_id 5708
   ]
   edge [
     source 3334
     target 7701
     key 0
-    weight 7696.050000000001
+    weight 7696.05
     token_id 5707
   ]
   edge [
@@ -104690,28 +104690,28 @@ graph [
     source 3336
     target 7681
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 4247
   ]
   edge [
     source 3337
     target 6585
     key 0
-    weight 4932.12069
+    weight 4932.120690000002
     token_id 5712
   ]
   edge [
     source 3337
     target 5602
     key 0
-    weight 26702.30430000002
+    weight 26702.3043
     token_id 5711
   ]
   edge [
     source 3337
     target 573
     key 0
-    weight 16868.513000000003
+    weight 16868.513
     token_id 1547
   ]
   edge [
@@ -104746,14 +104746,14 @@ graph [
     source 3342
     target 620
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 2806
   ]
   edge [
     source 3342
     target 6226
     key 0
-    weight 6201.741819999999
+    weight 6201.741820000002
     token_id 822
   ]
   edge [
@@ -104767,14 +104767,14 @@ graph [
     source 3343
     target 5935
     key 0
-    weight 3393.2581889999997
+    weight 3393.258189000001
     token_id 5718
   ]
   edge [
     source 3343
     target 5946
     key 0
-    weight 3393.2581889999997
+    weight 3393.258189000001
     token_id 5719
   ]
   edge [
@@ -104788,21 +104788,21 @@ graph [
     source 3347
     target 6449
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 4703
   ]
   edge [
     source 3347
     target 4644
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 4704
   ]
   edge [
     source 3347
     target 6453
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 4705
   ]
   edge [
@@ -104816,14 +104816,14 @@ graph [
     source 3349
     target 7897
     key 0
-    weight 13537.026276505709
+    weight 13537.026276505698
     token_id 1872
   ]
   edge [
     source 3350
     target 508
     key 0
-    weight 3128.10139
+    weight 3128.1013900000007
     token_id 5722
   ]
   edge [
@@ -104837,7 +104837,7 @@ graph [
     source 3352
     target 5322
     key 0
-    weight 3216.6004499999995
+    weight 3216.600450000001
     token_id 4208
   ]
   edge [
@@ -104858,7 +104858,7 @@ graph [
     source 3353
     target 5879
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 2782
   ]
   edge [
@@ -104872,28 +104872,28 @@ graph [
     source 3359
     target 6229
     key 0
-    weight 5423.520000000002
+    weight 5423.52
     token_id 2414
   ]
   edge [
     source 3359
     target 7580
     key 0
-    weight 4460.962500000001
+    weight 4460.962500000011
     token_id 4786
   ]
   edge [
     source 3360
     target 7375
     key 0
-    weight 2892.5440000000017
+    weight 2892.5440000000003
     token_id 1301
   ]
   edge [
     source 3360
     target 5935
     key 0
-    weight 7457.400300000006
+    weight 7457.4003
     token_id 6746
   ]
   edge [
@@ -104907,7 +104907,7 @@ graph [
     source 3361
     target 4509
     key 0
-    weight 2711.760000000001
+    weight 2711.76
     token_id 1495
   ]
   edge [
@@ -104935,7 +104935,7 @@ graph [
     source 3363
     target 7615
     key 0
-    weight 5103.341100000001
+    weight 5103.341100000012
     token_id 1823
   ]
   edge [
@@ -104949,7 +104949,7 @@ graph [
     source 3364
     target 3552
     key 0
-    weight 10718.414000000004
+    weight 10718.414
     token_id 5733
   ]
   edge [
@@ -104991,7 +104991,7 @@ graph [
     source 3370
     target 6403
     key 0
-    weight 2978.33375
+    weight 2978.3337500000007
     token_id 2529
   ]
   edge [
@@ -105033,7 +105033,7 @@ graph [
     source 3375
     target 6045
     key 0
-    weight 4595.143499999999
+    weight 4595.143500000001
     token_id 5748
   ]
   edge [
@@ -105054,7 +105054,7 @@ graph [
     source 3377
     target 5949
     key 0
-    weight 3615.6800000000017
+    weight 3615.6800000000003
     token_id 5752
   ]
   edge [
@@ -105075,28 +105075,28 @@ graph [
     source 3382
     target 6200
     key 0
-    weight 3591.019549999999
+    weight 3591.019550000001
     token_id 5756
   ]
   edge [
     source 3382
     target 3708
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 5757
   ]
   edge [
     source 3384
     target 569
     key 0
-    weight 3124.6975799999996
+    weight 3124.697580000001
     token_id 5761
   ]
   edge [
     source 3385
     target 3634
     key 0
-    weight 10706.310000000001
+    weight 10706.310000000027
     token_id 4841
   ]
   edge [
@@ -105131,7 +105131,7 @@ graph [
     source 3390
     target 6002
     key 0
-    weight 3743.850619
+    weight 3743.850619000001
     token_id 5087
   ]
   edge [
@@ -105145,21 +105145,21 @@ graph [
     source 3391
     target 357
     key 0
-    weight 3199.581399999999
+    weight 3199.5814000000005
     token_id 5774
   ]
   edge [
     source 3393
     target 6251
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 5777
   ]
   edge [
     source 3393
     target 6262
     key 0
-    weight 3846.305299999999
+    weight 3846.3053000000004
     token_id 5775
   ]
   edge [
@@ -105173,7 +105173,7 @@ graph [
     source 3398
     target 2444
     key 0
-    weight 2783.6406000000006
+    weight 2783.640600000007
     token_id 4276
   ]
   edge [
@@ -105201,28 +105201,28 @@ graph [
     source 3399
     target 641
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 8529
   ]
   edge [
     source 3399
     target 6121
     key 0
-    weight 3706.0683279999994
+    weight 3706.0683280000007
     token_id 7156
   ]
   edge [
     source 3399
     target 6127
     key 0
-    weight 3706.0683279999994
+    weight 3706.0683280000007
     token_id 2439
   ]
   edge [
     source 3399
     target 3176
     key 0
-    weight 3893.958639999999
+    weight 3893.9586400000007
     token_id 1810
   ]
   edge [
@@ -105257,7 +105257,7 @@ graph [
     source 3401
     target 5731
     key 0
-    weight 3471.8861999999995
+    weight 3471.886200000001
     token_id 5782
   ]
   edge [
@@ -105278,21 +105278,21 @@ graph [
     source 3407
     target 2555
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 5792
   ]
   edge [
     source 3408
     target 6522
     key 0
-    weight 3059.344428
+    weight 3059.344428000001
     token_id 5795
   ]
   edge [
     source 3408
     target 7424
     key 0
-    weight 4158.032000000002
+    weight 4158.032
     token_id 6226
   ]
   edge [
@@ -105348,7 +105348,7 @@ graph [
     source 3427
     target 6824
     key 0
-    weight 6156.840000000001
+    weight 6156.84
     token_id 5821
   ]
   edge [
@@ -105369,7 +105369,7 @@ graph [
     source 3430
     target 8284
     key 0
-    weight 8321.750000000004
+    weight 8321.75
     token_id 6535
   ]
   edge [
@@ -105411,7 +105411,7 @@ graph [
     source 3442
     target 7666
     key 0
-    weight 3390.3315000000002
+    weight 3390.331500000008
     token_id 3439
   ]
   edge [
@@ -105439,14 +105439,14 @@ graph [
     source 3442
     target 169
     key 0
-    weight 10651.840000000004
+    weight 10651.84
     token_id 5526
   ]
   edge [
     source 3454
     target 6243
     key 0
-    weight 3740.7871899999996
+    weight 3740.787190000001
     token_id 1071
   ]
   edge [
@@ -105474,7 +105474,7 @@ graph [
     source 3467
     target 5071
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 4970
   ]
   edge [
@@ -105495,7 +105495,7 @@ graph [
     source 3472
     target 7825
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 1451
   ]
   edge [
@@ -105516,14 +105516,14 @@ graph [
     source 3474
     target 7228
     key 0
-    weight 3608.1045000000004
+    weight 3608.1045000000017
     token_id 3567
   ]
   edge [
     source 3474
     target 7624
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 7241
   ]
   edge [
@@ -105558,7 +105558,7 @@ graph [
     source 3480
     target 7927
     key 0
-    weight 10137.94050000001
+    weight 10137.9405
     token_id 833
   ]
   edge [
@@ -105579,7 +105579,7 @@ graph [
     source 3483
     target 7797
     key 0
-    weight 9003.865800000009
+    weight 9003.865800000001
     token_id 5893
   ]
   edge [
@@ -105593,7 +105593,7 @@ graph [
     source 3484
     target 450
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 5896
   ]
   edge [
@@ -105621,7 +105621,7 @@ graph [
     source 3488
     target 6235
     key 0
-    weight 3910.9776899999997
+    weight 3910.977690000001
     token_id 5904
   ]
   edge [
@@ -105635,14 +105635,14 @@ graph [
     source 3490
     target 2761
     key 0
-    weight 3961.334700000001
+    weight 3961.33470000001
     token_id 5907
   ]
   edge [
     source 3494
     target 5926
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 5913
   ]
   edge [
@@ -105670,21 +105670,21 @@ graph [
     source 3507
     target 7306
     key 0
-    weight 4810.8060000000005
+    weight 4810.806000000001
     token_id 2315
   ]
   edge [
     source 3509
     target 6459
     key 0
-    weight 3022.5832799999994
+    weight 3022.5832800000007
     token_id 8656
   ]
   edge [
     source 3509
     target 6509
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 8729
   ]
   edge [
@@ -105705,14 +105705,14 @@ graph [
     source 3514
     target 6371
     key 0
-    weight 3217.9552000000017
+    weight 3217.9552000000003
     token_id 5943
   ]
   edge [
     source 3514
     target 6550
     key 0
-    weight 3217.9552000000017
+    weight 3217.9552000000003
     token_id 5942
   ]
   edge [
@@ -105740,7 +105740,7 @@ graph [
     source 3516
     target 255
     key 0
-    weight 20619.540000000015
+    weight 20619.54
     token_id 8022
   ]
   edge [
@@ -105810,7 +105810,7 @@ graph [
     source 3538
     target 7610
     key 0
-    weight 3176.2053000000005
+    weight 3176.205300000008
     token_id 5981
   ]
   edge [
@@ -105838,35 +105838,35 @@ graph [
     source 3540
     target 6315
     key 0
-    weight 3362.9642799999992
+    weight 3362.9642800000006
     token_id 5983
   ]
   edge [
     source 3540
     target 7927
     key 0
-    weight 9948.928050000008
+    weight 9948.92805
     token_id 5982
   ]
   edge [
     source 3542
     target 3557
     key 0
-    weight 6913.325000000001
+    weight 6913.325
     token_id 2518
   ]
   edge [
     source 3548
     target 7635
     key 0
-    weight 13746.360000000011
+    weight 13746.36
     token_id 5988
   ]
   edge [
     source 3553
     target 6312
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 5991
   ]
   edge [
@@ -105887,7 +105887,7 @@ graph [
     source 3560
     target 6347
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 6002
   ]
   edge [
@@ -105908,14 +105908,14 @@ graph [
     source 3563
     target 5935
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 6012
   ]
   edge [
     source 3563
     target 5935
     key 1
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 5061
   ]
   edge [
@@ -105964,7 +105964,7 @@ graph [
     source 3566
     target 4789
     key 0
-    weight 5530.660000000001
+    weight 5530.66
     token_id 205
   ]
   edge [
@@ -105978,21 +105978,21 @@ graph [
     source 3571
     target 658
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 6023
   ]
   edge [
     source 3572
     target 7531
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 6113
   ]
   edge [
     source 3573
     target 5861
     key 0
-    weight 3165.5433
+    weight 3165.543300000001
     token_id 5855
   ]
   edge [
@@ -106020,14 +106020,14 @@ graph [
     source 3579
     target 7654
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 6033
   ]
   edge [
     source 3580
     target 6738
     key 0
-    weight 2563.1665246542393
+    weight 2563.1665246542398
     token_id 6037
   ]
   edge [
@@ -106062,14 +106062,14 @@ graph [
     source 3587
     target 6128
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 6043
   ]
   edge [
     source 3587
     target 8104
     key 0
-    weight 10653.42900000001
+    weight 10653.429
     token_id 6042
   ]
   edge [
@@ -106083,7 +106083,7 @@ graph [
     source 3592
     target 4553
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 6048
   ]
   edge [
@@ -106097,21 +106097,21 @@ graph [
     source 3594
     target 4330
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 3861
   ]
   edge [
     source 3594
     target 7229
     key 0
-    weight 2714.6691000000005
+    weight 2714.669100000001
     token_id 6338
   ]
   edge [
     source 3594
     target 7379
     key 0
-    weight 17182.950000000015
+    weight 17182.95
     token_id 2808
   ]
   edge [
@@ -106132,7 +106132,7 @@ graph [
     source 3600
     target 508
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 6060
   ]
   edge [
@@ -106146,14 +106146,14 @@ graph [
     source 3601
     target 6080
     key 0
-    weight 4118.610099999999
+    weight 4118.610100000001
     token_id 4949
   ]
   edge [
     source 3601
     target 6335
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 7048
   ]
   edge [
@@ -106181,7 +106181,7 @@ graph [
     source 3609
     target 6422
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 6068
   ]
   edge [
@@ -106209,35 +106209,35 @@ graph [
     source 3621
     target 6379
     key 0
-    weight 3080.4480499999995
+    weight 3080.448050000001
     token_id 6081
   ]
   edge [
     source 3621
     target 6426
     key 0
-    weight 3080.4480499999995
+    weight 3080.448050000001
     token_id 6082
   ]
   edge [
     source 3622
     target 7317
     key 0
-    weight 3435.9463710000005
+    weight 3435.9463710000014
     token_id 6083
   ]
   edge [
     source 3622
     target 6379
     key 0
-    weight 4282.524
+    weight 4282.52400000001
     token_id 6085
   ]
   edge [
     source 3623
     target 7275
     key 0
-    weight 3436.2900000000004
+    weight 3436.2900000000013
     token_id 4166
   ]
   edge [
@@ -106265,56 +106265,56 @@ graph [
     source 3629
     target 1054
     key 0
-    weight 4016.4957999999992
+    weight 4016.4958000000006
     token_id 8345
   ]
   edge [
     source 3632
     target 6323
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 5085
   ]
   edge [
     source 3635
     target 1814
     key 0
-    weight 7148.000999999999
+    weight 7148.001000000002
     token_id 6866
   ]
   edge [
     source 3635
     target 2051
     key 0
-    weight 5718.4007999999985
+    weight 5718.400800000001
     token_id 1843
   ]
   edge [
     source 3636
     target 7318
     key 0
-    weight 2886.4836
+    weight 2886.483600000001
     token_id 6096
   ]
   edge [
     source 3637
     target 3634
     key 0
-    weight 2995.3527999999997
+    weight 2995.3528000000006
     token_id 2752
   ]
   edge [
     source 3637
     target 6432
     key 0
-    weight 2995.3527999999997
+    weight 2995.3528000000006
     token_id 2753
   ]
   edge [
     source 3638
     target 4509
     key 0
-    weight 2711.760000000001
+    weight 2711.76
     token_id 4558
   ]
   edge [
@@ -106370,7 +106370,7 @@ graph [
     source 3650
     target 2847
     key 0
-    weight 3434.8960000000015
+    weight 3434.896
     token_id 6111
   ]
   edge [
@@ -106412,7 +106412,7 @@ graph [
     source 3662
     target 3349
     key 0
-    weight 17182.950000000015
+    weight 17182.95
     token_id 6124
   ]
   edge [
@@ -106426,21 +106426,21 @@ graph [
     source 3665
     target 6043
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 6126
   ]
   edge [
     source 3668
     target 6679
     key 0
-    weight 24056.13000000002
+    weight 24056.13
     token_id 5714
   ]
   edge [
     source 3669
     target 6475
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 6128
   ]
   edge [
@@ -106468,7 +106468,7 @@ graph [
     source 3678
     target 7629
     key 0
-    weight 10706.310000000001
+    weight 10706.310000000027
     token_id 4308
   ]
   edge [
@@ -106496,21 +106496,21 @@ graph [
     source 3678
     target 2821
     key 0
-    weight 9244.427100000008
+    weight 9244.4271
     token_id 1969
   ]
   edge [
     source 3678
     target 7927
     key 0
-    weight 9931.74510000001
+    weight 9931.7451
     token_id 2833
   ]
   edge [
     source 3678
     target 8170
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 6536
   ]
   edge [
@@ -106538,14 +106538,14 @@ graph [
     source 3685
     target 6232
     key 0
-    weight 10137.94050000001
+    weight 10137.9405
     token_id 6154
   ]
   edge [
     source 3687
     target 7529
     key 0
-    weight 8849.056000000002
+    weight 8849.056
     token_id 5857
   ]
   edge [
@@ -106573,14 +106573,14 @@ graph [
     source 3700
     target 5970
     key 0
-    weight 3033.4545000000003
+    weight 3033.454500000007
     token_id 1939
   ]
   edge [
     source 3701
     target 6602
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 5797
   ]
   edge [
@@ -106594,7 +106594,7 @@ graph [
     source 3704
     target 1332
     key 0
-    weight 3880.3433999999993
+    weight 3880.3434000000007
     token_id 5671
   ]
   edge [
@@ -106608,7 +106608,7 @@ graph [
     source 3707
     target 6055
     key 0
-    weight 3608.0386
+    weight 3608.038600000001
     token_id 6389
   ]
   edge [
@@ -106650,14 +106650,14 @@ graph [
     source 3711
     target 1084
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 6747
   ]
   edge [
     source 3711
     target 7704
     key 0
-    weight 4603.7133
+    weight 4603.713300000011
     token_id 6478
   ]
   edge [
@@ -106713,28 +106713,28 @@ graph [
     source 3711
     target 4179
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 2301
   ]
   edge [
     source 3711
     target 5703
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 8279
   ]
   edge [
     source 3712
     target 6534
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 6181
   ]
   edge [
     source 3713
     target 6644
     key 0
-    weight 5786.476999999999
+    weight 5786.477000000002
     token_id 1587
   ]
   edge [
@@ -106776,7 +106776,7 @@ graph [
     source 3718
     target 2308
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 6192
   ]
   edge [
@@ -106797,28 +106797,28 @@ graph [
     source 3725
     target 6436
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 6427
   ]
   edge [
     source 3725
     target 5518
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 4663
   ]
   edge [
     source 3725
     target 6080
     key 0
-    weight 4639.401000000001
+    weight 4639.401000000012
     token_id 883
   ]
   edge [
     source 3726
     target 7381
     key 0
-    weight 3334.3206472379316
+    weight 3334.32064723793
     token_id 3461
   ]
   edge [
@@ -106839,14 +106839,14 @@ graph [
     source 3728
     target 6292
     key 0
-    weight 3570.5966899999994
+    weight 3570.5966900000008
     token_id 5992
   ]
   edge [
     source 3728
     target 6594
     key 0
-    weight 6773.581899999999
+    weight 6773.581900000002
     token_id 1107
   ]
   edge [
@@ -106874,28 +106874,28 @@ graph [
     source 3732
     target 5885
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 4953
   ]
   edge [
     source 3735
     target 54
     key 0
-    weight 4700.384000000003
+    weight 4700.384000000001
     token_id 5265
   ]
   edge [
     source 3735
     target 5474
     key 0
-    weight 3145.6416000000013
+    weight 3145.6416000000004
     token_id 5281
   ]
   edge [
     source 3735
     target 7547
     key 0
-    weight 2962.0791000000004
+    weight 2962.079100000007
     token_id 4414
   ]
   edge [
@@ -106930,7 +106930,7 @@ graph [
     source 3745
     target 2529
     key 0
-    weight 3567.1928799999996
+    weight 3567.192880000001
     token_id 5169
   ]
   edge [
@@ -106951,42 +106951,42 @@ graph [
     source 3748
     target 7339
     key 0
-    weight 3092.6610000000005
+    weight 3092.6610000000014
     token_id 2418
   ]
   edge [
     source 3749
     target 5679
     key 0
-    weight 2850.4025550000006
+    weight 2850.402555000001
     token_id 2256
   ]
   edge [
     source 3749
     target 7464
     key 0
-    weight 2887.1204800000014
+    weight 2887.12048
     token_id 6949
   ]
   edge [
     source 3749
     target 7592
     key 0
-    weight 3475.9819800000005
+    weight 3475.981980000008
     token_id 1010
   ]
   edge [
     source 3749
     target 7596
     key 0
-    weight 3379.62519
+    weight 3379.625190000008
     token_id 6763
   ]
   edge [
     source 3749
     target 7608
     key 0
-    weight 3072.7109700000005
+    weight 3072.7109700000074
     token_id 1180
   ]
   edge [
@@ -107000,14 +107000,14 @@ graph [
     source 3754
     target 155
     key 0
-    weight 5256.346226911418
+    weight 5256.34622691143
     token_id 3807
   ]
   edge [
     source 3757
     target 2453
     key 0
-    weight 5105.714999999999
+    weight 5105.715000000001
     token_id 3352
   ]
   edge [
@@ -107021,7 +107021,7 @@ graph [
     source 3758
     target 1054
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 5918
   ]
   edge [
@@ -107070,7 +107070,7 @@ graph [
     source 3766
     target 5947
     key 0
-    weight 11340.747000000008
+    weight 11340.747
     token_id 8869
   ]
   edge [
@@ -107091,7 +107091,7 @@ graph [
     source 3769
     target 5645
     key 0
-    weight 20619.540000000015
+    weight 20619.54
     token_id 6229
   ]
   edge [
@@ -107133,7 +107133,7 @@ graph [
     source 3776
     target 514
     key 0
-    weight 4338.816000000002
+    weight 4338.816
     token_id 6245
   ]
   edge [
@@ -107182,7 +107182,7 @@ graph [
     source 3778
     target 6295
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 6248
   ]
   edge [
@@ -107203,14 +107203,14 @@ graph [
     source 3785
     target 679
     key 0
-    weight 5105.714999999999
+    weight 5105.715000000001
     token_id 6254
   ]
   edge [
     source 3786
     target 3125
     key 0
-    weight 2350.1920000000014
+    weight 2350.1920000000005
     token_id 8637
   ]
   edge [
@@ -107266,7 +107266,7 @@ graph [
     source 3805
     target 538
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 1430
   ]
   edge [
@@ -107287,7 +107287,7 @@ graph [
     source 3811
     target 6465
     key 0
-    weight 3022.5832799999994
+    weight 3022.5832800000007
     token_id 4258
   ]
   edge [
@@ -107315,7 +107315,7 @@ graph [
     source 3823
     target 4149
     key 0
-    weight 3925.647000000001
+    weight 3925.64700000001
     token_id 1297
   ]
   edge [
@@ -107329,7 +107329,7 @@ graph [
     source 3827
     target 7264
     key 0
-    weight 2714.6691000000005
+    weight 2714.669100000001
     token_id 2676
   ]
   edge [
@@ -107343,28 +107343,28 @@ graph [
     source 3832
     target 8275
     key 0
-    weight 8055.454000000002
+    weight 8055.454
     token_id 1799
   ]
   edge [
     source 3833
     target 6012
     key 0
-    weight 3914.381499999999
+    weight 3914.381500000001
     token_id 3536
   ]
   edge [
     source 3834
     target 6461
     key 0
-    weight 3615.6800000000017
+    weight 3615.6800000000003
     token_id 6293
   ]
   edge [
     source 3834
     target 8152
     key 0
-    weight 9794.281500000008
+    weight 9794.281500000001
     token_id 8132
   ]
   edge [
@@ -107378,7 +107378,7 @@ graph [
     source 3836
     target 6452
     key 0
-    weight 3029.0505189999994
+    weight 3029.050519000001
     token_id 6294
   ]
   edge [
@@ -107392,7 +107392,7 @@ graph [
     source 3840
     target 7268
     key 0
-    weight 3092.6610000000005
+    weight 3092.6610000000014
     token_id 3870
   ]
   edge [
@@ -107427,7 +107427,7 @@ graph [
     source 3843
     target 4509
     key 0
-    weight 2711.760000000001
+    weight 2711.76
     token_id 6304
   ]
   edge [
@@ -107462,49 +107462,49 @@ graph [
     source 3848
     target 6054
     key 0
-    weight 4319.434889999999
+    weight 4319.43489
     token_id 2675
   ]
   edge [
     source 3853
     target 6049
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 6345
   ]
   edge [
     source 3853
     target 508
     key 0
-    weight 3165.5433
+    weight 3165.543300000001
     token_id 6344
   ]
   edge [
     source 3853
     target 5373
     key 0
-    weight 3097.4671
+    weight 3097.4671000000008
     token_id 6343
   ]
   edge [
     source 3855
     target 324
     key 0
-    weight 13746.360000000011
+    weight 13746.36
     token_id 6325
   ]
   edge [
     source 3858
     target 6209
     key 0
-    weight 3608.0386
+    weight 3608.038600000001
     token_id 5075
   ]
   edge [
     source 3864
     target 7512
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 6342
   ]
   edge [
@@ -107518,14 +107518,14 @@ graph [
     source 3866
     target 7516
     key 0
-    weight 2854.6591230000004
+    weight 2854.659123000007
     token_id 1689
   ]
   edge [
     source 3868
     target 7178
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 6351
   ]
   edge [
@@ -107588,21 +107588,21 @@ graph [
     source 3892
     target 5970
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 6375
   ]
   edge [
     source 3895
     target 7921
     key 0
-    weight 9794.281500000008
+    weight 9794.281500000001
     token_id 5985
   ]
   edge [
     source 3896
     target 7333
     key 0
-    weight 4638.991500000001
+    weight 4638.991500000002
     token_id 2172
   ]
   edge [
@@ -107623,7 +107623,7 @@ graph [
     source 3900
     target 6080
     key 0
-    weight 3710.1528999999996
+    weight 3710.1529000000014
     token_id 1894
   ]
   edge [
@@ -107637,7 +107637,7 @@ graph [
     source 3902
     target 7500
     key 0
-    weight 6508.224000000003
+    weight 6508.224000000001
     token_id 6383
   ]
   edge [
@@ -107742,14 +107742,14 @@ graph [
     source 3922
     target 8205
     key 0
-    weight 13090.843000000033
+    weight 13090.843000000012
     token_id 4240
   ]
   edge [
     source 3925
     target 8302
     key 0
-    weight 8321.750000000004
+    weight 8321.75
     token_id 6418
   ]
   edge [
@@ -107763,28 +107763,28 @@ graph [
     source 3925
     target 7733
     key 0
-    weight 6332.605700000001
+    weight 6332.6057
     token_id 6419
   ]
   edge [
     source 3925
     target 4415
     key 0
-    weight 6885.671700000002
+    weight 6885.671700000001
     token_id 6964
   ]
   edge [
     source 3925
     target 7307
     key 0
-    weight 10743.685800000003
+    weight 10743.685800000001
     token_id 5731
   ]
   edge [
     source 3926
     target 6059
     key 0
-    weight 3022.5832799999994
+    weight 3022.5832800000007
     token_id 6421
   ]
   edge [
@@ -107812,14 +107812,14 @@ graph [
     source 3928
     target 6214
     key 0
-    weight 3710.1528999999996
+    weight 3710.1529000000014
     token_id 6434
   ]
   edge [
     source 3928
     target 508
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 3037
   ]
   edge [
@@ -107875,28 +107875,28 @@ graph [
     source 3940
     target 620
     key 0
-    weight 3301.6956999999993
+    weight 3301.6957000000007
     token_id 8687
   ]
   edge [
     source 3940
     target 5448
     key 0
-    weight 3301.6956999999993
+    weight 3301.6957000000007
     token_id 8739
   ]
   edge [
     source 3940
     target 508
     key 0
-    weight 3301.6956999999993
+    weight 3301.6957000000007
     token_id 8686
   ]
   edge [
     source 3940
     target 5916
     key 0
-    weight 3301.3553189999993
+    weight 3301.3553190000007
     token_id 8685
   ]
   edge [
@@ -107917,7 +107917,7 @@ graph [
     source 3949
     target 5935
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 1615
   ]
   edge [
@@ -107938,7 +107938,7 @@ graph [
     source 3952
     target 7309
     key 0
-    weight 2560.03605
+    weight 2560.036050000001
     token_id 6463
   ]
   edge [
@@ -107973,14 +107973,14 @@ graph [
     source 3960
     target 6054
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 6473
   ]
   edge [
     source 3960
     target 6185
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 6472
   ]
   edge [
@@ -108001,14 +108001,14 @@ graph [
     source 3963
     target 6975
     key 0
-    weight 6926.4450000000015
+    weight 6926.445
     token_id 3603
   ]
   edge [
     source 3963
     target 930
     key 0
-    weight 6926.4450000000015
+    weight 6926.445
     token_id 7784
   ]
   edge [
@@ -108036,14 +108036,14 @@ graph [
     source 3968
     target 6054
     key 0
-    weight 4254.762499999999
+    weight 4254.762500000001
     token_id 6481
   ]
   edge [
     source 3968
     target 7213
     key 0
-    weight 2542.510971
+    weight 2542.510971000001
     token_id 6482
   ]
   edge [
@@ -108064,28 +108064,28 @@ graph [
     source 3972
     target 6369
     key 0
-    weight 3086.234526999999
+    weight 3086.2345270000005
     token_id 6491
   ]
   edge [
     source 3972
     target 6372
     key 0
-    weight 3086.234526999999
+    weight 3086.2345270000005
     token_id 6489
   ]
   edge [
     source 3973
     target 8280
     key 0
-    weight 19140.025000000005
+    weight 19140.024999999998
     token_id 6492
   ]
   edge [
     source 3974
     target 606
     key 0
-    weight 2780.457920000001
+    weight 2780.4579200000003
     token_id 6493
   ]
   edge [
@@ -108099,7 +108099,7 @@ graph [
     source 3976
     target 6606
     key 0
-    weight 3703.3452799999995
+    weight 3703.3452800000014
     token_id 6496
   ]
   edge [
@@ -108120,7 +108120,7 @@ graph [
     source 3981
     target 508
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 6511
   ]
   edge [
@@ -108162,7 +108162,7 @@ graph [
     source 3986
     target 203
     key 0
-    weight 6464.682000000002
+    weight 6464.682000000001
     token_id 5846
   ]
   edge [
@@ -108176,14 +108176,14 @@ graph [
     source 3991
     target 5540
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 6522
   ]
   edge [
     source 3993
     target 6635
     key 0
-    weight 5752.438899999999
+    weight 5752.438900000001
     token_id 3119
   ]
   edge [
@@ -108197,42 +108197,42 @@ graph [
     source 3994
     target 6367
     key 0
-    weight 3131.5051999999996
+    weight 3131.505200000001
     token_id 6526
   ]
   edge [
     source 3998
     target 2641
     key 0
-    weight 6807.619999999999
+    weight 6807.620000000002
     token_id 1120
   ]
   edge [
     source 3998
     target 6449
     key 0
-    weight 3354.6438000000003
+    weight 3354.643800000008
     token_id 6059
   ]
   edge [
     source 3998
     target 7636
     key 0
-    weight 3354.6438000000003
+    weight 3354.643800000008
     token_id 1873
   ]
   edge [
     source 4000
     target 7063
     key 0
-    weight 5419.904320000003
+    weight 5419.904320000001
     token_id 3251
   ]
   edge [
     source 4003
     target 6513
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 5678
   ]
   edge [
@@ -108253,14 +108253,14 @@ graph [
     source 4008
     target 6475
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 6594
   ]
   edge [
     source 4008
     target 54
     key 0
-    weight 3951.7335000000003
+    weight 3951.733500000001
     token_id 7008
   ]
   edge [
@@ -108288,14 +108288,14 @@ graph [
     source 4013
     target 587
     key 0
-    weight 9187.212000000003
+    weight 9187.212
     token_id 7428
   ]
   edge [
     source 4013
     target 7775
     key 0
-    weight 5807.193000000001
+    weight 5807.193
     token_id 6178
   ]
   edge [
@@ -108330,7 +108330,7 @@ graph [
     source 4024
     target 7791
     key 0
-    weight 11340.747000000008
+    weight 11340.747
     token_id 2227
   ]
   edge [
@@ -108344,7 +108344,7 @@ graph [
     source 4031
     target 8072
     key 0
-    weight 7869.791100000007
+    weight 7869.7911
     token_id 6551
   ]
   edge [
@@ -108358,21 +108358,21 @@ graph [
     source 4033
     target 4205
     key 0
-    weight 3567.1928799999996
+    weight 3567.192880000001
     token_id 4061
   ]
   edge [
     source 4033
     target 6244
     key 0
-    weight 3737.3833799999998
+    weight 3737.383380000001
     token_id 4935
   ]
   edge [
     source 4033
     target 1332
     key 0
-    weight 3669.30718
+    weight 3669.307180000001
     token_id 6928
   ]
   edge [
@@ -108393,21 +108393,21 @@ graph [
     source 4037
     target 2828
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 6560
   ]
   edge [
     source 4037
     target 6444
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 6558
   ]
   edge [
     source 4038
     target 6370
     key 0
-    weight 5342.894093000001
+    weight 5342.894093
     token_id 6561
   ]
   edge [
@@ -108421,14 +108421,14 @@ graph [
     source 4042
     target 504
     key 0
-    weight 3436.2900000000004
+    weight 3436.2900000000013
     token_id 6570
   ]
   edge [
     source 4043
     target 8479
     key 0
-    weight 6126.055800000001
+    weight 6126.0558
     token_id 781
   ]
   edge [
@@ -108449,35 +108449,35 @@ graph [
     source 4045
     target 1345
     key 0
-    weight 3539.9623999999994
+    weight 3539.962400000001
     token_id 6577
   ]
   edge [
     source 4045
     target 4557
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 8582
   ]
   edge [
     source 4048
     target 6432
     key 0
-    weight 2747.9529
+    weight 2747.9529000000066
     token_id 6585
   ]
   edge [
     source 4048
     target 7677
     key 0
-    weight 3318.956100000001
+    weight 3318.956100000008
     token_id 6584
   ]
   edge [
     source 4049
     target 6257
     key 0
-    weight 3846.305299999999
+    weight 3846.3053000000004
     token_id 6586
   ]
   edge [
@@ -108512,7 +108512,7 @@ graph [
     source 4056
     target 7100
     key 0
-    weight 2577.2175
+    weight 2577.217500000001
     token_id 8794
   ]
   edge [
@@ -108540,28 +108540,28 @@ graph [
     source 4061
     target 5068
     key 0
-    weight 3910.9776899999997
+    weight 3910.977690000001
     token_id 6606
   ]
   edge [
     source 4062
     target 620
     key 0
-    weight 3471.8861999999995
+    weight 3471.886200000001
     token_id 6610
   ]
   edge [
     source 4062
     target 1332
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 6609
   ]
   edge [
     source 4066
     target 620
     key 0
-    weight 3505.9242999999997
+    weight 3505.924300000001
     token_id 6615
   ]
   edge [
@@ -108582,7 +108582,7 @@ graph [
     source 4076
     target 7936
     key 0
-    weight 12598.53894000001
+    weight 12598.53894
     token_id 2787
   ]
   edge [
@@ -108617,7 +108617,7 @@ graph [
     source 4082
     target 614
     key 0
-    weight 8509.524999999998
+    weight 8509.525000000001
     token_id 2708
   ]
   edge [
@@ -108631,7 +108631,7 @@ graph [
     source 4093
     target 6052
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 6656
   ]
   edge [
@@ -108645,7 +108645,7 @@ graph [
     source 4094
     target 2352
     key 0
-    weight 8886.237300000003
+    weight 8886.237300000023
     token_id 6659
   ]
   edge [
@@ -108680,7 +108680,7 @@ graph [
     source 4101
     target 5858
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 6674
   ]
   edge [
@@ -108708,21 +108708,21 @@ graph [
     source 4104
     target 7584
     key 0
-    weight 3889.959300000001
+    weight 3889.9593000000095
     token_id 6682
   ]
   edge [
     source 4104
     target 7654
     key 0
-    weight 3889.959300000001
+    weight 3889.9593000000095
     token_id 6681
   ]
   edge [
     source 4106
     target 4945
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 6687
   ]
   edge [
@@ -108750,14 +108750,14 @@ graph [
     source 4109
     target 7312
     key 0
-    weight 3092.6610000000005
+    weight 3092.6610000000014
     token_id 6695
   ]
   edge [
     source 4109
     target 8125
     key 0
-    weight 11168.917500000009
+    weight 11168.9175
     token_id 6694
   ]
   edge [
@@ -108806,14 +108806,14 @@ graph [
     source 4134
     target 6170
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 6739
   ]
   edge [
     source 4134
     target 620
     key 0
-    weight 3556.9814499999993
+    weight 3556.9814500000007
     token_id 6741
   ]
   edge [
@@ -108855,14 +108855,14 @@ graph [
     source 4148
     target 614
     key 0
-    weight 9278.793000000009
+    weight 9278.793000000001
     token_id 6767
   ]
   edge [
     source 4149
     target 7281
     key 0
-    weight 3951.7335000000003
+    weight 3951.733500000001
     token_id 6769
   ]
   edge [
@@ -108897,7 +108897,7 @@ graph [
     source 4154
     target 6032
     key 0
-    weight 11650.450000000004
+    weight 11650.449999999999
     token_id 3921
   ]
   edge [
@@ -108918,21 +108918,21 @@ graph [
     source 4156
     target 5924
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 6777
   ]
   edge [
     source 4156
     target 6288
     key 0
-    weight 3645.4805099999994
+    weight 3645.480510000001
     token_id 6776
   ]
   edge [
     source 4156
     target 6420
     key 0
-    weight 3131.5051999999996
+    weight 3131.505200000001
     token_id 6778
   ]
   edge [
@@ -108981,7 +108981,7 @@ graph [
     source 4169
     target 7392
     key 0
-    weight 2964.4960320000014
+    weight 2964.496032
     token_id 5689
   ]
   edge [
@@ -108995,7 +108995,7 @@ graph [
     source 4172
     target 8502
     key 0
-    weight 16007.784000000003
+    weight 16007.784000000001
     token_id 3008
   ]
   edge [
@@ -109016,14 +109016,14 @@ graph [
     source 4183
     target 2444
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 6815
   ]
   edge [
     source 4184
     target 6088
     key 0
-    weight 4081.1681899999994
+    weight 4081.1681900000012
     token_id 8645
   ]
   edge [
@@ -109037,7 +109037,7 @@ graph [
     source 4190
     target 3104
     key 0
-    weight 9381.890700000007
+    weight 9381.8907
     token_id 6438
   ]
   edge [
@@ -109072,21 +109072,21 @@ graph [
     source 4197
     target 7536
     key 0
-    weight 3176.2053000000005
+    weight 3176.205300000008
     token_id 6312
   ]
   edge [
     source 4199
     target 3634
     key 0
-    weight 24010.28063076477
+    weight 24010.280630764824
     token_id 6377
   ]
   edge [
     source 4200
     target 8107
     key 0
-    weight 9794.281500000008
+    weight 9794.281500000001
     token_id 6835
   ]
   edge [
@@ -109114,14 +109114,14 @@ graph [
     source 4205
     target 6086
     key 0
-    weight 2920.8465
+    weight 2920.846500000001
     token_id 5408
   ]
   edge [
     source 4205
     target 7262
     key 0
-    weight 2920.8465
+    weight 2920.846500000001
     token_id 5409
   ]
   edge [
@@ -109135,28 +109135,28 @@ graph [
     source 4205
     target 8267
     key 0
-    weight 7922.306000000002
+    weight 7922.306
     token_id 3064
   ]
   edge [
     source 4205
     target 5645
     key 0
-    weight 11650.450000000004
+    weight 11650.449999999999
     token_id 4157
   ]
   edge [
     source 4205
     target 8478
     key 0
-    weight 9850.944000000003
+    weight 9850.944000000001
     token_id 4377
   ]
   edge [
     source 4205
     target 8489
     key 0
-    weight 6156.840000000001
+    weight 6156.84
     token_id 4977
   ]
   edge [
@@ -109191,14 +109191,14 @@ graph [
     source 4218
     target 1332
     key 0
-    weight 3740.7871899999996
+    weight 3740.787190000001
     token_id 6867
   ]
   edge [
     source 4218
     target 6379
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 6865
   ]
   edge [
@@ -109212,7 +109212,7 @@ graph [
     source 4225
     target 508
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 6874
   ]
   edge [
@@ -109226,21 +109226,21 @@ graph [
     source 4226
     target 6149
     key 0
-    weight 3910.9776899999997
+    weight 3910.977690000001
     token_id 6877
   ]
   edge [
     source 4227
     target 679
     key 0
-    weight 6804.216189999999
+    weight 6804.216190000002
     token_id 6880
   ]
   edge [
     source 4227
     target 6663
     key 0
-    weight 3403.4696189999995
+    weight 3403.469619000001
     token_id 6879
   ]
   edge [
@@ -109254,21 +109254,21 @@ graph [
     source 4228
     target 1472
     key 0
-    weight 10103.574600000009
+    weight 10103.5746
     token_id 4373
   ]
   edge [
     source 4228
     target 1472
     key 1
-    weight 9862.669641000008
+    weight 9862.669641
     token_id 6142
   ]
   edge [
     source 4229
     target 7855
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 6882
   ]
   edge [
@@ -109296,14 +109296,14 @@ graph [
     source 4237
     target 8507
     key 0
-    weight 6536.717028000002
+    weight 6536.717028000001
     token_id 2623
   ]
   edge [
     source 4240
     target 4789
     key 0
-    weight 8590.725
+    weight 8590.725000000004
     token_id 7649
   ]
   edge [
@@ -109324,7 +109324,7 @@ graph [
     source 4245
     target 6472
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 6900
   ]
   edge [
@@ -109345,7 +109345,7 @@ graph [
     source 4246
     target 7564
     key 0
-    weight 4282.524
+    weight 4282.52400000001
     token_id 8606
   ]
   edge [
@@ -109366,14 +109366,14 @@ graph [
     source 4251
     target 6910
     key 0
-    weight 11168.917500000009
+    weight 11168.9175
     token_id 6902
   ]
   edge [
     source 4254
     target 620
     key 0
-    weight 3471.8861999999995
+    weight 3471.886200000001
     token_id 6907
   ]
   edge [
@@ -109408,7 +109408,7 @@ graph [
     source 4260
     target 658
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 6920
   ]
   edge [
@@ -109422,14 +109422,14 @@ graph [
     source 4265
     target 4789
     key 0
-    weight 3778.2290999999996
+    weight 3778.2291000000014
     token_id 6929
   ]
   edge [
     source 4266
     target 7648
     key 0
-    weight 4639.401000000001
+    weight 4639.401000000012
     token_id 1740
   ]
   edge [
@@ -109443,21 +109443,21 @@ graph [
     source 4268
     target 620
     key 0
-    weight 32954.13000000001
+    weight 32954.13
     token_id 6935
   ]
   edge [
     source 4269
     target 5880
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 6937
   ]
   edge [
     source 4269
     target 7660
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 6936
   ]
   edge [
@@ -109485,7 +109485,7 @@ graph [
     source 4277
     target 8279
     key 0
-    weight 8920.916000000003
+    weight 8920.916
     token_id 6945
   ]
   edge [
@@ -109520,7 +109520,7 @@ graph [
     source 4288
     target 7196
     key 0
-    weight 3092.3173710000005
+    weight 3092.3173710000015
     token_id 7827
   ]
   edge [
@@ -109534,35 +109534,35 @@ graph [
     source 4289
     target 7254
     key 0
-    weight 3401.9271000000003
+    weight 3401.9271000000012
     token_id 6966
   ]
   edge [
     source 4289
     target 4789
     key 0
-    weight 3579.5232000000015
+    weight 3579.5232
     token_id 6825
   ]
   edge [
     source 4289
     target 7515
     key 0
-    weight 3889.959300000001
+    weight 3889.9593000000095
     token_id 6943
   ]
   edge [
     source 4289
     target 7538
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 6826
   ]
   edge [
     source 4289
     target 7659
     key 0
-    weight 3390.3315000000002
+    weight 3390.331500000008
     token_id 6944
   ]
   edge [
@@ -109576,7 +109576,7 @@ graph [
     source 4290
     target 669
     key 0
-    weight 7922.669400000002
+    weight 7922.66940000002
     token_id 6185
   ]
   edge [
@@ -109632,35 +109632,35 @@ graph [
     source 4300
     target 6448
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 6985
   ]
   edge [
     source 4300
     target 6456
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 6987
   ]
   edge [
     source 4304
     target 8473
     key 0
-    weight 6095.271600000001
+    weight 6095.2716
     token_id 6993
   ]
   edge [
     source 4309
     target 7486
     key 0
-    weight 2892.5440000000017
+    weight 2892.5440000000003
     token_id 7001
   ]
   edge [
     source 4309
     target 4509
     key 0
-    weight 2603.289600000001
+    weight 2603.2896
     token_id 7000
   ]
   edge [
@@ -109674,7 +109674,7 @@ graph [
     source 4310
     target 4798
     key 0
-    weight 16773.219
+    weight 16773.21900000004
     token_id 7002
   ]
   edge [
@@ -109702,14 +109702,14 @@ graph [
     source 4317
     target 6209
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 7018
   ]
   edge [
     source 4318
     target 5880
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 7021
   ]
   edge [
@@ -109786,7 +109786,7 @@ graph [
     source 4340
     target 7211
     key 0
-    weight 2594.3989500000002
+    weight 2594.398950000001
     token_id 7062
   ]
   edge [
@@ -109800,7 +109800,7 @@ graph [
     source 4341
     target 6464
     key 0
-    weight 3056.6213799999996
+    weight 3056.621380000001
     token_id 7065
   ]
   edge [
@@ -109828,7 +109828,7 @@ graph [
     source 4348
     target 7502
     key 0
-    weight 7231.360000000003
+    weight 7231.360000000001
     token_id 4764
   ]
   edge [
@@ -109905,14 +109905,14 @@ graph [
     source 4361
     target 7441
     key 0
-    weight 7159.046400000003
+    weight 7159.0464
     token_id 7092
   ]
   edge [
     source 4361
     target 8072
     key 0
-    weight 7869.791100000007
+    weight 7869.7911
     token_id 7094
   ]
   edge [
@@ -109947,7 +109947,7 @@ graph [
     source 4376
     target 2024
     key 0
-    weight 2920.8465
+    weight 2920.846500000001
     token_id 7105
   ]
   edge [
@@ -109975,14 +109975,14 @@ graph [
     source 4382
     target 7201
     key 0
-    weight 2577.2175
+    weight 2577.217500000001
     token_id 5883
   ]
   edge [
     source 4387
     target 508
     key 0
-    weight 3437.8480999999997
+    weight 3437.848100000001
     token_id 7114
   ]
   edge [
@@ -110010,14 +110010,14 @@ graph [
     source 4392
     target 6127
     key 0
-    weight 3254.16663
+    weight 3254.166630000001
     token_id 1681
   ]
   edge [
     source 4392
     target 2761
     key 0
-    weight 3982.747320000001
+    weight 3982.74732000001
     token_id 1232
   ]
   edge [
@@ -110066,7 +110066,7 @@ graph [
     source 4398
     target 6577
     key 0
-    weight 4810.8060000000005
+    weight 4810.806000000001
     token_id 3092
   ]
   edge [
@@ -110129,70 +110129,70 @@ graph [
     source 4403
     target 6054
     key 0
-    weight 3703.3452799999995
+    weight 3703.3452800000014
     token_id 8602
   ]
   edge [
     source 4403
     target 6092
     key 0
-    weight 3665.903369999999
+    weight 3665.903370000001
     token_id 8627
   ]
   edge [
     source 4403
     target 4025
     key 0
-    weight 3505.9242999999997
+    weight 3505.924300000001
     token_id 5903
   ]
   edge [
     source 4403
     target 1332
     key 0
-    weight 3454.867149999999
+    weight 3454.8671500000005
     token_id 5867
   ]
   edge [
     source 4403
     target 5951
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 4805
   ]
   edge [
     source 4403
     target 6272
     key 0
-    weight 3676.1148
+    weight 3676.114800000001
     token_id 3397
   ]
   edge [
     source 4404
     target 6442
     key 0
-    weight 2995.3527999999997
+    weight 2995.3528000000006
     token_id 7120
   ]
   edge [
     source 4405
     target 6053
     key 0
-    weight 4339.857749999999
+    weight 4339.857750000001
     token_id 1278
   ]
   edge [
     source 4406
     target 708
     key 0
-    weight 8208.171
+    weight 8208.171000000018
     token_id 6288
   ]
   edge [
     source 4409
     target 1410
     key 0
-    weight 12028.06500000001
+    weight 12028.065
     token_id 4018
   ]
   edge [
@@ -110220,7 +110220,7 @@ graph [
     source 4417
     target 7241
     key 0
-    weight 2611.5804000000003
+    weight 2611.580400000001
     token_id 5822
   ]
   edge [
@@ -110234,7 +110234,7 @@ graph [
     source 4421
     target 620
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 7133
   ]
   edge [
@@ -110262,21 +110262,21 @@ graph [
     source 4427
     target 6634
     key 0
-    weight 6807.619999999999
+    weight 6807.620000000002
     token_id 7141
   ]
   edge [
     source 4429
     target 1332
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 6191
   ]
   edge [
     source 4430
     target 6342
     key 0
-    weight 13525.638300000002
+    weight 13525.638300000033
     token_id 3284
   ]
   edge [
@@ -110297,7 +110297,7 @@ graph [
     source 4438
     target 7707
     key 0
-    weight 3354.6438000000003
+    weight 3354.643800000008
     token_id 860
   ]
   edge [
@@ -110346,7 +110346,7 @@ graph [
     source 4447
     target 6110
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 7169
   ]
   edge [
@@ -110360,14 +110360,14 @@ graph [
     source 4451
     target 6471
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 7174
   ]
   edge [
     source 4451
     target 6495
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 7175
   ]
   edge [
@@ -110451,14 +110451,14 @@ graph [
     source 4478
     target 7345
     key 0
-    weight 4175.4609
+    weight 4175.46090000001
     token_id 7223
   ]
   edge [
     source 4478
     target 8148
     key 0
-    weight 12955.94430000001
+    weight 12955.944300000001
     token_id 7222
   ]
   edge [
@@ -110472,14 +110472,14 @@ graph [
     source 4481
     target 6047
     key 0
-    weight 4493.0292
+    weight 4493.029200000002
     token_id 6049
   ]
   edge [
     source 4481
     target 7151
     key 0
-    weight 3208.3242300000006
+    weight 3208.324230000008
     token_id 3575
   ]
   edge [
@@ -110521,7 +110521,7 @@ graph [
     source 4486
     target 6365
     key 0
-    weight 3097.4671
+    weight 3097.4671000000008
     token_id 7236
   ]
   edge [
@@ -110542,7 +110542,7 @@ graph [
     source 4492
     target 8234
     key 0
-    weight 8854.342000000004
+    weight 8854.342
     token_id 1610
   ]
   edge [
@@ -110584,28 +110584,28 @@ graph [
     source 4499
     target 6509
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 7250
   ]
   edge [
     source 4502
     target 1332
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 3462
   ]
   edge [
     source 4502
     target 1332
     key 1
-    weight 3778.2290999999996
+    weight 3778.2291000000014
     token_id 3185
   ]
   edge [
     source 4502
     target 6475
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 1464
   ]
   edge [
@@ -110619,21 +110619,21 @@ graph [
     source 4502
     target 8243
     key 0
-    weight 9986.100000000004
+    weight 9986.099999999999
     token_id 2253
   ]
   edge [
     source 4502
     target 8285
     key 0
-    weight 7988.880000000003
+    weight 7988.879999999999
     token_id 3031
   ]
   edge [
     source 4502
     target 8377
     key 0
-    weight 5475.353400000001
+    weight 5475.3534
     token_id 3745
   ]
   edge [
@@ -110647,7 +110647,7 @@ graph [
     source 4503
     target 5526
     key 0
-    weight 4254.762499999999
+    weight 4254.762500000001
     token_id 6762
   ]
   edge [
@@ -110668,7 +110668,7 @@ graph [
     source 4508
     target 5997
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 7260
   ]
   edge [
@@ -110682,7 +110682,7 @@ graph [
     source 4509
     target 4737
     key 0
-    weight 7851.294000000002
+    weight 7851.29400000002
     token_id 1007
   ]
   edge [
@@ -110731,28 +110731,28 @@ graph [
     source 4530
     target 3338
     key 0
-    weight 3676.1148
+    weight 3676.114800000001
     token_id 7282
   ]
   edge [
     source 4531
     target 5924
     key 0
-    weight 4373.895849999999
+    weight 4373.895850000001
     token_id 7285
   ]
   edge [
     source 4531
     target 5966
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 7283
   ]
   edge [
     source 4531
     target 620
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 7284
   ]
   edge [
@@ -110766,7 +110766,7 @@ graph [
     source 4535
     target 5956
     key 0
-    weight 2825.1622999999995
+    weight 2825.1623000000004
     token_id 6994
   ]
   edge [
@@ -110787,7 +110787,7 @@ graph [
     source 4542
     target 8235
     key 0
-    weight 10653.42900000001
+    weight 10653.429
     token_id 6147
   ]
   edge [
@@ -110808,7 +110808,7 @@ graph [
     source 4545
     target 6188
     key 0
-    weight 3570.5966899999994
+    weight 3570.5966900000008
     token_id 7296
   ]
   edge [
@@ -110822,21 +110822,21 @@ graph [
     source 4549
     target 8132
     key 0
-    weight 11340.747000000008
+    weight 11340.747
     token_id 97
   ]
   edge [
     source 4549
     target 7708
     key 0
-    weight 11684.40600000001
+    weight 11684.406
     token_id 1929
   ]
   edge [
     source 4551
     target 6431
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 7298
   ]
   edge [
@@ -110857,7 +110857,7 @@ graph [
     source 4555
     target 6593
     key 0
-    weight 3710.1528999999996
+    weight 3710.1529000000014
     token_id 6685
   ]
   edge [
@@ -110871,21 +110871,21 @@ graph [
     source 4556
     target 7092
     key 0
-    weight 10306.333410000008
+    weight 10306.333410000001
     token_id 6775
   ]
   edge [
     source 4560
     target 6780
     key 0
-    weight 2711.760000000001
+    weight 2711.76
     token_id 7714
   ]
   edge [
     source 4560
     target 7616
     key 0
-    weight 5353.155000000001
+    weight 5353.155000000013
     token_id 1613
   ]
   edge [
@@ -110899,14 +110899,14 @@ graph [
     source 4560
     target 4789
     key 0
-    weight 13574.530500000012
+    weight 13574.5305
     token_id 3694
   ]
   edge [
     source 4561
     target 2757
     key 0
-    weight 7755.871000000003
+    weight 7755.871
     token_id 7300
   ]
   edge [
@@ -110927,14 +110927,14 @@ graph [
     source 4564
     target 4701
     key 0
-    weight 4295.3625
+    weight 4295.362500000002
     token_id 4485
   ]
   edge [
     source 4564
     target 5752
     key 0
-    weight 3471.0528000000013
+    weight 3471.0528
     token_id 1466
   ]
   edge [
@@ -110962,14 +110962,14 @@ graph [
     source 4574
     target 3895
     key 0
-    weight 9450.622500000009
+    weight 9450.622500000001
     token_id 6332
   ]
   edge [
     source 4577
     target 7332
     key 0
-    weight 2755.9045800000004
+    weight 2755.9045800000013
     token_id 7315
   ]
   edge [
@@ -110983,7 +110983,7 @@ graph [
     source 4578
     target 3342
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 7317
   ]
   edge [
@@ -111004,28 +111004,28 @@ graph [
     source 4581
     target 7681
     key 0
-    weight 6156.840000000001
+    weight 6156.84
     token_id 1041
   ]
   edge [
     source 4581
     target 6440
     key 0
-    weight 6156.840000000001
+    weight 6156.84
     token_id 5602
   ]
   edge [
     source 4581
     target 8528
     key 0
-    weight 6939.724000000017
+    weight 6939.724000000006
     token_id 6137
   ]
   edge [
     source 4585
     target 6196
     key 0
-    weight 3570.5966899999994
+    weight 3570.5966900000008
     token_id 7321
   ]
   edge [
@@ -111060,14 +111060,14 @@ graph [
     source 4592
     target 4866
     key 0
-    weight 7559.838000000002
+    weight 7559.838000000003
     token_id 2670
   ]
   edge [
     source 4592
     target 7519
     key 0
-    weight 6459.473700000001
+    weight 6459.473700000016
     token_id 7717
   ]
   edge [
@@ -111095,14 +111095,14 @@ graph [
     source 4600
     target 6805
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 8845
   ]
   edge [
     source 4601
     target 4844
     key 0
-    weight 3097.4671
+    weight 3097.4671000000008
     token_id 7344
   ]
   edge [
@@ -111116,7 +111116,7 @@ graph [
     source 4609
     target 3145
     key 0
-    weight 9622.452000000007
+    weight 9622.452
     token_id 1542
   ]
   edge [
@@ -111137,7 +111137,7 @@ graph [
     source 4613
     target 7580
     key 0
-    weight 3711.5208000000007
+    weight 3711.520800000009
     token_id 7357
   ]
   edge [
@@ -111179,7 +111179,7 @@ graph [
     source 4620
     target 5254
     key 0
-    weight 13608.89640000001
+    weight 13608.8964
     token_id 7365
   ]
   edge [
@@ -111207,7 +111207,7 @@ graph [
     source 4626
     target 6580
     key 0
-    weight 6773.581899999999
+    weight 6773.581900000002
     token_id 6596
   ]
   edge [
@@ -111270,14 +111270,14 @@ graph [
     source 4638
     target 7555
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 7383
   ]
   edge [
     source 4638
     target 7691
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 3203
   ]
   edge [
@@ -111298,14 +111298,14 @@ graph [
     source 4640
     target 8017
     key 0
-    weight 10241.038200000008
+    weight 10241.0382
     token_id 3692
   ]
   edge [
     source 4640
     target 8268
     key 0
-    weight 16643.500000000007
+    weight 16643.5
     token_id 2575
   ]
   edge [
@@ -111333,21 +111333,21 @@ graph [
     source 4654
     target 7681
     key 0
-    weight 8268.336700000002
+    weight 8268.3367
     token_id 6220
   ]
   edge [
     source 4654
     target 2739
     key 0
-    weight 5807.193000000001
+    weight 5807.193
     token_id 2122
   ]
   edge [
     source 4659
     target 287
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 4937
   ]
   edge [
@@ -111368,7 +111368,7 @@ graph [
     source 4664
     target 6640
     key 0
-    weight 8509.524999999998
+    weight 8509.525000000001
     token_id 7405
   ]
   edge [
@@ -111396,7 +111396,7 @@ graph [
     source 4674
     target 6070
     key 0
-    weight 3615.6800000000017
+    weight 3615.6800000000003
     token_id 7422
   ]
   edge [
@@ -111431,7 +111431,7 @@ graph [
     source 4677
     target 8111
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 7427
   ]
   edge [
@@ -111459,21 +111459,21 @@ graph [
     source 4684
     target 4457
     key 0
-    weight 7556.458199999999
+    weight 7556.458200000003
     token_id 6127
   ]
   edge [
     source 4685
     target 7436
     key 0
-    weight 2708.1443200000012
+    weight 2708.1443200000003
     token_id 7442
   ]
   edge [
     source 4686
     target 6317
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 7443
   ]
   edge [
@@ -111487,7 +111487,7 @@ graph [
     source 4695
     target 7345
     key 0
-    weight 2660.673517768544
+    weight 2660.6735177685446
     token_id 7455
   ]
   edge [
@@ -111501,7 +111501,7 @@ graph [
     source 4697
     target 4663
     key 0
-    weight 4302.659200000002
+    weight 4302.6592
     token_id 2124
   ]
   edge [
@@ -111529,7 +111529,7 @@ graph [
     source 4704
     target 364
     key 0
-    weight 2639.446400000001
+    weight 2639.4464000000003
     token_id 7474
   ]
   edge [
@@ -111550,21 +111550,21 @@ graph [
     source 4706
     target 4590
     key 0
-    weight 3066.8328099999994
+    weight 3066.832810000001
     token_id 7477
   ]
   edge [
     source 4707
     target 4117
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 7480
   ]
   edge [
     source 4708
     target 1332
     key 0
-    weight 3676.1148
+    weight 3676.114800000001
     token_id 7482
   ]
   edge [
@@ -111599,14 +111599,14 @@ graph [
     source 4722
     target 5935
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 7507
   ]
   edge [
     source 4724
     target 8072
     key 0
-    weight 8591.475000000008
+    weight 8591.475
     token_id 7512
   ]
   edge [
@@ -111627,7 +111627,7 @@ graph [
     source 4726
     target 2060
     key 0
-    weight 7080.366000000001
+    weight 7080.366
     token_id 1682
   ]
   edge [
@@ -111641,7 +111641,7 @@ graph [
     source 4729
     target 6190
     key 0
-    weight 3570.5966899999994
+    weight 3570.5966900000008
     token_id 7520
   ]
   edge [
@@ -111655,7 +111655,7 @@ graph [
     source 4731
     target 6
     key 0
-    weight 13848.248700000002
+    weight 13848.248700000006
     token_id 7524
   ]
   edge [
@@ -111683,7 +111683,7 @@ graph [
     source 4732
     target 166
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 8391
   ]
   edge [
@@ -111697,7 +111697,7 @@ graph [
     source 4736
     target 6435
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 7538
   ]
   edge [
@@ -111760,7 +111760,7 @@ graph [
     source 4746
     target 4205
     key 0
-    weight 3659.0957499999995
+    weight 3659.095750000001
     token_id 7558
   ]
   edge [
@@ -111781,7 +111781,7 @@ graph [
     source 4760
     target 7528
     key 0
-    weight 3604.4577000000004
+    weight 3604.4577000000086
     token_id 7577
   ]
   edge [
@@ -111837,14 +111837,14 @@ graph [
     source 4773
     target 6122
     key 0
-    weight 3740.7871899999996
+    weight 3740.787190000001
     token_id 1487
   ]
   edge [
     source 4773
     target 6194
     key 0
-    weight 3567.1928799999996
+    weight 3567.192880000001
     token_id 4505
   ]
   edge [
@@ -111858,14 +111858,14 @@ graph [
     source 4777
     target 5269
     key 0
-    weight 3073.3280000000013
+    weight 3073.328
     token_id 7610
   ]
   edge [
     source 4777
     target 8397
     key 0
-    weight 6360.259
+    weight 6360.258999999999
     token_id 7608
   ]
   edge [
@@ -111914,14 +111914,14 @@ graph [
     source 4783
     target 1332
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 6139
   ]
   edge [
     source 4783
     target 7705
     key 0
-    weight 3568.4131230000003
+    weight 3568.4131230000085
     token_id 7129
   ]
   edge [
@@ -111935,14 +111935,14 @@ graph [
     source 4791
     target 2478
     key 0
-    weight 4595.143499999999
+    weight 4595.143500000001
     token_id 7626
   ]
   edge [
     source 4791
     target 5490
     key 0
-    weight 5956.6675
+    weight 5956.667500000001
     token_id 7627
   ]
   edge [
@@ -111977,7 +111977,7 @@ graph [
     source 4797
     target 5824
     key 0
-    weight 3254.1120000000014
+    weight 3254.1120000000005
     token_id 7638
   ]
   edge [
@@ -111991,14 +111991,14 @@ graph [
     source 4798
     target 508
     key 0
-    weight 31709.513600000013
+    weight 31709.513600000002
     token_id 5037
   ]
   edge [
     source 4798
     target 7676
     key 0
-    weight 3390.3315000000002
+    weight 3390.331500000008
     token_id 7170
   ]
   edge [
@@ -112012,7 +112012,7 @@ graph [
     source 4798
     target 7681
     key 0
-    weight 8268.336700000002
+    weight 8268.3367
     token_id 5789
   ]
   edge [
@@ -112033,7 +112033,7 @@ graph [
     source 4802
     target 7451
     key 0
-    weight 3889.959300000001
+    weight 3889.9593000000095
     token_id 7645
   ]
   edge [
@@ -112054,7 +112054,7 @@ graph [
     source 4809
     target 7549
     key 0
-    weight 3247.5807000000004
+    weight 3247.580700000008
     token_id 5817
   ]
   edge [
@@ -112110,7 +112110,7 @@ graph [
     source 4829
     target 5555
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 7675
   ]
   edge [
@@ -112124,7 +112124,7 @@ graph [
     source 4834
     target 6586
     key 0
-    weight 3400.4061899999997
+    weight 3400.406190000001
     token_id 7397
   ]
   edge [
@@ -112138,7 +112138,7 @@ graph [
     source 4843
     target 7468
     key 0
-    weight 3615.318432000002
+    weight 3615.3184320000005
     token_id 2377
   ]
   edge [
@@ -112166,14 +112166,14 @@ graph [
     source 4849
     target 6387
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 7701
   ]
   edge [
     source 4850
     target 7510
     key 0
-    weight 2854.6340008217285
+    weight 2854.634000821735
     token_id 7702
   ]
   edge [
@@ -112208,14 +112208,14 @@ graph [
     source 4862
     target 620
     key 0
-    weight 3352.7528499999994
+    weight 3352.7528500000008
     token_id 7725
   ]
   edge [
     source 4862
     target 5917
     key 0
-    weight 3352.7528499999994
+    weight 3352.7528500000008
     token_id 7726
   ]
   edge [
@@ -112229,7 +112229,7 @@ graph [
     source 4863
     target 7681
     key 0
-    weight 8321.750000000004
+    weight 8321.75
     token_id 7729
   ]
   edge [
@@ -112271,14 +112271,14 @@ graph [
     source 4875
     target 8213
     key 0
-    weight 11856.23550000001
+    weight 11856.2355
     token_id 3551
   ]
   edge [
     source 4875
     target 8506
     key 0
-    weight 6943.3763100000015
+    weight 6943.376310000001
     token_id 1344
   ]
   edge [
@@ -112306,21 +112306,21 @@ graph [
     source 4880
     target 5363
     key 0
-    weight 3740.7871899999996
+    weight 3740.787190000001
     token_id 7352
   ]
   edge [
     source 4880
     target 8242
     key 0
-    weight 8920.916000000003
+    weight 8920.916
     token_id 6947
   ]
   edge [
     source 4881
     target 8012
     key 0
-    weight 9931.74510000001
+    weight 9931.7451
     token_id 5121
   ]
   edge [
@@ -112369,7 +112369,7 @@ graph [
     source 4889
     target 5851
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 7759
   ]
   edge [
@@ -112572,14 +112572,14 @@ graph [
     source 4952
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 1537
   ]
   edge [
     source 4955
     target 7190
     key 0
-    weight 2371.0401
+    weight 2371.0401000000006
     token_id 1738
   ]
   edge [
@@ -112593,7 +112593,7 @@ graph [
     source 4963
     target 4774
     key 0
-    weight 3925.647000000001
+    weight 3925.64700000001
     token_id 6302
   ]
   edge [
@@ -112614,7 +112614,7 @@ graph [
     source 4966
     target 397
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 7733
   ]
   edge [
@@ -112649,21 +112649,21 @@ graph [
     source 4970
     target 6039
     key 0
-    weight 4254.762499999999
+    weight 4254.762500000001
     token_id 7889
   ]
   edge [
     source 4970
     target 3708
     key 0
-    weight 3165.5433
+    weight 3165.543300000001
     token_id 7890
   ]
   edge [
     source 4978
     target 5222
     key 0
-    weight 5353.155000000001
+    weight 5353.155000000013
     token_id 6860
   ]
   edge [
@@ -112677,14 +112677,14 @@ graph [
     source 4985
     target 620
     key 0
-    weight 3488.9052499999993
+    weight 3488.9052500000007
     token_id 7903
   ]
   edge [
     source 4985
     target 2988
     key 0
-    weight 3659.0957499999995
+    weight 3659.095750000001
     token_id 7902
   ]
   edge [
@@ -112712,7 +112712,7 @@ graph [
     source 4991
     target 7637
     key 0
-    weight 3390.3315000000002
+    weight 3390.331500000008
     token_id 1223
   ]
   edge [
@@ -112726,14 +112726,14 @@ graph [
     source 4993
     target 5970
     key 0
-    weight 3033.4545000000003
+    weight 3033.454500000007
     token_id 7865
   ]
   edge [
     source 4999
     target 7848
     key 0
-    weight 8935.134000000007
+    weight 8935.134
     token_id 2283
   ]
   edge [
@@ -112747,14 +112747,14 @@ graph [
     source 5003
     target 5961
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 8683
   ]
   edge [
     source 5003
     target 6228
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 8681
   ]
   edge [
@@ -112768,7 +112768,7 @@ graph [
     source 5008
     target 6400
     key 0
-    weight 2995.3527999999997
+    weight 2995.3528000000006
     token_id 7918
   ]
   edge [
@@ -112782,14 +112782,14 @@ graph [
     source 5008
     target 7501
     key 0
-    weight 2892.5440000000017
+    weight 2892.5440000000003
     token_id 7916
   ]
   edge [
     source 5008
     target 3349
     key 0
-    weight 16643.500000000007
+    weight 16643.5
     token_id 8848
   ]
   edge [
@@ -112845,21 +112845,21 @@ graph [
     source 5027
     target 8286
     key 0
-    weight 10651.840000000004
+    weight 10651.84
     token_id 2454
   ]
   edge [
     source 5028
     target 7560
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 7952
   ]
   edge [
     source 5028
     target 4266
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 7953
   ]
   edge [
@@ -112873,14 +112873,14 @@ graph [
     source 5041
     target 6434
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 7964
   ]
   edge [
     source 5044
     target 6510
     key 0
-    weight 3063.2658610660687
+    weight 3063.26586106607
     token_id 1684
   ]
   edge [
@@ -112894,7 +112894,7 @@ graph [
     source 5047
     target 682
     key 0
-    weight 3434.444289999999
+    weight 3434.4442900000004
     token_id 7974
   ]
   edge [
@@ -112915,14 +112915,14 @@ graph [
     source 5051
     target 175
     key 0
-    weight 5105.714999999999
+    weight 5105.715000000001
     token_id 7980
   ]
   edge [
     source 5052
     target 6059
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 3771
   ]
   edge [
@@ -112936,7 +112936,7 @@ graph [
     source 5059
     target 6116
     key 0
-    weight 12028.06500000001
+    weight 12028.065
     token_id 6926
   ]
   edge [
@@ -112964,63 +112964,63 @@ graph [
     source 5073
     target 620
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 7991
   ]
   edge [
     source 5073
     target 620
     key 1
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 7992
   ]
   edge [
     source 5078
     target 2204
     key 0
-    weight 11684.40600000001
+    weight 11684.406
     token_id 2078
   ]
   edge [
     source 5080
     target 6379
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 7768
   ]
   edge [
     source 5080
     target 6379
     key 1
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 7767
   ]
   edge [
     source 5081
     target 7343
     key 0
-    weight 3023.9352000000003
+    weight 3023.9352000000013
     token_id 2522
   ]
   edge [
     source 5081
     target 7451
     key 0
-    weight 3001.0144000000014
+    weight 3001.0144
     token_id 8572
   ]
   edge [
     source 5081
     target 7063
     key 0
-    weight 7656.010000000002
+    weight 7656.009999999999
     token_id 8395
   ]
   edge [
     source 5085
     target 5871
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8003
   ]
   edge [
@@ -113062,7 +113062,7 @@ graph [
     source 5096
     target 6312
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 1719
   ]
   edge [
@@ -113076,7 +113076,7 @@ graph [
     source 5102
     target 7562
     key 0
-    weight 7101.8523000000005
+    weight 7101.852300000017
     token_id 2652
   ]
   edge [
@@ -113090,7 +113090,7 @@ graph [
     source 5104
     target 6577
     key 0
-    weight 4819.701440000002
+    weight 4819.70144
     token_id 4074
   ]
   edge [
@@ -113111,14 +113111,14 @@ graph [
     source 5109
     target 5935
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 8016
   ]
   edge [
     source 5109
     target 5749
     key 0
-    weight 3436.2900000000004
+    weight 3436.2900000000013
     token_id 8017
   ]
   edge [
@@ -113132,35 +113132,35 @@ graph [
     source 5110
     target 5733
     key 0
-    weight 3642.0766999999996
+    weight 3642.076700000001
     token_id 8112
   ]
   edge [
     source 5110
     target 569
     key 0
-    weight 3196.1775899999993
+    weight 3196.1775900000007
     token_id 4232
   ]
   edge [
     source 5110
     target 6363
     key 0
-    weight 3165.5433
+    weight 3165.543300000001
     token_id 2327
   ]
   edge [
     source 5110
     target 6382
     key 0
-    weight 2995.3527999999997
+    weight 2995.3528000000006
     token_id 8394
   ]
   edge [
     source 5110
     target 6313
     key 0
-    weight 3012.3718499999995
+    weight 3012.371850000001
     token_id 4234
   ]
   edge [
@@ -113174,28 +113174,28 @@ graph [
     source 5111
     target 6351
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8802
   ]
   edge [
     source 5113
     target 6351
     key 0
-    weight 3131.5051999999996
+    weight 3131.505200000001
     token_id 8020
   ]
   edge [
     source 5113
     target 6409
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 8018
   ]
   edge [
     source 5113
     target 6430
     key 0
-    weight 3131.5051999999996
+    weight 3131.505200000001
     token_id 8019
   ]
   edge [
@@ -113216,7 +113216,7 @@ graph [
     source 5120
     target 8069
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 769
   ]
   edge [
@@ -113230,98 +113230,98 @@ graph [
     source 5120
     target 357
     key 0
-    weight 6772.524000000002
+    weight 6772.524
     token_id 1989
   ]
   edge [
     source 5120
     target 3925
     key 0
-    weight 12313.680000000002
+    weight 12313.68
     token_id 7130
   ]
   edge [
     source 5120
     target 8493
     key 0
-    weight 6772.524000000002
+    weight 6772.524
     token_id 8038
   ]
   edge [
     source 5120
     target 7892
     key 0
-    weight 6772.524000000002
+    weight 6772.524
     token_id 6451
   ]
   edge [
     source 5120
     target 8516
     key 0
-    weight 6939.724000000017
+    weight 6939.724000000006
     token_id 5424
   ]
   edge [
     source 5120
     target 6449
     key 0
-    weight 6939.724000000017
+    weight 6939.724000000006
     token_id 6533
   ]
   edge [
     source 5120
     target 8523
     key 0
-    weight 6939.724000000017
+    weight 6939.724000000006
     token_id 6263
   ]
   edge [
     source 5120
     target 8525
     key 0
-    weight 6939.724000000017
+    weight 6939.724000000006
     token_id 2103
   ]
   edge [
     source 5127
     target 508
     key 0
-    weight 18078.40000000001
+    weight 18078.4
     token_id 8050
   ]
   edge [
     source 5128
     target 5516
     key 0
-    weight 5423.520000000002
+    weight 5423.52
     token_id 8053
   ]
   edge [
     source 5128
     target 7607
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 8052
   ]
   edge [
     source 5131
     target 5918
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 1187
   ]
   edge [
     source 5131
     target 5919
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 8059
   ]
   edge [
     source 5131
     target 620
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 8061
   ]
   edge [
@@ -113398,7 +113398,7 @@ graph [
     source 5158
     target 8259
     key 0
-    weight 7656.010000000002
+    weight 7656.009999999999
     token_id 8113
   ]
   edge [
@@ -113426,21 +113426,21 @@ graph [
     source 5162
     target 2329
     key 0
-    weight 10271.967510000008
+    weight 10271.96751
     token_id 7135
   ]
   edge [
     source 5165
     target 7292
     key 0
-    weight 2920.8465
+    weight 2920.846500000001
     token_id 5243
   ]
   edge [
     source 5172
     target 8049
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 8131
   ]
   edge [
@@ -113496,7 +113496,7 @@ graph [
     source 5185
     target 6410
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 8162
   ]
   edge [
@@ -113510,7 +113510,7 @@ graph [
     source 5188
     target 620
     key 0
-    weight 3600.0134881878553
+    weight 3600.0134881878566
     token_id 8164
   ]
   edge [
@@ -113524,14 +113524,14 @@ graph [
     source 5190
     target 7271
     key 0
-    weight 3161.3868000000007
+    weight 3161.3868000000016
     token_id 8168
   ]
   edge [
     source 5190
     target 7525
     key 0
-    weight 2926.3914
+    weight 2926.391400000007
     token_id 8167
   ]
   edge [
@@ -113552,14 +113552,14 @@ graph [
     source 5202
     target 6228
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 8187
   ]
   edge [
     source 5203
     target 7466
     key 0
-    weight 3977.2480000000023
+    weight 3977.2480000000005
     token_id 8190
   ]
   edge [
@@ -113664,21 +113664,21 @@ graph [
     source 5215
     target 7151
     key 0
-    weight 3033.4545000000003
+    weight 3033.454500000007
     token_id 8208
   ]
   edge [
     source 5221
     target 6029
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 8217
   ]
   edge [
     source 5223
     target 7299
     key 0
-    weight 2508.4917
+    weight 2508.491700000001
     token_id 3792
   ]
   edge [
@@ -113713,7 +113713,7 @@ graph [
     source 5235
     target 3453
     key 0
-    weight 3301.6956999999993
+    weight 3301.6957000000007
     token_id 8229
   ]
   edge [
@@ -113727,7 +113727,7 @@ graph [
     source 5239
     target 2526
     key 0
-    weight 12887.21250000001
+    weight 12887.212500000001
     token_id 2523
   ]
   edge [
@@ -113748,14 +113748,14 @@ graph [
     source 5251
     target 185
     key 0
-    weight 9278.793000000009
+    weight 9278.793000000001
     token_id 8240
   ]
   edge [
     source 5251
     target 8232
     key 0
-    weight 9966.111000000008
+    weight 9966.111
     token_id 8242
   ]
   edge [
@@ -113797,14 +113797,14 @@ graph [
     source 5262
     target 5516
     key 0
-    weight 5061.952000000002
+    weight 5061.952
     token_id 2738
   ]
   edge [
     source 5262
     target 5850
     key 0
-    weight 5353.155000000001
+    weight 5353.155000000013
     token_id 6927
   ]
   edge [
@@ -113825,7 +113825,7 @@ graph [
     source 5266
     target 6594
     key 0
-    weight 5105.714999999999
+    weight 5105.715000000001
     token_id 1890
   ]
   edge [
@@ -113853,7 +113853,7 @@ graph [
     source 5282
     target 8058
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 8263
   ]
   edge [
@@ -113888,7 +113888,7 @@ graph [
     source 5289
     target 7530
     key 0
-    weight 3372.48765
+    weight 3372.4876500000078
     token_id 8612
   ]
   edge [
@@ -113923,14 +113923,14 @@ graph [
     source 5297
     target 8469
     key 0
-    weight 6156.840000000001
+    weight 6156.84
     token_id 5905
   ]
   edge [
     source 5300
     target 4919
     key 0
-    weight 9514.340820000001
+    weight 9514.340820000023
     token_id 6255
   ]
   edge [
@@ -113944,14 +113944,14 @@ graph [
     source 5303
     target 508
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 3279
   ]
   edge [
     source 5303
     target 6311
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 7086
   ]
   edge [
@@ -113993,28 +113993,28 @@ graph [
     source 5311
     target 660
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 8295
   ]
   edge [
     source 5311
     target 6673
     key 0
-    weight 3854.271600000001
+    weight 3854.2716000000096
     token_id 8297
   ]
   edge [
     source 5318
     target 900
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 8301
   ]
   edge [
     source 5319
     target 7669
     key 0
-    weight 17843.850000000002
+    weight 17843.850000000042
     token_id 891
   ]
   edge [
@@ -114049,7 +114049,7 @@ graph [
     source 5329
     target 7398
     key 0
-    weight 2820.2304000000013
+    weight 2820.2304000000004
     token_id 8319
   ]
   edge [
@@ -114070,21 +114070,21 @@ graph [
     source 5333
     target 6242
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 6703
   ]
   edge [
     source 5333
     target 7488
     key 0
-    weight 3211.8930000000005
+    weight 3211.8930000000078
     token_id 6363
   ]
   edge [
     source 5334
     target 8423
     key 0
-    weight 5392.393500000001
+    weight 5392.3935
     token_id 172
   ]
   edge [
@@ -114119,7 +114119,7 @@ graph [
     source 5339
     target 6105
     key 0
-    weight 5154.435
+    weight 5154.435000000002
     token_id 8326
   ]
   edge [
@@ -114140,14 +114140,14 @@ graph [
     source 5342
     target 3334
     key 0
-    weight 3005.5642299999995
+    weight 3005.564230000001
     token_id 8332
   ]
   edge [
     source 5342
     target 8072
     key 0
-    weight 7904.157000000006
+    weight 7904.157
     token_id 8330
   ]
   edge [
@@ -114203,21 +114203,21 @@ graph [
     source 5353
     target 7927
     key 0
-    weight 11684.40600000001
+    weight 11684.406
     token_id 2083
   ]
   edge [
     source 5355
     target 3509
     key 0
-    weight 5530.383467000001
+    weight 5530.383467
     token_id 1326
   ]
   edge [
     source 5356
     target 21
     key 0
-    weight 13168.761300000002
+    weight 13168.761300000031
     token_id 2384
   ]
   edge [
@@ -114231,7 +114231,7 @@ graph [
     source 5357
     target 6295
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 8343
   ]
   edge [
@@ -114259,14 +114259,14 @@ graph [
     source 5360
     target 7361
     key 0
-    weight 38564.84288000002
+    weight 38564.842880000004
     token_id 8349
   ]
   edge [
     source 5360
     target 7339
     key 0
-    weight 5353.155000000001
+    weight 5353.155000000013
     token_id 8347
   ]
   edge [
@@ -114280,7 +114280,7 @@ graph [
     source 5362
     target 8476
     key 0
-    weight 6156.840000000001
+    weight 6156.84
     token_id 2979
   ]
   edge [
@@ -114308,7 +114308,7 @@ graph [
     source 5377
     target 8494
     key 0
-    weight 12252.111600000002
+    weight 12252.1116
     token_id 8363
   ]
   edge [
@@ -114322,7 +114322,7 @@ graph [
     source 5379
     target 6133
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 8366
   ]
   edge [
@@ -114357,7 +114357,7 @@ graph [
     source 5384
     target 7379
     key 0
-    weight 4338.816000000002
+    weight 4338.816
     token_id 5318
   ]
   edge [
@@ -114378,7 +114378,7 @@ graph [
     source 5385
     target 5875
     key 0
-    weight 11856.23550000001
+    weight 11856.2355
     token_id 1465
   ]
   edge [
@@ -114399,7 +114399,7 @@ graph [
     source 5387
     target 8101
     key 0
-    weight 9622.452000000007
+    weight 9622.452
     token_id 8373
   ]
   edge [
@@ -114490,28 +114490,28 @@ graph [
     source 5409
     target 7654
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 4795
   ]
   edge [
     source 5409
     target 2847
     key 0
-    weight 12681.01710000001
+    weight 12681.017100000001
     token_id 1302
   ]
   edge [
     source 5411
     target 6379
     key 0
-    weight 3080.4480499999995
+    weight 3080.448050000001
     token_id 6429
   ]
   edge [
     source 5412
     target 6379
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 8396
   ]
   edge [
@@ -114525,7 +114525,7 @@ graph [
     source 5413
     target 4573
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 6495
   ]
   edge [
@@ -114560,7 +114560,7 @@ graph [
     source 5417
     target 6108
     key 0
-    weight 3608.0386
+    weight 3608.038600000001
     token_id 8401
   ]
   edge [
@@ -114574,7 +114574,7 @@ graph [
     source 5418
     target 6226
     key 0
-    weight 6780.6630000000005
+    weight 6780.663000000016
     token_id 8403
   ]
   edge [
@@ -114588,7 +114588,7 @@ graph [
     source 5424
     target 6589
     key 0
-    weight 3709.8125189999996
+    weight 3709.8125190000014
     token_id 6224
   ]
   edge [
@@ -114609,7 +114609,7 @@ graph [
     source 5429
     target 7772
     key 0
-    weight 11306.38110000001
+    weight 11306.3811
     token_id 7809
   ]
   edge [
@@ -114651,14 +114651,14 @@ graph [
     source 5437
     target 7641
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 5763
   ]
   edge [
     source 5437
     target 7685
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 5598
   ]
   edge [
@@ -114672,14 +114672,14 @@ graph [
     source 5437
     target 3481
     key 0
-    weight 21436.82800000001
+    weight 21436.828
     token_id 8037
   ]
   edge [
     source 5437
     target 8445
     key 0
-    weight 6895.6608000000015
+    weight 6895.660800000001
     token_id 4818
   ]
   edge [
@@ -114693,14 +114693,14 @@ graph [
     source 5440
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 4847
   ]
   edge [
     source 5440
     target 655
     key 0
-    weight 10653.42900000001
+    weight 10653.429
     token_id 8430
   ]
   edge [
@@ -114735,21 +114735,21 @@ graph [
     source 5440
     target 8196
     key 0
-    weight 11168.917500000009
+    weight 11168.9175
     token_id 8428
   ]
   edge [
     source 5445
     target 8405
     key 0
-    weight 5530.660000000001
+    weight 5530.66
     token_id 6426
   ]
   edge [
     source 5449
     target 4556
     key 0
-    weight 6156.840000000001
+    weight 6156.84
     token_id 10
   ]
   edge [
@@ -114791,7 +114791,7 @@ graph [
     source 5461
     target 6154
     key 0
-    weight 3914.381499999999
+    weight 3914.381500000001
     token_id 8448
   ]
   edge [
@@ -114805,7 +114805,7 @@ graph [
     source 5470
     target 7515
     key 0
-    weight 10254.78456000001
+    weight 10254.78456
     token_id 1984
   ]
   edge [
@@ -114819,7 +114819,7 @@ graph [
     source 5473
     target 6053
     key 0
-    weight 3131.5051999999996
+    weight 3131.505200000001
     token_id 8384
   ]
   edge [
@@ -114840,7 +114840,7 @@ graph [
     source 5477
     target 2653
     key 0
-    weight 9278.793000000009
+    weight 9278.793000000001
     token_id 3358
   ]
   edge [
@@ -114861,14 +114861,14 @@ graph [
     source 5487
     target 8094
     key 0
-    weight 11168.917500000009
+    weight 11168.9175
     token_id 7669
   ]
   edge [
     source 5488
     target 6092
     key 0
-    weight 3982.457699999999
+    weight 3982.457700000001
     token_id 2677
   ]
   edge [
@@ -114917,7 +114917,7 @@ graph [
     source 5494
     target 7446
     key 0
-    weight 3254.1120000000014
+    weight 3254.1120000000005
     token_id 7753
   ]
   edge [
@@ -114931,21 +114931,21 @@ graph [
     source 5507
     target 6124
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 1295
   ]
   edge [
     source 5508
     target 5349
     key 0
-    weight 2542.8546
+    weight 2542.854600000001
     token_id 4441
   ]
   edge [
     source 5508
     target 5289
     key 0
-    weight 2241.721600000001
+    weight 2241.7216000000003
     token_id 8609
   ]
   edge [
@@ -114980,14 +114980,14 @@ graph [
     source 5516
     target 267
     key 0
-    weight 3579.5232000000015
+    weight 3579.5232
     token_id 4721
   ]
   edge [
     source 5516
     target 418
     key 0
-    weight 24948.192000000014
+    weight 24948.192000000003
     token_id 3815
   ]
   edge [
@@ -115008,7 +115008,7 @@ graph [
     source 5521
     target 6344
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 5475
   ]
   edge [
@@ -115029,7 +115029,7 @@ graph [
     source 5541
     target 5593
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 8495
   ]
   edge [
@@ -115043,7 +115043,7 @@ graph [
     source 5543
     target 666
     key 0
-    weight 9241.57509027987
+    weight 9241.575090279865
     token_id 4520
   ]
   edge [
@@ -115064,7 +115064,7 @@ graph [
     source 5549
     target 7151
     key 0
-    weight 2233.5885000000003
+    weight 2233.5885000000007
     token_id 8505
   ]
   edge [
@@ -115078,7 +115078,7 @@ graph [
     source 5554
     target 6126
     key 0
-    weight 3400.4061899999997
+    weight 3400.406190000001
     token_id 8507
   ]
   edge [
@@ -115099,21 +115099,21 @@ graph [
     source 5557
     target 7687
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 6163
   ]
   edge [
     source 5561
     target 2024
     key 0
-    weight 3882.8217600000007
+    weight 3882.82176000001
     token_id 7722
   ]
   edge [
     source 5561
     target 5222
     key 0
-    weight 4960.5903
+    weight 4960.590300000012
     token_id 3129
   ]
   edge [
@@ -115127,28 +115127,28 @@ graph [
     source 5561
     target 6640
     key 0
-    weight 16770.559200000014
+    weight 16770.5592
     token_id 2469
   ]
   edge [
     source 5563
     target 6174
     key 0
-    weight 2995.3527999999997
+    weight 2995.3528000000006
     token_id 3785
   ]
   edge [
     source 5563
     target 6395
     key 0
-    weight 3063.0886189999997
+    weight 3063.088619000001
     token_id 5473
   ]
   edge [
     source 5570
     target 7122
     key 0
-    weight 5787.4296
+    weight 5787.4295999999995
     token_id 7801
   ]
   edge [
@@ -115162,7 +115162,7 @@ graph [
     source 5574
     target 2038
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 8519
   ]
   edge [
@@ -115246,7 +115246,7 @@ graph [
     source 5591
     target 7073
     key 0
-    weight 10997.08800000001
+    weight 10997.088000000002
     token_id 1242
   ]
   edge [
@@ -115260,42 +115260,42 @@ graph [
     source 5592
     target 7286
     key 0
-    weight 2920.8465
+    weight 2920.846500000001
     token_id 8594
   ]
   edge [
     source 5592
     target 4789
     key 0
-    weight 2856.3872000000015
+    weight 2856.3872000000006
     token_id 6559
   ]
   edge [
     source 5593
     target 6648
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 6006
   ]
   edge [
     source 5593
     target 267
     key 0
-    weight 8590.725
+    weight 8590.725000000004
     token_id 3163
   ]
   edge [
     source 5596
     target 1332
     key 0
-    weight 3556.9814499999993
+    weight 3556.9814500000007
     token_id 7910
   ]
   edge [
     source 5596
     target 6257
     key 0
-    weight 3522.943349999999
+    weight 3522.9433500000005
     token_id 4170
   ]
   edge [
@@ -115309,14 +115309,14 @@ graph [
     source 5610
     target 6082
     key 0
-    weight 4220.724399999999
+    weight 4220.724400000001
     token_id 2942
   ]
   edge [
     source 5615
     target 4866
     key 0
-    weight 13746.360000000011
+    weight 13746.36
     token_id 8239
   ]
   edge [
@@ -115330,21 +115330,21 @@ graph [
     source 5622
     target 8072
     key 0
-    weight 8591.475000000008
+    weight 8591.475
     token_id 8556
   ]
   edge [
     source 5622
     target 8494
     key 0
-    weight 15392.100000000002
+    weight 15392.1
     token_id 8554
   ]
   edge [
     source 5623
     target 7502
     key 0
-    weight 2888.9283200000013
+    weight 2888.9283200000004
     token_id 8749
   ]
   edge [
@@ -115358,21 +115358,21 @@ graph [
     source 5625
     target 8120
     key 0
-    weight 12598.53894000001
+    weight 12598.53894
     token_id 1206
   ]
   edge [
     source 5627
     target 7073
     key 0
-    weight 10651.840000000004
+    weight 10651.84
     token_id 7959
   ]
   edge [
     source 5628
     target 6044
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 3425
   ]
   edge [
@@ -115393,7 +115393,7 @@ graph [
     source 5634
     target 6535
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 5170
   ]
   edge [
@@ -115491,21 +115491,21 @@ graph [
     source 5652
     target 5725
     key 0
-    weight 6126.857999999999
+    weight 6126.858000000002
     token_id 8530
   ]
   edge [
     source 5652
     target 1492
     key 0
-    weight 3479.5507500000003
+    weight 3479.5507500000085
     token_id 7173
   ]
   edge [
     source 5655
     target 6097
     key 0
-    weight 3662.4995599999997
+    weight 3662.499560000001
     token_id 2379
   ]
   edge [
@@ -115533,7 +115533,7 @@ graph [
     source 5658
     target 5975
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 8571
   ]
   edge [
@@ -115610,42 +115610,42 @@ graph [
     source 5694
     target 7629
     key 0
-    weight 4460.962500000001
+    weight 4460.962500000011
     token_id 2579
   ]
   edge [
     source 5696
     target 4970
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 7572
   ]
   edge [
     source 5696
     target 4949
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 6190
   ]
   edge [
     source 5696
     target 4199
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 8671
   ]
   edge [
     source 5696
     target 8106
     key 0
-    weight 11856.23550000001
+    weight 11856.2355
     token_id 4569
   ]
   edge [
     source 5696
     target 224
     key 0
-    weight 13711.994100000013
+    weight 13711.994100000002
     token_id 3083
   ]
   edge [
@@ -115659,7 +115659,7 @@ graph [
     source 5696
     target 5362
     key 0
-    weight 7659.108960000001
+    weight 7659.1089600000005
     token_id 4424
   ]
   edge [
@@ -115673,7 +115673,7 @@ graph [
     source 5702
     target 3458
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 8601
   ]
   edge [
@@ -115687,21 +115687,21 @@ graph [
     source 5703
     target 6138
     key 0
-    weight 17182.950000000015
+    weight 17182.95
     token_id 6392
   ]
   edge [
     source 5705
     target 5949
     key 0
-    weight 4254.762499999999
+    weight 4254.762500000001
     token_id 8604
   ]
   edge [
     source 5705
     target 6041
     key 0
-    weight 4254.762499999999
+    weight 4254.762500000001
     token_id 8603
   ]
   edge [
@@ -115722,7 +115722,7 @@ graph [
     source 5712
     target 3251
     key 0
-    weight 10997.08800000001
+    weight 10997.088000000002
     token_id 5751
   ]
   edge [
@@ -115743,7 +115743,7 @@ graph [
     source 5730
     target 5929
     key 0
-    weight 5105.714999999999
+    weight 5105.715000000001
     token_id 2270
   ]
   edge [
@@ -115771,14 +115771,14 @@ graph [
     source 5743
     target 614
     key 0
-    weight 7491.766200000006
+    weight 7491.766200000001
     token_id 8678
   ]
   edge [
     source 5743
     target 6836
     key 0
-    weight 7491.766200000006
+    weight 7491.766200000001
     token_id 2137
   ]
   edge [
@@ -115792,21 +115792,21 @@ graph [
     source 5745
     target 6009
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 4429
   ]
   edge [
     source 5749
     target 7225
     key 0
-    weight 3247.2940500000004
+    weight 3247.294050000001
     token_id 2504
   ]
   edge [
     source 5749
     target 7550
     key 0
-    weight 3122.6737500000004
+    weight 3122.6737500000077
     token_id 1704
   ]
   edge [
@@ -115820,35 +115820,35 @@ graph [
     source 5749
     target 7446
     key 0
-    weight 11993.69910000001
+    weight 11993.699100000002
     token_id 5048
   ]
   edge [
     source 5749
     target 7956
     key 0
-    weight 8800.831800000022
+    weight 8800.831800000007
     token_id 8404
   ]
   edge [
     source 5751
     target 5425
     key 0
-    weight 3223.0676889999995
+    weight 3223.067689000001
     token_id 8615
   ]
   edge [
     source 5751
     target 6543
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 8616
   ]
   edge [
     source 5755
     target 6405
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8619
   ]
   edge [
@@ -115862,35 +115862,35 @@ graph [
     source 5756
     target 5892
     key 0
-    weight 3301.6956999999993
+    weight 3301.6957000000007
     token_id 8624
   ]
   edge [
     source 5758
     target 5474
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8633
   ]
   edge [
     source 5758
     target 620
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8631
   ]
   edge [
     source 5759
     target 7510
     key 0
-    weight 2819.3283000000006
+    weight 2819.328300000007
     token_id 8635
   ]
   edge [
     source 5759
     target 7647
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 8636
   ]
   edge [
@@ -115904,63 +115904,63 @@ graph [
     source 5761
     target 5839
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8643
   ]
   edge [
     source 5761
     target 5844
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8644
   ]
   edge [
     source 5762
     target 5867
     key 0
-    weight 3165.5433
+    weight 3165.543300000001
     token_id 8648
   ]
   edge [
     source 5762
     target 5906
     key 0
-    weight 3199.581399999999
+    weight 3199.5814000000005
     token_id 8647
   ]
   edge [
     source 5763
     target 620
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 8649
   ]
   edge [
     source 5763
     target 5362
     key 0
-    weight 6872.580000000001
+    weight 6872.580000000003
     token_id 8650
   ]
   edge [
     source 5763
     target 7472
     key 0
-    weight 2892.5440000000017
+    weight 2892.5440000000003
     token_id 8651
   ]
   edge [
     source 5764
     target 5881
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8653
   ]
   edge [
     source 5764
     target 620
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 8652
   ]
   edge [
@@ -115974,105 +115974,105 @@ graph [
     source 5767
     target 5903
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 8659
   ]
   edge [
     source 5768
     target 5845
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8662
   ]
   edge [
     source 5768
     target 620
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8660
   ]
   edge [
     source 5769
     target 7402
     key 0
-    weight 2892.5440000000017
+    weight 2892.5440000000003
     token_id 8665
   ]
   edge [
     source 5769
     target 7533
     key 0
-    weight 2855.0160000000005
+    weight 2855.016000000007
     token_id 8663
   ]
   edge [
     source 5769
     target 8116
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 8664
   ]
   edge [
     source 5770
     target 5888
     key 0
-    weight 3300.3341759999994
+    weight 3300.3341760000008
     token_id 8667
   ]
   edge [
     source 5772
     target 658
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8672
   ]
   edge [
     source 5773
     target 8076
     key 0
-    weight 9416.256600000008
+    weight 9416.2566
     token_id 8673
   ]
   edge [
     source 5774
     target 5841
     key 0
-    weight 3642.0766999999996
+    weight 3642.076700000001
     token_id 8677
   ]
   edge [
     source 5775
     target 5703
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 8679
   ]
   edge [
     source 5781
     target 306
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8693
   ]
   edge [
     source 5781
     target 5973
     key 0
-    weight 3393.2581889999997
+    weight 3393.258189000001
     token_id 8691
   ]
   edge [
     source 5783
     target 5865
     key 0
-    weight 3230.2156899999995
+    weight 3230.2156900000004
     token_id 8701
   ]
   edge [
     source 5784
     target 5840
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8704
   ]
   edge [
@@ -116086,35 +116086,35 @@ graph [
     source 5787
     target 5870
     key 0
-    weight 3196.1775899999993
+    weight 3196.1775900000007
     token_id 8712
   ]
   edge [
     source 5790
     target 5934
     key 0
-    weight 3366.3680899999995
+    weight 3366.368090000001
     token_id 8724
   ]
   edge [
     source 5791
     target 508
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 8728
   ]
   edge [
     source 5791
     target 467
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 8727
   ]
   edge [
     source 5791
     target 6512
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 8726
   ]
   edge [
@@ -116128,21 +116128,21 @@ graph [
     source 5794
     target 424
     key 0
-    weight 3226.8118799999993
+    weight 3226.8118800000007
     token_id 8734
   ]
   edge [
     source 5794
     target 508
     key 0
-    weight 3223.4080699999995
+    weight 3223.408070000001
     token_id 8735
   ]
   edge [
     source 5796
     target 5457
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 8740
   ]
   edge [
@@ -116156,28 +116156,28 @@ graph [
     source 5799
     target 5093
     key 0
-    weight 3230.2156899999995
+    weight 3230.2156900000004
     token_id 8746
   ]
   edge [
     source 5799
     target 620
     key 0
-    weight 3400.4061899999997
+    weight 3400.406190000001
     token_id 8747
   ]
   edge [
     source 5800
     target 5831
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 8751
   ]
   edge [
     source 5800
     target 5841
     key 0
-    weight 3233.6194999999993
+    weight 3233.6195000000007
     token_id 8750
   ]
   edge [
@@ -116212,21 +116212,21 @@ graph [
     source 5806
     target 3708
     key 0
-    weight 3880.3433999999993
+    weight 3880.3434000000007
     token_id 8666
   ]
   edge [
     source 5808
     target 6197
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 8768
   ]
   edge [
     source 5808
     target 2826
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 8767
   ]
   edge [
@@ -116268,7 +116268,7 @@ graph [
     source 5812
     target 4060
     key 0
-    weight 4288.8006
+    weight 4288.800600000001
     token_id 8775
   ]
   edge [
@@ -116282,14 +116282,14 @@ graph [
     source 5814
     target 332
     key 0
-    weight 3217.9552000000017
+    weight 3217.9552000000003
     token_id 8783
   ]
   edge [
     source 5814
     target 467
     key 0
-    weight 4460.962500000001
+    weight 4460.962500000011
     token_id 8782
   ]
   edge [
@@ -116310,7 +116310,7 @@ graph [
     source 5817
     target 6000
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 8790
   ]
   edge [
@@ -116324,7 +116324,7 @@ graph [
     source 5822
     target 5848
     key 0
-    weight 3230.2156899999995
+    weight 3230.2156900000004
     token_id 8771
   ]
   edge [
@@ -116338,7 +116338,7 @@ graph [
     source 5826
     target 6536
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 8710
   ]
   edge [
@@ -116366,14 +116366,14 @@ graph [
     source 5836
     target 5843
     key 0
-    weight 3301.6956999999993
+    weight 3301.6957000000007
     token_id 8769
   ]
   edge [
     source 5836
     target 5671
     key 0
-    weight 5105.714999999999
+    weight 5105.715000000001
     token_id 2320
   ]
   edge [
@@ -116408,7 +116408,7 @@ graph [
     source 5850
     target 514
     key 0
-    weight 4817.839500000001
+    weight 4817.839500000012
     token_id 4776
   ]
   edge [
@@ -116429,98 +116429,98 @@ graph [
     source 5851
     target 6133
     key 0
-    weight 3706.0683279999994
+    weight 3706.0683280000007
     token_id 7295
   ]
   edge [
     source 5851
     target 6190
     key 0
-    weight 3570.5966899999994
+    weight 3570.5966900000008
     token_id 4260
   ]
   edge [
     source 5851
     target 6205
     key 0
-    weight 3567.1928799999996
+    weight 3567.192880000001
     token_id 5138
   ]
   edge [
     source 5851
     target 4205
     key 0
-    weight 3638.6728899999994
+    weight 3638.6728900000007
     token_id 3560
   ]
   edge [
     source 5851
     target 5551
     key 0
-    weight 3737.3833799999998
+    weight 3737.383380000001
     token_id 1951
   ]
   edge [
     source 5851
     target 6301
     key 0
-    weight 3563.7890699999994
+    weight 3563.7890700000007
     token_id 2950
   ]
   edge [
     source 5851
     target 5930
     key 0
-    weight 3294.8880799999993
+    weight 3294.8880800000006
     token_id 2427
   ]
   edge [
     source 5851
     target 6379
     key 0
-    weight 3060.02519
+    weight 3060.0251900000007
     token_id 2951
   ]
   edge [
     source 5851
     target 6379
     key 1
-    weight 3889.959300000001
+    weight 3889.9593000000095
     token_id 2739
   ]
   edge [
     source 5851
     target 6403
     key 0
-    weight 3053.21757
+    weight 3053.2175700000007
     token_id 1023
   ]
   edge [
     source 5851
     target 7211
     key 0
-    weight 3264.4755000000005
+    weight 3264.475500000001
     token_id 8455
   ]
   edge [
     source 5851
     target 7240
     key 0
-    weight 3161.3868000000007
+    weight 3161.3868000000016
     token_id 1133
   ]
   edge [
     source 5851
     target 4789
     key 0
-    weight 24948.192000000014
+    weight 24948.192000000003
     token_id 7811
   ]
   edge [
     source 5851
     target 3199
     key 0
-    weight 3434.8960000000015
+    weight 3434.896
     token_id 1204
   ]
   edge [
@@ -116534,14 +116534,14 @@ graph [
     source 5852
     target 7531
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 8457
   ]
   edge [
     source 5852
     target 7382
     key 0
-    weight 17182.950000000015
+    weight 17182.95
     token_id 8461
   ]
   edge [
@@ -116562,7 +116562,7 @@ graph [
     source 5857
     target 6379
     key 0
-    weight 3124.6975799999996
+    weight 3124.697580000001
     token_id 8805
   ]
   edge [
@@ -116604,35 +116604,35 @@ graph [
     source 5862
     target 8072
     key 0
-    weight 8591.475000000008
+    weight 8591.475
     token_id 8641
   ]
   edge [
     source 5863
     target 6203
     key 0
-    weight 4282.524
+    weight 4282.52400000001
     token_id 2524
   ]
   edge [
     source 5863
     target 4199
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 8748
   ]
   edge [
     source 5864
     target 620
     key 0
-    weight 3335.7337999999995
+    weight 3335.733800000001
     token_id 1691
   ]
   edge [
     source 5864
     target 104
     key 0
-    weight 3362.9642799999992
+    weight 3362.9642800000006
     token_id 8700
   ]
   edge [
@@ -116646,7 +116646,7 @@ graph [
     source 5866
     target 8266
     key 0
-    weight 9986.100000000004
+    weight 9986.099999999999
     token_id 5765
   ]
   edge [
@@ -116674,28 +116674,28 @@ graph [
     source 5875
     target 6079
     key 0
-    weight 4254.422119
+    weight 4254.422119000001
     token_id 6310
   ]
   edge [
     source 5875
     target 7314
     key 0
-    weight 2525.67315
+    weight 2525.673150000001
     token_id 4540
   ]
   edge [
     source 5875
     target 7323
     key 0
-    weight 2439.7659000000003
+    weight 2439.765900000001
     token_id 7605
   ]
   edge [
     source 5875
     target 4406
     key 0
-    weight 3515.2384500000003
+    weight 3515.2384500000085
     token_id 7537
   ]
   edge [
@@ -116716,7 +116716,7 @@ graph [
     source 5875
     target 7769
     key 0
-    weight 10137.94050000001
+    weight 10137.9405
     token_id 1034
   ]
   edge [
@@ -116737,14 +116737,14 @@ graph [
     source 5887
     target 8052
     key 0
-    weight 12371.724000000011
+    weight 12371.724
     token_id 2209
   ]
   edge [
     source 5887
     target 8097
     key 0
-    weight 9966.111000000008
+    weight 9966.111
     token_id 445
   ]
   edge [
@@ -116758,14 +116758,14 @@ graph [
     source 5890
     target 5934
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 8670
   ]
   edge [
     source 5891
     target 6455
     key 0
-    weight 3029.3908999999994
+    weight 3029.390900000001
     token_id 2208
   ]
   edge [
@@ -116779,42 +116779,42 @@ graph [
     source 5894
     target 655
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 6407
   ]
   edge [
     source 5894
     target 6520
     key 0
-    weight 11650.450000000004
+    weight 11650.449999999999
     token_id 5004
   ]
   edge [
     source 5901
     target 6046
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 8626
   ]
   edge [
     source 5901
     target 6236
     key 0
-    weight 3740.7871899999996
+    weight 3740.787190000001
     token_id 1554
   ]
   edge [
     source 5901
     target 4784
     key 0
-    weight 3778.2290999999996
+    weight 3778.2291000000014
     token_id 8625
   ]
   edge [
     source 5901
     target 6379
     key 0
-    weight 6602.224500000001
+    weight 6602.224500000017
     token_id 6565
   ]
   edge [
@@ -116828,7 +116828,7 @@ graph [
     source 5905
     target 5920
     key 0
-    weight 3252.3404549999996
+    weight 3252.340455000001
     token_id 4597
   ]
   edge [
@@ -116842,7 +116842,7 @@ graph [
     source 5908
     target 5644
     key 0
-    weight 4084.571999999999
+    weight 4084.572000000001
     token_id 4657
   ]
   edge [
@@ -116870,7 +116870,7 @@ graph [
     source 5910
     target 8148
     key 0
-    weight 12028.06500000001
+    weight 12028.065
     token_id 2592
   ]
   edge [
@@ -116884,7 +116884,7 @@ graph [
     source 5911
     target 7070
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 8291
   ]
   edge [
@@ -116898,7 +116898,7 @@ graph [
     source 5915
     target 6164
     key 0
-    weight 3812.2672
+    weight 3812.267200000001
     token_id 8765
   ]
   edge [
@@ -116940,7 +116940,7 @@ graph [
     source 5933
     target 2555
     key 0
-    weight 8866.402200000008
+    weight 8866.4022
     token_id 6452
   ]
   edge [
@@ -116968,14 +116968,14 @@ graph [
     source 5935
     target 185
     key 0
-    weight 17182.950000000015
+    weight 17182.95
     token_id 4080
   ]
   edge [
     source 5935
     target 7067
     key 0
-    weight 17182.950000000015
+    weight 17182.95
     token_id 7096
   ]
   edge [
@@ -116989,7 +116989,7 @@ graph [
     source 5941
     target 8070
     key 0
-    weight 7457.400300000006
+    weight 7457.4003
     token_id 7203
   ]
   edge [
@@ -117024,7 +117024,7 @@ graph [
     source 5947
     target 2639
     key 0
-    weight 6185.322000000001
+    weight 6185.322000000003
     token_id 5038
   ]
   edge [
@@ -117038,7 +117038,7 @@ graph [
     source 5949
     target 6017
     key 0
-    weight 4016.4957999999992
+    weight 4016.4958000000006
     token_id 7429
   ]
   edge [
@@ -117052,14 +117052,14 @@ graph [
     source 5952
     target 2352
     key 0
-    weight 3876.9395899999995
+    weight 3876.939590000001
     token_id 7955
   ]
   edge [
     source 5952
     target 7686
     key 0
-    weight 3414.9560130000004
+    weight 3414.956013000008
     token_id 2714
   ]
   edge [
@@ -117080,14 +117080,14 @@ graph [
     source 5952
     target 8250
     key 0
-    weight 8820.722130000004
+    weight 8820.72213
     token_id 1812
   ]
   edge [
     source 5958
     target 8015
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 1954
   ]
   edge [
@@ -117108,35 +117108,35 @@ graph [
     source 5964
     target 7508
     key 0
-    weight 2851.4472300000007
+    weight 2851.447230000007
     token_id 1020
   ]
   edge [
     source 5964
     target 4197
     key 0
-    weight 3069.1422000000002
+    weight 3069.1422000000075
     token_id 1566
   ]
   edge [
     source 5974
     target 1332
     key 0
-    weight 3737.3833799999998
+    weight 3737.383380000001
     token_id 5659
   ]
   edge [
     source 5976
     target 6466
     key 0
-    weight 3025.9870899999996
+    weight 3025.987090000001
     token_id 8207
   ]
   edge [
     source 5979
     target 6218
     key 0
-    weight 3710.1528999999996
+    weight 3710.1529000000014
     token_id 2964
   ]
   edge [
@@ -117171,14 +117171,14 @@ graph [
     source 5988
     target 8277
     key 0
-    weight 11650.450000000004
+    weight 11650.449999999999
     token_id 1848
   ]
   edge [
     source 5998
     target 5616
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 2927
   ]
   edge [
@@ -117192,7 +117192,7 @@ graph [
     source 5998
     target 7220
     key 0
-    weight 2749.0320000000006
+    weight 2749.032000000001
     token_id 3217
   ]
   edge [
@@ -117206,7 +117206,7 @@ graph [
     source 6001
     target 5246
     key 0
-    weight 2856.3872000000015
+    weight 2856.3872000000006
     token_id 8021
   ]
   edge [
@@ -117220,7 +117220,7 @@ graph [
     source 6004
     target 8129
     key 0
-    weight 11684.40600000001
+    weight 11684.406
     token_id 2213
   ]
   edge [
@@ -117255,21 +117255,21 @@ graph [
     source 6014
     target 3481
     key 0
-    weight 83217.50000000003
+    weight 83217.5
     token_id 3638
   ]
   edge [
     source 6016
     target 6103
     key 0
-    weight 2714.6691000000005
+    weight 2714.669100000001
     token_id 1532
   ]
   edge [
     source 6016
     target 3338
     key 0
-    weight 4742.0802
+    weight 4742.080200000001
     token_id 1531
   ]
   edge [
@@ -117290,21 +117290,21 @@ graph [
     source 6022
     target 5095
     key 0
-    weight 3507.2096000000015
+    weight 3507.2096
     token_id 1415
   ]
   edge [
     source 6025
     target 2529
     key 0
-    weight 3630.5037459999994
+    weight 3630.503746000001
     token_id 1483
   ]
   edge [
     source 6030
     target 8087
     key 0
-    weight 15464.655000000013
+    weight 15464.655
     token_id 8215
   ]
   edge [
@@ -117339,14 +117339,14 @@ graph [
     source 6041
     target 655
     key 0
-    weight 9210.061200000007
+    weight 9210.0612
     token_id 6384
   ]
   edge [
     source 6046
     target 364
     key 0
-    weight 5530.660000000001
+    weight 5530.66
     token_id 5829
   ]
   edge [
@@ -117360,14 +117360,14 @@ graph [
     source 6051
     target 7333
     key 0
-    weight 3436.2900000000004
+    weight 3436.2900000000013
     token_id 878
   ]
   edge [
     source 6051
     target 6542
     key 0
-    weight 3390.3315000000002
+    weight 3390.331500000008
     token_id 4146
   ]
   edge [
@@ -117381,14 +117381,14 @@ graph [
     source 6057
     target 8069
     key 0
-    weight 7560.498000000007
+    weight 7560.4980000000005
     token_id 3093
   ]
   edge [
     source 6057
     target 8072
     key 0
-    weight 7835.425200000006
+    weight 7835.4252
     token_id 156
   ]
   edge [
@@ -117444,28 +117444,28 @@ graph [
     source 6059
     target 8123
     key 0
-    weight 10928.35620000001
+    weight 10928.3562
     token_id 3135
   ]
   edge [
     source 6059
     target 6310
     key 0
-    weight 10687.794900000008
+    weight 10687.7949
     token_id 7742
   ]
   edge [
     source 6062
     target 8168
     key 0
-    weight 14670.802710000013
+    weight 14670.802710000002
     token_id 8814
   ]
   edge [
     source 6070
     target 7322
     key 0
-    weight 3436.2900000000004
+    weight 3436.2900000000013
     token_id 8824
   ]
   edge [
@@ -117479,14 +117479,14 @@ graph [
     source 6074
     target 5353
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 8830
   ]
   edge [
     source 6075
     target 6103
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 8832
   ]
   edge [
@@ -117507,28 +117507,28 @@ graph [
     source 6081
     target 1492
     key 0
-    weight 10137.94050000001
+    weight 10137.9405
     token_id 652
   ]
   edge [
     source 6083
     target 8114
     key 0
-    weight 237124.7100000002
+    weight 237124.71000000002
     token_id 8078
   ]
   edge [
     source 6084
     target 185
     key 0
-    weight 8591.475000000008
+    weight 8591.475
     token_id 8703
   ]
   edge [
     source 6087
     target 1332
     key 0
-    weight 3744.191
+    weight 3744.191000000001
     token_id 7468
   ]
   edge [
@@ -117556,7 +117556,7 @@ graph [
     source 6097
     target 3751
     key 0
-    weight 6689.008000000003
+    weight 6689.008000000001
     token_id 6186
   ]
   edge [
@@ -117570,42 +117570,42 @@ graph [
     source 6099
     target 5385
     key 0
-    weight 8509.524999999998
+    weight 8509.525000000001
     token_id 3821
   ]
   edge [
     source 6100
     target 5300
     key 0
-    weight 4282.524
+    weight 4282.52400000001
     token_id 3656
   ]
   edge [
     source 6100
     target 2329
     key 0
-    weight 22887.68940000002
+    weight 22887.689400000003
     token_id 3426
   ]
   edge [
     source 6101
     target 7312
     key 0
-    weight 2474.1288000000004
+    weight 2474.128800000001
     token_id 1086
   ]
   edge [
     source 6105
     target 4199
     key 0
-    weight 2855.0160000000005
+    weight 2855.016000000007
     token_id 2263
   ]
   edge [
     source 6105
     target 7681
     key 0
-    weight 3925.647000000001
+    weight 3925.64700000001
     token_id 411
   ]
   edge [
@@ -117661,7 +117661,7 @@ graph [
     source 6109
     target 3606
     key 0
-    weight 12027.72134100001
+    weight 12027.721341
     token_id 4397
   ]
   edge [
@@ -117689,7 +117689,7 @@ graph [
     source 6113
     target 602
     key 0
-    weight 48799.57800000004
+    weight 48799.578
     token_id 1863
   ]
   edge [
@@ -117724,14 +117724,14 @@ graph [
     source 6116
     target 7633
     key 0
-    weight 11993.69910000001
+    weight 11993.699100000002
     token_id 2977
   ]
   edge [
     source 6123
     target 7886
     key 0
-    weight 17822.473000000045
+    weight 17822.473000000013
     token_id 8503
   ]
   edge [
@@ -117752,7 +117752,7 @@ graph [
     source 6130
     target 8094
     key 0
-    weight 20343.519639559745
+    weight 20343.51963955973
     token_id 5296
   ]
   edge [
@@ -117773,14 +117773,14 @@ graph [
     source 6148
     target 6133
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 2876
   ]
   edge [
     source 6148
     target 5725
     key 0
-    weight 5956.6675
+    weight 5956.667500000001
     token_id 2480
   ]
   edge [
@@ -117794,7 +117794,7 @@ graph [
     source 6159
     target 2240
     key 0
-    weight 6126.857999999999
+    weight 6126.858000000002
     token_id 3786
   ]
   edge [
@@ -117808,7 +117808,7 @@ graph [
     source 6161
     target 4605
     key 0
-    weight 7886.050000000019
+    weight 7886.050000000006
     token_id 2136
   ]
   edge [
@@ -117822,7 +117822,7 @@ graph [
     source 6162
     target 7927
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 3597
   ]
   edge [
@@ -117843,35 +117843,35 @@ graph [
     source 6166
     target 7242
     key 0
-    weight 3401.9271000000003
+    weight 3401.9271000000012
     token_id 884
   ]
   edge [
     source 6166
     target 5671
     key 0
-    weight 3941.091200000002
+    weight 3941.0912000000008
     token_id 6678
   ]
   edge [
     source 6167
     target 1730
     key 0
-    weight 22337.835000000017
+    weight 22337.835
     token_id 8241
   ]
   edge [
     source 6168
     target 6360
     key 0
-    weight 3063.4289999999996
+    weight 3063.429000000001
     token_id 5503
   ]
   edge [
     source 6172
     target 8087
     key 0
-    weight 20275.88100000002
+    weight 20275.881
     token_id 4782
   ]
   edge [
@@ -117885,21 +117885,21 @@ graph [
     source 6176
     target 8073
     key 0
-    weight 8247.816000000006
+    weight 8247.816
     token_id 7843
   ]
   edge [
     source 6178
     target 6513
     key 0
-    weight 3948.4195999999993
+    weight 3948.4196000000006
     token_id 6198
   ]
   edge [
     source 6181
     target 7489
     key 0
-    weight 3615.6800000000017
+    weight 3615.6800000000003
     token_id 1525
   ]
   edge [
@@ -117920,21 +117920,21 @@ graph [
     source 6190
     target 8366
     key 0
-    weight 5475.353400000001
+    weight 5475.3534
     token_id 5826
   ]
   edge [
     source 6190
     target 8306
     key 0
-    weight 5530.660000000001
+    weight 5530.66
     token_id 7799
   ]
   edge [
     source 6191
     target 6193
     key 0
-    weight 3403.8099999999995
+    weight 3403.810000000001
     token_id 7155
   ]
   edge [
@@ -117948,7 +117948,7 @@ graph [
     source 6196
     target 6371
     key 0
-    weight 9622.452000000007
+    weight 9622.452
     token_id 6672
   ]
   edge [
@@ -117969,35 +117969,35 @@ graph [
     source 6204
     target 6678
     key 0
-    weight 2561.7541950000004
+    weight 2561.7541950000013
     token_id 1355
   ]
   edge [
     source 6204
     target 2287
     key 0
-    weight 2819.3283000000006
+    weight 2819.328300000007
     token_id 104
   ]
   edge [
     source 6204
     target 656
     key 0
-    weight 2997.7668000000003
+    weight 2997.766800000007
     token_id 63
   ]
   edge [
     source 6204
     target 7557
     key 0
-    weight 3283.2684000000004
+    weight 3283.268400000008
     token_id 5947
   ]
   edge [
     source 6204
     target 7897
     key 0
-    weight 9794.281500000008
+    weight 9794.281500000001
     token_id 7402
   ]
   edge [
@@ -118060,7 +118060,7 @@ graph [
     source 6227
     target 14
     key 0
-    weight 3332.3299899999993
+    weight 3332.3299900000006
     token_id 1593
   ]
   edge [
@@ -118074,49 +118074,49 @@ graph [
     source 6231
     target 7286
     key 0
-    weight 3092.6610000000005
+    weight 3092.6610000000014
     token_id 1084
   ]
   edge [
     source 6232
     target 8431
     key 0
-    weight 5475.353400000001
+    weight 5475.3534
     token_id 3559
   ]
   edge [
     source 6233
     target 4056
     key 0
-    weight 10137.94050000001
+    weight 10137.9405
     token_id 2650
   ]
   edge [
     source 6234
     target 631
     key 0
-    weight 4996.278
+    weight 4996.278000000012
     token_id 6051
   ]
   edge [
     source 6237
     target 185
     key 0
-    weight 10653.42900000001
+    weight 10653.429
     token_id 1498
   ]
   edge [
     source 6240
     target 1212
     key 0
-    weight 6083.7260000000015
+    weight 6083.726000000001
     token_id 4000
   ]
   edge [
     source 6245
     target 4789
     key 0
-    weight 18527.711000000003
+    weight 18527.711
     token_id 995
   ]
   edge [
@@ -118165,7 +118165,7 @@ graph [
     source 6259
     target 6622
     key 0
-    weight 4424.9529999999995
+    weight 4424.953000000001
     token_id 2803
   ]
   edge [
@@ -118179,7 +118179,7 @@ graph [
     source 6264
     target 1332
     key 0
-    weight 3710.1528999999996
+    weight 3710.1529000000014
     token_id 3765
   ]
   edge [
@@ -118193,7 +118193,7 @@ graph [
     source 6267
     target 6314
     key 0
-    weight 3369.7718999999993
+    weight 3369.7719000000006
     token_id 1628
   ]
   edge [
@@ -118228,35 +118228,35 @@ graph [
     source 6268
     target 7901
     key 0
-    weight 12681.01710000001
+    weight 12681.017100000001
     token_id 5226
   ]
   edge [
     source 6268
     target 1527
     key 0
-    weight 11993.69910000001
+    weight 11993.699100000002
     token_id 5327
   ]
   edge [
     source 6268
     target 2205
     key 0
-    weight 8122.028000000003
+    weight 8122.027999999999
     token_id 6497
   ]
   edge [
     source 6268
     target 8257
     key 0
-    weight 8155.315000000003
+    weight 8155.3150000000005
     token_id 5315
   ]
   edge [
     source 6268
     target 8278
     key 0
-    weight 7988.880000000003
+    weight 7988.879999999999
     token_id 4177
   ]
   edge [
@@ -118312,14 +118312,14 @@ graph [
     source 6270
     target 7436
     key 0
-    weight 2711.3984320000013
+    weight 2711.3984320000004
     token_id 1008
   ]
   edge [
     source 6273
     target 7293
     key 0
-    weight 3092.6610000000005
+    weight 3092.6610000000014
     token_id 5219
   ]
   edge [
@@ -118333,7 +118333,7 @@ graph [
     source 6281
     target 8230
     key 0
-    weight 10825.258500000009
+    weight 10825.2585
     token_id 7502
   ]
   edge [
@@ -118354,42 +118354,42 @@ graph [
     source 6287
     target 267
     key 0
-    weight 3357.3037439699997
+    weight 3357.303743970001
     token_id 6155
   ]
   edge [
     source 6287
     target 6366
     key 0
-    weight 3086.7110603999995
+    weight 3086.711060400001
     token_id 6024
   ]
   edge [
     source 6287
     target 6373
     key 0
-    weight 3052.844852805
+    weight 3052.8448528050008
     token_id 1177
   ]
   edge [
     source 6287
     target 6380
     key 0
-    weight 3009.1052135429995
+    weight 3009.105213543001
     token_id 4738
   ]
   edge [
     source 6287
     target 2204
     key 0
-    weight 2986.3929509369996
+    weight 2986.3929509370005
     token_id 8423
   ]
   edge [
     source 6287
     target 6389
     key 0
-    weight 3004.0665535999997
+    weight 3004.0665536000006
     token_id 8358
   ]
   edge [
@@ -118459,28 +118459,28 @@ graph [
     source 6287
     target 5935
     key 0
-    weight 2505.961559673
+    weight 2505.961559673001
     token_id 2088
   ]
   edge [
     source 6287
     target 7327
     key 0
-    weight 2795.7631315091216
+    weight 2795.7631315091226
     token_id 6934
   ]
   edge [
     source 6287
     target 2309
     key 0
-    weight 3058.8652800000013
+    weight 3058.86528
     token_id 8278
   ]
   edge [
     source 6287
     target 7397
     key 0
-    weight 2831.1522845760014
+    weight 2831.152284576
     token_id 2938
   ]
   edge [
@@ -118501,7 +118501,7 @@ graph [
     source 6287
     target 8175
     key 0
-    weight 10016.274045082508
+    weight 10016.2740450825
     token_id 5305
   ]
   edge [
@@ -118515,14 +118515,14 @@ graph [
     source 6293
     target 7654
     key 0
-    weight 3925.647000000001
+    weight 3925.64700000001
     token_id 7104
   ]
   edge [
     source 6296
     target 8117
     key 0
-    weight 10137.94050000001
+    weight 10137.9405
     token_id 1886
   ]
   edge [
@@ -118536,7 +118536,7 @@ graph [
     source 6299
     target 6585
     key 0
-    weight 7231.360000000003
+    weight 7231.360000000001
     token_id 4525
   ]
   edge [
@@ -118550,14 +118550,14 @@ graph [
     source 6300
     target 5608
     key 0
-    weight 2371.0401
+    weight 2371.0401000000006
     token_id 4331
   ]
   edge [
     source 6300
     target 7379
     key 0
-    weight 6245.347500000001
+    weight 6245.347500000015
     token_id 2558
   ]
   edge [
@@ -118585,7 +118585,7 @@ graph [
     source 6325
     target 8258
     key 0
-    weight 9952.813000000004
+    weight 9952.813
     token_id 6477
   ]
   edge [
@@ -118627,7 +118627,7 @@ graph [
     source 6337
     target 7897
     key 0
-    weight 8591.475000000008
+    weight 8591.475
     token_id 8416
   ]
   edge [
@@ -118641,7 +118641,7 @@ graph [
     source 6339
     target 7606
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 2271
   ]
   edge [
@@ -118669,14 +118669,14 @@ graph [
     source 6344
     target 2526
     key 0
-    weight 10997.08800000001
+    weight 10997.088000000002
     token_id 3099
   ]
   edge [
     source 6345
     target 7257
     key 0
-    weight 3579.5232000000015
+    weight 3579.5232
     token_id 3343
   ]
   edge [
@@ -118739,14 +118739,14 @@ graph [
     source 6375
     target 7927
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 2329
   ]
   edge [
     source 6376
     target 1927
     key 0
-    weight 4246.8363
+    weight 4246.83630000001
     token_id 5556
   ]
   edge [
@@ -118767,7 +118767,7 @@ graph [
     source 6377
     target 7629
     key 0
-    weight 4639.401000000001
+    weight 4639.401000000012
     token_id 1294
   ]
   edge [
@@ -118788,70 +118788,70 @@ graph [
     source 6381
     target 6382
     key 0
-    weight 3002.1604199999997
+    weight 3002.1604200000006
     token_id 2489
   ]
   edge [
     source 6381
     target 6427
     key 0
-    weight 3051.4255200000002
+    weight 3051.425520000001
     token_id 8025
   ]
   edge [
     source 6381
     target 7292
     key 0
-    weight 3030.8077800000005
+    weight 3030.807780000001
     token_id 3151
   ]
   edge [
     source 6381
     target 7002
     key 0
-    weight 3181.7984000000015
+    weight 3181.7984
     token_id 7651
   ]
   edge [
     source 6381
     target 7474
     key 0
-    weight 2892.5440000000017
+    weight 2892.5440000000003
     token_id 6599
   ]
   edge [
     source 6381
     target 7499
     key 0
-    weight 3615.6800000000017
+    weight 3615.6800000000003
     token_id 5426
   ]
   edge [
     source 6385
     target 8016
     key 0
-    weight 10137.94050000001
+    weight 10137.9405
     token_id 4233
   ]
   edge [
     source 6386
     target 5
     key 0
-    weight 4424.6126189999995
+    weight 4424.612619000001
     token_id 5607
   ]
   edge [
     source 6397
     target 8426
     key 0
-    weight 6056.072700000001
+    weight 6056.0727
     token_id 6961
   ]
   edge [
     source 6402
     target 7532
     key 0
-    weight 3247.5807000000004
+    weight 3247.580700000008
     token_id 8642
   ]
   edge [
@@ -118879,7 +118879,7 @@ graph [
     source 6412
     target 8101
     key 0
-    weight 9622.452000000007
+    weight 9622.452
     token_id 3058
   ]
   edge [
@@ -118928,14 +118928,14 @@ graph [
     source 6440
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 8617
   ]
   edge [
     source 6440
     target 8046
     key 0
-    weight 7533.15366086048
+    weight 7533.153660860477
     token_id 2859
   ]
   edge [
@@ -118970,7 +118970,7 @@ graph [
     source 6445
     target 7603
     key 0
-    weight 3247.5807000000004
+    weight 3247.580700000008
     token_id 3412
   ]
   edge [
@@ -118991,7 +118991,7 @@ graph [
     source 6458
     target 6824
     key 0
-    weight 6775.058500000001
+    weight 6775.0585
     token_id 3774
   ]
   edge [
@@ -119033,28 +119033,28 @@ graph [
     source 6470
     target 3154
     key 0
-    weight 5818.2138
+    weight 5818.2137999999995
     token_id 3544
   ]
   edge [
     source 6474
     target 4415
     key 0
-    weight 11168.917500000009
+    weight 11168.9175
     token_id 1303
   ]
   edge [
     source 6478
     target 3849
     key 0
-    weight 3574.0004999999996
+    weight 3574.000500000001
     token_id 8840
   ]
   edge [
     source 6480
     target 5355
     key 0
-    weight 3199.581399999999
+    weight 3199.5814000000005
     token_id 8843
   ]
   edge [
@@ -119068,7 +119068,7 @@ graph [
     source 6484
     target 8243
     key 0
-    weight 11816.885000000004
+    weight 11816.884999999998
     token_id 8847
   ]
   edge [
@@ -119082,7 +119082,7 @@ graph [
     source 6488
     target 262
     key 0
-    weight 10997.08800000001
+    weight 10997.088000000002
     token_id 8851
   ]
   edge [
@@ -119103,7 +119103,7 @@ graph [
     source 6502
     target 6463
     key 0
-    weight 4089.1851
+    weight 4089.1851000000015
     token_id 5202
   ]
   edge [
@@ -119159,7 +119159,7 @@ graph [
     source 6515
     target 7378
     key 0
-    weight 3615.6800000000017
+    weight 3615.6800000000003
     token_id 7385
   ]
   edge [
@@ -119173,28 +119173,28 @@ graph [
     source 6523
     target 6594
     key 0
-    weight 3854.271600000001
+    weight 3854.2716000000096
     token_id 3549
   ]
   edge [
     source 6525
     target 3318
     key 0
-    weight 2371.0401
+    weight 2371.0401000000006
     token_id 8789
   ]
   edge [
     source 6525
     target 7040
     key 0
-    weight 3104.8299
+    weight 3104.8299000000075
     token_id 8528
   ]
   edge [
     source 6525
     target 7594
     key 0
-    weight 3033.4545000000003
+    weight 3033.454500000007
     token_id 4173
   ]
   edge [
@@ -119215,7 +119215,7 @@ graph [
     source 6530
     target 6200
     key 0
-    weight 7231.360000000003
+    weight 7231.360000000001
     token_id 6184
   ]
   edge [
@@ -119257,70 +119257,70 @@ graph [
     source 6531
     target 7212
     key 0
-    weight 2542.8546
+    weight 2542.854600000001
     token_id 3974
   ]
   edge [
     source 6531
     target 6157
     key 0
-    weight 2577.2175
+    weight 2577.217500000001
     token_id 6699
   ]
   edge [
     source 6531
     target 7291
     key 0
-    weight 2680.3062000000004
+    weight 2680.3062000000014
     token_id 6118
   ]
   edge [
     source 6531
     target 7295
     key 0
-    weight 2645.9433000000004
+    weight 2645.9433000000013
     token_id 1241
   ]
   edge [
     source 6531
     target 7303
     key 0
-    weight 2663.1247500000004
+    weight 2663.1247500000013
     token_id 1836
   ]
   edge [
     source 6531
     target 7313
     key 0
-    weight 2542.8546
+    weight 2542.854600000001
     token_id 4798
   ]
   edge [
     source 6531
     target 5970
     key 0
-    weight 2542.8546
+    weight 2542.854600000001
     token_id 7238
   ]
   edge [
     source 6531
     target 7366
     key 0
-    weight 3181.7984000000015
+    weight 3181.7984
     token_id 3495
   ]
   edge [
     source 6531
     target 7380
     key 0
-    weight 2711.760000000001
+    weight 2711.76
     token_id 7177
   ]
   edge [
     source 6531
     target 7395
     key 0
-    weight 2856.3872000000015
+    weight 2856.3872000000006
     token_id 486
   ]
   edge [
@@ -119362,42 +119362,42 @@ graph [
     source 6531
     target 7
     key 0
-    weight 8591.475000000008
+    weight 8591.475
     token_id 2087
   ]
   edge [
     source 6531
     target 8047
     key 0
-    weight 8213.450100000007
+    weight 8213.4501
     token_id 2275
   ]
   edge [
     source 6531
     target 8054
     key 0
-    weight 8763.304500000007
+    weight 8763.3045
     token_id 5509
   ]
   edge [
     source 6531
     target 8069
     key 0
-    weight 8935.134000000007
+    weight 8935.134
     token_id 6506
   ]
   edge [
     source 6531
     target 3104
     key 0
-    weight 8866.402200000008
+    weight 8866.4022
     token_id 4301
   ]
   edge [
     source 6531
     target 1212
     key 0
-    weight 9320.360000000002
+    weight 9320.359999999999
     token_id 4302
   ]
   edge [
@@ -119432,14 +119432,14 @@ graph [
     source 6531
     target 7110
     key 0
-    weight 7570.608000000018
+    weight 7570.608000000006
     token_id 4358
   ]
   edge [
     source 6531
     target 7547
     key 0
-    weight 7255.166000000017
+    weight 7255.166000000005
     token_id 42
   ]
   edge [
@@ -119453,7 +119453,7 @@ graph [
     source 6537
     target 672
     key 0
-    weight 40845.719999999994
+    weight 40845.72000000001
     token_id 6135
   ]
   edge [
@@ -119474,14 +119474,14 @@ graph [
     source 6538
     target 7654
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 7139
   ]
   edge [
     source 6541
     target 672
     key 0
-    weight 17019.049999999996
+    weight 17019.050000000003
     token_id 4431
   ]
   edge [
@@ -119495,7 +119495,7 @@ graph [
     source 6544
     target 7413
     key 0
-    weight 18078.40000000001
+    weight 18078.4
     token_id 8276
   ]
   edge [
@@ -119530,7 +119530,7 @@ graph [
     source 6556
     target 2352
     key 0
-    weight 5105.714999999999
+    weight 5105.715000000001
     token_id 1212
   ]
   edge [
@@ -119544,21 +119544,21 @@ graph [
     source 6560
     target 8101
     key 0
-    weight 9622.452000000007
+    weight 9622.452
     token_id 3669
   ]
   edge [
     source 6563
     target 7383
     key 0
-    weight 3579.5232000000015
+    weight 3579.5232
     token_id 864
   ]
   edge [
     source 6564
     target 5612
     key 0
-    weight 6807.619999999999
+    weight 6807.620000000002
     token_id 4592
   ]
   edge [
@@ -119572,7 +119572,7 @@ graph [
     source 6570
     target 7649
     key 0
-    weight 7137.540000000001
+    weight 7137.540000000017
     token_id 2339
   ]
   edge [
@@ -119586,7 +119586,7 @@ graph [
     source 6572
     target 6626
     key 0
-    weight 4867.448299999999
+    weight 4867.448300000001
     token_id 8195
   ]
   edge [
@@ -119621,14 +119621,14 @@ graph [
     source 6580
     target 7635
     key 0
-    weight 9278.802000000001
+    weight 9278.802000000023
     token_id 3444
   ]
   edge [
     source 6581
     target 3725
     key 0
-    weight 17699.811999999998
+    weight 17699.812000000005
     token_id 1374
   ]
   edge [
@@ -119656,14 +119656,14 @@ graph [
     source 6587
     target 4789
     key 0
-    weight 67806.63
+    weight 67806.63000000016
     token_id 1981
   ]
   edge [
     source 6597
     target 4769
     key 0
-    weight 18557.586000000018
+    weight 18557.586000000003
     token_id 6337
   ]
   edge [
@@ -119684,7 +119684,7 @@ graph [
     source 6604
     target 7428
     key 0
-    weight 3254.1120000000014
+    weight 3254.1120000000005
     token_id 1388
   ]
   edge [
@@ -119719,7 +119719,7 @@ graph [
     source 6612
     target 7901
     key 0
-    weight 17182.950000000015
+    weight 17182.95
     token_id 3173
   ]
   edge [
@@ -119775,7 +119775,7 @@ graph [
     source 6617
     target 1730
     key 0
-    weight 27230.479999999996
+    weight 27230.480000000007
     token_id 1727
   ]
   edge [
@@ -119789,21 +119789,21 @@ graph [
     source 6619
     target 6449
     key 0
-    weight 28925.440000000013
+    weight 28925.440000000002
     token_id 8718
   ]
   edge [
     source 6620
     target 4789
     key 0
-    weight 7285.570800000007
+    weight 7285.5708
     token_id 3480
   ]
   edge [
     source 6621
     target 6594
     key 0
-    weight 5071.6768999999995
+    weight 5071.676900000001
     token_id 6919
   ]
   edge [
@@ -119838,7 +119838,7 @@ graph [
     source 6625
     target 98
     key 0
-    weight 5392.393500000001
+    weight 5392.3935
     token_id 2969
   ]
   edge [
@@ -119866,7 +119866,7 @@ graph [
     source 6628
     target 7274
     key 0
-    weight 13305.08783422061
+    weight 13305.087834220614
     token_id 7841
   ]
   edge [
@@ -119915,14 +119915,14 @@ graph [
     source 6639
     target 7681
     key 0
-    weight 4282.524
+    weight 4282.52400000001
     token_id 2988
   ]
   edge [
     source 6641
     target 6154
     key 0
-    weight 7137.540000000001
+    weight 7137.540000000017
     token_id 3550
   ]
   edge [
@@ -119943,14 +119943,14 @@ graph [
     source 6646
     target 7429
     key 0
-    weight 2856.3872000000015
+    weight 2856.3872000000006
     token_id 3596
   ]
   edge [
     source 6646
     target 7443
     key 0
-    weight 3217.9552000000017
+    weight 3217.9552000000003
     token_id 5729
   ]
   edge [
@@ -120013,7 +120013,7 @@ graph [
     source 6660
     target 8234
     key 0
-    weight 11168.917500000009
+    weight 11168.9175
     token_id 2510
   ]
   edge [
@@ -120041,7 +120041,7 @@ graph [
     source 6667
     target 8440
     key 0
-    weight 6772.524000000002
+    weight 6772.524
     token_id 1192
   ]
   edge [
@@ -120055,7 +120055,7 @@ graph [
     source 6669
     target 6195
     key 0
-    weight 5310.3297600000005
+    weight 5310.329760000012
     token_id 4726
   ]
   edge [
@@ -120076,21 +120076,21 @@ graph [
     source 6672
     target 8182
     key 0
-    weight 10790.89260000001
+    weight 10790.892600000001
     token_id 7380
   ]
   edge [
     source 6674
     target 8072
     key 0
-    weight 8247.816000000006
+    weight 8247.816
     token_id 6020
   ]
   edge [
     source 6676
     target 5920
     key 0
-    weight 9106.963500000007
+    weight 9106.9635
     token_id 4978
   ]
   edge [
@@ -120118,7 +120118,7 @@ graph [
     source 6681
     target 8198
     key 0
-    weight 10825.258500000009
+    weight 10825.2585
     token_id 2813
   ]
   edge [
@@ -120153,21 +120153,21 @@ graph [
     source 6694
     target 7662
     key 0
-    weight 3318.599223
+    weight 3318.599223000008
     token_id 6188
   ]
   edge [
     source 6696
     target 7151
     key 0
-    weight 3336.7999500000005
+    weight 3336.7999500000083
     token_id 8780
   ]
   edge [
     source 6697
     target 7605
     key 0
-    weight 3176.2053000000005
+    weight 3176.205300000008
     token_id 3873
   ]
   edge [
@@ -120244,14 +120244,14 @@ graph [
     source 6721
     target 7535
     key 0
-    weight 8029.732500000001
+    weight 8029.732500000019
     token_id 2934
   ]
   edge [
     source 6721
     target 6372
     key 0
-    weight 3718.6583400000004
+    weight 3718.658340000009
     token_id 7656
   ]
   edge [
@@ -120265,7 +120265,7 @@ graph [
     source 6724
     target 7414
     key 0
-    weight 3254.1120000000014
+    weight 3254.1120000000005
     token_id 2844
   ]
   edge [
@@ -120307,7 +120307,7 @@ graph [
     source 6738
     target 8072
     key 0
-    weight 7560.498000000007
+    weight 7560.4980000000005
     token_id 2126
   ]
   edge [
@@ -120328,7 +120328,7 @@ graph [
     source 6745
     target 7304
     key 0
-    weight 4089.1851
+    weight 4089.1851000000015
     token_id 465
   ]
   edge [
@@ -120342,28 +120342,28 @@ graph [
     source 6747
     target 7496
     key 0
-    weight 2639.446400000001
+    weight 2639.4464000000003
     token_id 2135
   ]
   edge [
     source 6751
     target 4789
     key 0
-    weight 13402.70100000001
+    weight 13402.701000000001
     token_id 2585
   ]
   edge [
     source 6753
     target 7546
     key 0
-    weight 3497.3946000000005
+    weight 3497.3946000000083
     token_id 6958
   ]
   edge [
     source 6753
     target 7670
     key 0
-    weight 3497.3946000000005
+    weight 3497.3946000000083
     token_id 4343
   ]
   edge [
@@ -120398,7 +120398,7 @@ graph [
     source 6756
     target 8046
     key 0
-    weight 7904.157000000006
+    weight 7904.157
     token_id 5091
   ]
   edge [
@@ -120419,7 +120419,7 @@ graph [
     source 6762
     target 7775
     key 0
-    weight 7988.880000000003
+    weight 7988.879999999999
     token_id 1329
   ]
   edge [
@@ -120433,7 +120433,7 @@ graph [
     source 6767
     target 442
     key 0
-    weight 9931.74510000001
+    weight 9931.7451
     token_id 1527
   ]
   edge [
@@ -120447,14 +120447,14 @@ graph [
     source 6774
     target 6080
     key 0
-    weight 8921.925000000001
+    weight 8921.925000000021
     token_id 8846
   ]
   edge [
     source 6774
     target 7556
     key 0
-    weight 8921.925000000001
+    weight 8921.925000000021
     token_id 1402
   ]
   edge [
@@ -120468,7 +120468,7 @@ graph [
     source 6776
     target 7538
     key 0
-    weight 10481.599500000008
+    weight 10481.5995
     token_id 8523
   ]
   edge [
@@ -120489,7 +120489,7 @@ graph [
     source 6786
     target 6751
     key 0
-    weight 5317.4673
+    weight 5317.467300000013
     token_id 2534
   ]
   edge [
@@ -120531,14 +120531,14 @@ graph [
     source 6795
     target 7188
     key 0
-    weight 2474.1288000000004
+    weight 2474.128800000001
     token_id 2835
   ]
   edge [
     source 6795
     target 7205
     key 0
-    weight 3401.9271000000003
+    weight 3401.9271000000012
     token_id 4838
   ]
   edge [
@@ -120566,7 +120566,7 @@ graph [
     source 6801
     target 8248
     key 0
-    weight 8488.185000000003
+    weight 8488.185
     token_id 6004
   ]
   edge [
@@ -120594,7 +120594,7 @@ graph [
     source 6807
     target 7927
     key 0
-    weight 10653.42900000001
+    weight 10653.429
     token_id 6490
   ]
   edge [
@@ -120643,14 +120643,14 @@ graph [
     source 6811
     target 4117
     key 0
-    weight 12028.06500000001
+    weight 12028.065
     token_id 963
   ]
   edge [
     source 6812
     target 7681
     key 0
-    weight 9287.073000000004
+    weight 9287.073
     token_id 5808
   ]
   edge [
@@ -120664,7 +120664,7 @@ graph [
     source 6815
     target 8101
     key 0
-    weight 9244.427100000008
+    weight 9244.4271
     token_id 5823
   ]
   edge [
@@ -120741,21 +120741,21 @@ graph [
     source 6825
     target 7631
     key 0
-    weight 3211.8930000000005
+    weight 3211.8930000000078
     token_id 8211
   ]
   edge [
     source 6825
     target 7702
     key 0
-    weight 3486.6882900000005
+    weight 3486.6882900000082
     token_id 839
   ]
   edge [
     source 6825
     target 6925
     key 0
-    weight 6587.818800000002
+    weight 6587.818800000001
     token_id 7230
   ]
   edge [
@@ -120790,7 +120790,7 @@ graph [
     source 6832
     target 3799
     key 0
-    weight 3707.7569100000005
+    weight 3707.7569100000014
     token_id 8680
   ]
   edge [
@@ -120811,7 +120811,7 @@ graph [
     source 6835
     target 7460
     key 0
-    weight 3362.5824000000016
+    weight 3362.5824000000002
     token_id 8130
   ]
   edge [
@@ -120825,7 +120825,7 @@ graph [
     source 6841
     target 5479
     key 0
-    weight 5423.520000000002
+    weight 5423.52
     token_id 3096
   ]
   edge [
@@ -120874,7 +120874,7 @@ graph [
     source 6848
     target 7274
     key 0
-    weight 30544.411920000024
+    weight 30544.411920000002
     token_id 7688
   ]
   edge [
@@ -120916,7 +120916,7 @@ graph [
     source 6858
     target 5474
     key 0
-    weight 3354.6438000000003
+    weight 3354.643800000008
     token_id 5084
   ]
   edge [
@@ -120930,28 +120930,28 @@ graph [
     source 6868
     target 6333
     key 0
-    weight 3176.2053000000005
+    weight 3176.205300000008
     token_id 3229
   ]
   edge [
     source 6879
     target 8108
     key 0
-    weight 9828.647400000007
+    weight 9828.6474
     token_id 242
   ]
   edge [
     source 6881
     target 7487
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 1169
   ]
   edge [
     source 6881
     target 7799
     key 0
-    weight 11306.38110000001
+    weight 11306.3811
     token_id 3457
   ]
   edge [
@@ -120972,7 +120972,7 @@ graph [
     source 6892
     target 7235
     key 0
-    weight 2542.8546
+    weight 2542.854600000001
     token_id 5819
   ]
   edge [
@@ -120993,7 +120993,7 @@ graph [
     source 6895
     target 7477
     key 0
-    weight 2621.3680000000013
+    weight 2621.368
     token_id 3497
   ]
   edge [
@@ -121007,7 +121007,7 @@ graph [
     source 6898
     target 8029
     key 0
-    weight 10997.08800000001
+    weight 10997.088000000002
     token_id 8408
   ]
   edge [
@@ -121021,7 +121021,7 @@ graph [
     source 6900
     target 7775
     key 0
-    weight 8295.990000000002
+    weight 8295.99
     token_id 1248
   ]
   edge [
@@ -121035,14 +121035,14 @@ graph [
     source 6904
     target 207
     key 0
-    weight 4776.4431
+    weight 4776.443100000001
     token_id 4903
   ]
   edge [
     source 6904
     target 467
     key 0
-    weight 5353.155000000001
+    weight 5353.155000000013
     token_id 8877
   ]
   edge [
@@ -121056,7 +121056,7 @@ graph [
     source 6908
     target 8432
     key 0
-    weight 5386.862840000001
+    weight 5386.86284
     token_id 7506
   ]
   edge [
@@ -121091,7 +121091,7 @@ graph [
     source 6915
     target 2336
     key 0
-    weight 7889.019000000003
+    weight 7889.019
     token_id 6117
   ]
   edge [
@@ -121105,7 +121105,7 @@ graph [
     source 6918
     target 1212
     key 0
-    weight 9966.111000000008
+    weight 9966.111
     token_id 5728
   ]
   edge [
@@ -121126,7 +121126,7 @@ graph [
     source 6920
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 2939
   ]
   edge [
@@ -121140,7 +121140,7 @@ graph [
     source 6922
     target 4430
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 1550
   ]
   edge [
@@ -121154,21 +121154,21 @@ graph [
     source 6925
     target 8314
     key 0
-    weight 7696.050000000001
+    weight 7696.05
     token_id 3782
   ]
   edge [
     source 6926
     target 6652
     key 0
-    weight 8987.490000000003
+    weight 8987.49
     token_id 7650
   ]
   edge [
     source 6930
     target 4581
     key 0
-    weight 10306.333410000008
+    weight 10306.333410000001
     token_id 7989
   ]
   edge [
@@ -121210,7 +121210,7 @@ graph [
     source 6949
     target 8089
     key 0
-    weight 9553.720200000007
+    weight 9553.7202
     token_id 2625
   ]
   edge [
@@ -121224,21 +121224,21 @@ graph [
     source 6954
     target 4789
     key 0
-    weight 7560.498000000007
+    weight 7560.4980000000005
     token_id 4964
   ]
   edge [
     source 6954
     target 8293
     key 0
-    weight 7722.584000000003
+    weight 7722.583999999999
     token_id 2490
   ]
   edge [
     source 6957
     target 6297
     key 0
-    weight 10034.842800000008
+    weight 10034.8428
     token_id 4577
   ]
   edge [
@@ -121280,14 +121280,14 @@ graph [
     source 6970
     target 4699
     key 0
-    weight 24299.51000000001
+    weight 24299.51
     token_id 7072
   ]
   edge [
     source 6974
     target 7579
     key 0
-    weight 3069.1422000000002
+    weight 3069.1422000000075
     token_id 7647
   ]
   edge [
@@ -121308,14 +121308,14 @@ graph [
     source 6978
     target 7550
     key 0
-    weight 5818.2138
+    weight 5818.2137999999995
     token_id 1089
   ]
   edge [
     source 6982
     target 6942
     key 0
-    weight 6231.133783586629
+    weight 6231.133783586628
     token_id 4802
   ]
   edge [
@@ -121336,7 +121336,7 @@ graph [
     source 6986
     target 5576
     key 0
-    weight 3058.2981000000004
+    weight 3058.2981000000013
     token_id 3276
   ]
   edge [
@@ -121371,14 +121371,14 @@ graph [
     source 6990
     target 7209
     key 0
-    weight 2714.6691000000005
+    weight 2714.669100000001
     token_id 3605
   ]
   edge [
     source 6990
     target 1805
     key 0
-    weight 2694.0513600000004
+    weight 2694.0513600000013
     token_id 1766
   ]
   edge [
@@ -121392,7 +121392,7 @@ graph [
     source 6995
     target 5097
     key 0
-    weight 3264.4755000000005
+    weight 3264.475500000001
     token_id 831
   ]
   edge [
@@ -121420,7 +121420,7 @@ graph [
     source 7004
     target 7994
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 4217
   ]
   edge [
@@ -121448,7 +121448,7 @@ graph [
     source 7013
     target 8429
     key 0
-    weight 5530.660000000001
+    weight 5530.66
     token_id 4748
   ]
   edge [
@@ -121525,14 +121525,14 @@ graph [
     source 7056
     target 4205
     key 0
-    weight 9219.984000000004
+    weight 9219.984
     token_id 4877
   ]
   edge [
     source 7059
     target 397
     key 0
-    weight 2675.6032000000014
+    weight 2675.6032
     token_id 1474
   ]
   edge [
@@ -121553,35 +121553,35 @@ graph [
     source 7065
     target 7541
     key 0
-    weight 10240.69454100001
+    weight 10240.694541
     token_id 7793
   ]
   edge [
     source 7066
     target 8101
     key 0
-    weight 9210.061200000007
+    weight 9210.0612
     token_id 5082
   ]
   edge [
     source 7066
     target 6110
     key 0
-    weight 9794.281500000008
+    weight 9794.281500000001
     token_id 7492
   ]
   edge [
     source 7066
     target 1730
     key 0
-    weight 17148.584100000015
+    weight 17148.5841
     token_id 1470
   ]
   edge [
     source 7071
     target 7311
     key 0
-    weight 2913.9739200000004
+    weight 2913.973920000001
     token_id 1892
   ]
   edge [
@@ -121616,14 +121616,14 @@ graph [
     source 7073
     target 708
     key 0
-    weight 16770.559200000014
+    weight 16770.5592
     token_id 1564
   ]
   edge [
     source 7073
     target 3472
     key 0
-    weight 17349.31000000004
+    weight 17349.310000000012
     token_id 2067
   ]
   edge [
@@ -121644,21 +121644,21 @@ graph [
     source 7077
     target 2603
     key 0
-    weight 8557.109100000009
+    weight 8557.109100000001
     token_id 3954
   ]
   edge [
     source 7077
     target 8100
     key 0
-    weight 9794.281500000008
+    weight 9794.281500000001
     token_id 8198
   ]
   edge [
     source 7077
     target 8256
     key 0
-    weight 9653.230000000003
+    weight 9653.23
     token_id 6553
   ]
   edge [
@@ -121672,7 +121672,7 @@ graph [
     source 7081
     target 7654
     key 0
-    weight 3568.7700000000004
+    weight 3568.7700000000086
     token_id 6894
   ]
   edge [
@@ -121700,7 +121700,7 @@ graph [
     source 7085
     target 8530
     key 0
-    weight 7602.15220000002
+    weight 7602.152200000006
     token_id 3477
   ]
   edge [
@@ -121728,14 +121728,14 @@ graph [
     source 7090
     target 5081
     key 0
-    weight 3401.9271000000003
+    weight 3401.9271000000012
     token_id 6896
   ]
   edge [
     source 7090
     target 6
     key 0
-    weight 7049.581800000002
+    weight 7049.5818
     token_id 6287
   ]
   edge [
@@ -121756,7 +121756,7 @@ graph [
     source 7094
     target 7297
     key 0
-    weight 3092.6610000000005
+    weight 3092.6610000000014
     token_id 4408
   ]
   edge [
@@ -121784,42 +121784,42 @@ graph [
     source 7105
     target 8163
     key 0
-    weight 9106.963500000007
+    weight 9106.9635
     token_id 6251
   ]
   edge [
     source 7105
     target 8172
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 1101
   ]
   edge [
     source 7105
     target 7884
     key 0
-    weight 10481.599500000008
+    weight 10481.5995
     token_id 485
   ]
   edge [
     source 7109
     target 7625
     key 0
-    weight 3390.3315000000002
+    weight 3390.331500000008
     token_id 520
   ]
   edge [
     source 7110
     target 8420
     key 0
-    weight 11614.386000000002
+    weight 11614.386
     token_id 1977
   ]
   edge [
     source 7112
     target 7063
     key 0
-    weight 12915.356000000003
+    weight 12915.356
     token_id 5694
   ]
   edge [
@@ -121840,7 +121840,7 @@ graph [
     source 7124
     target 7239
     key 0
-    weight 3023.9352000000003
+    weight 3023.9352000000013
     token_id 4938
   ]
   edge [
@@ -121854,14 +121854,14 @@ graph [
     source 7129
     target 8042
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 4531
   ]
   edge [
     source 7133
     target 7265
     key 0
-    weight 2697.1440210000005
+    weight 2697.144021000001
     token_id 4696
   ]
   edge [
@@ -121882,7 +121882,7 @@ graph [
     source 7142
     target 7615
     key 0
-    weight 3211.8930000000005
+    weight 3211.8930000000078
     token_id 5117
   ]
   edge [
@@ -121896,14 +121896,14 @@ graph [
     source 7144
     target 7927
     key 0
-    weight 10006.306221402378
+    weight 10006.306221402368
     token_id 6548
   ]
   edge [
     source 7148
     target 7328
     key 0
-    weight 2577.2175
+    weight 2577.217500000001
     token_id 8743
   ]
   edge [
@@ -121917,7 +121917,7 @@ graph [
     source 7161
     target 4228
     key 0
-    weight 9622.452000000007
+    weight 9622.452
     token_id 5438
   ]
   edge [
@@ -121931,14 +121931,14 @@ graph [
     source 7166
     target 303
     key 0
-    weight 3211.8930000000005
+    weight 3211.8930000000078
     token_id 2040
   ]
   edge [
     source 7174
     target 7351
     key 0
-    weight 2784.0736000000015
+    weight 2784.0736
     token_id 6981
   ]
   edge [
@@ -121952,28 +121952,28 @@ graph [
     source 7182
     target 708
     key 0
-    weight 2405.4030000000002
+    weight 2405.4030000000007
     token_id 5615
   ]
   edge [
     source 7182
     target 7433
     key 0
-    weight 2708.1443200000012
+    weight 2708.1443200000003
     token_id 855
   ]
   edge [
     source 7182
     target 6166
     key 0
-    weight 3176.2053000000005
+    weight 3176.205300000008
     token_id 7301
   ]
   edge [
     source 7182
     target 8072
     key 0
-    weight 8488.377300000007
+    weight 8488.377300000002
     token_id 1238
   ]
   edge [
@@ -121987,14 +121987,14 @@ graph [
     source 7182
     target 3617
     key 0
-    weight 5337.0869
+    weight 5337.086899999999
     token_id 4551
   ]
   edge [
     source 7194
     target 6234
     key 0
-    weight 5281.779600000001
+    weight 5281.779600000013
     token_id 7489
   ]
   edge [
@@ -122008,35 +122008,35 @@ graph [
     source 7199
     target 185
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 6010
   ]
   edge [
     source 7202
     target 7204
     key 0
-    weight 2474.1288000000004
+    weight 2474.128800000001
     token_id 5516
   ]
   edge [
     source 7202
     target 276
     key 0
-    weight 5154.435
+    weight 5154.435000000002
     token_id 7465
   ]
   edge [
     source 7202
     target 7459
     key 0
-    weight 2494.819200000001
+    weight 2494.8192
     token_id 1109
   ]
   edge [
     source 7207
     target 2639
     key 0
-    weight 3085.7884200000003
+    weight 3085.788420000001
     token_id 7646
   ]
   edge [
@@ -122050,21 +122050,21 @@ graph [
     source 7217
     target 6019
     key 0
-    weight 2542.8546
+    weight 2542.854600000001
     token_id 4884
   ]
   edge [
     source 7219
     target 6907
     key 0
-    weight 7656.010000000002
+    weight 7656.009999999999
     token_id 8658
   ]
   edge [
     source 7230
     target 397
     key 0
-    weight 5353.155000000001
+    weight 5353.155000000013
     token_id 122
   ]
   edge [
@@ -122113,35 +122113,35 @@ graph [
     source 7250
     target 7296
     key 0
-    weight 2766.2134500000006
+    weight 2766.213450000001
     token_id 4266
   ]
   edge [
     source 7250
     target 7593
     key 0
-    weight 3069.1422000000002
+    weight 3069.1422000000075
     token_id 4407
   ]
   edge [
     source 7250
     target 7680
     key 0
-    weight 3372.48765
+    weight 3372.4876500000078
     token_id 7499
   ]
   edge [
     source 7253
     target 218
     key 0
-    weight 3318.956100000001
+    weight 3318.956100000008
     token_id 7521
   ]
   edge [
     source 7253
     target 6226
     key 0
-    weight 7672.855500000001
+    weight 7672.855500000018
     token_id 7523
   ]
   edge [
@@ -122162,56 +122162,56 @@ graph [
     source 7258
     target 7289
     key 0
-    weight 3436.2900000000004
+    weight 3436.2900000000013
     token_id 4689
   ]
   edge [
     source 7260
     target 8078
     key 0
-    weight 9278.793000000009
+    weight 9278.793000000001
     token_id 1087
   ]
   edge [
     source 7260
     target 8108
     key 0
-    weight 9794.281500000008
+    weight 9794.281500000001
     token_id 3138
   ]
   edge [
     source 7266
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 3351
   ]
   edge [
     source 7267
     target 7518
     key 0
-    weight 3368.91888
+    weight 3368.918880000008
     token_id 285
   ]
   edge [
     source 7270
     target 2056
     key 0
-    weight 8821.055000000002
+    weight 8821.054999999998
     token_id 935
   ]
   edge [
     source 7273
     target 4737
     key 0
-    weight 4123.548000000001
+    weight 4123.548000000002
     token_id 1934
   ]
   edge [
     source 7278
     target 5947
     key 0
-    weight 5710.032000000001
+    weight 5710.032000000014
     token_id 3552
   ]
   edge [
@@ -122225,56 +122225,56 @@ graph [
     source 7284
     target 2121
     key 0
-    weight 3177.8809920000003
+    weight 3177.8809920000012
     token_id 3604
   ]
   edge [
     source 7284
     target 467
     key 0
-    weight 2816.6147200000014
+    weight 2816.6147200000005
     token_id 5135
   ]
   edge [
     source 7284
     target 7442
     key 0
-    weight 3054.888032000001
+    weight 3054.8880320000003
     token_id 2419
   ]
   edge [
     source 7284
     target 7450
     key 0
-    weight 2852.048384000001
+    weight 2852.048384
     token_id 6566
   ]
   edge [
     source 7284
     target 7479
     key 0
-    weight 2671.2643840000014
+    weight 2671.264384
     token_id 7123
   ]
   edge [
     source 7284
     target 7578
     key 0
-    weight 3101.2611300000003
+    weight 3101.2611300000076
     token_id 5336
   ]
   edge [
     source 7284
     target 7620
     key 0
-    weight 3550.5692730000005
+    weight 3550.5692730000087
     token_id 1753
   ]
   edge [
     source 7284
     target 4228
     key 0
-    weight 3318.2423460000005
+    weight 3318.2423460000077
     token_id 3890
   ]
   edge [
@@ -122302,21 +122302,21 @@ graph [
     source 7288
     target 7619
     key 0
-    weight 3497.3946000000005
+    weight 3497.3946000000083
     token_id 4482
   ]
   edge [
     source 7294
     target 7524
     key 0
-    weight 12455.007300000003
+    weight 12455.00730000003
     token_id 6612
   ]
   edge [
     source 7294
     target 7198
     key 0
-    weight 3015.61065
+    weight 3015.6106500000074
     token_id 6938
   ]
   edge [
@@ -122344,14 +122344,14 @@ graph [
     source 7304
     target 6495
     key 0
-    weight 9278.793000000009
+    weight 9278.793000000001
     token_id 5660
   ]
   edge [
     source 7308
     target 443
     key 0
-    weight 11065.81980000001
+    weight 11065.819800000001
     token_id 964
   ]
   edge [
@@ -122379,21 +122379,21 @@ graph [
     source 7320
     target 8055
     key 0
-    weight 10137.94050000001
+    weight 10137.9405
     token_id 1640
   ]
   edge [
     source 7320
     target 6032
     key 0
-    weight 15464.655000000013
+    weight 15464.655
     token_id 1216
   ]
   edge [
     source 7320
     target 6245
     key 0
-    weight 14656.249000000002
+    weight 14656.249
     token_id 8411
   ]
   edge [
@@ -122463,7 +122463,7 @@ graph [
     source 7358
     target 7552
     key 0
-    weight 3169.0677600000004
+    weight 3169.0677600000076
     token_id 7904
   ]
   edge [
@@ -122477,7 +122477,7 @@ graph [
     source 7363
     target 4205
     key 0
-    weight 5857.401600000003
+    weight 5857.401600000001
     token_id 5632
   ]
   edge [
@@ -122498,7 +122498,7 @@ graph [
     source 7371
     target 708
     key 0
-    weight 7064.288638400608
+    weight 7064.288638400605
     token_id 5035
   ]
   edge [
@@ -122512,28 +122512,28 @@ graph [
     source 7382
     target 5875
     key 0
-    weight 10137.94050000001
+    weight 10137.9405
     token_id 1642
   ]
   edge [
     source 7394
     target 8028
     key 0
-    weight 9244.427100000008
+    weight 9244.4271
     token_id 1040
   ]
   edge [
     source 7396
     target 8072
     key 0
-    weight 8591.475000000008
+    weight 8591.475
     token_id 1307
   ]
   edge [
     source 7401
     target 7478
     key 0
-    weight 5416.2886400000025
+    weight 5416.288640000001
     token_id 3524
   ]
   edge [
@@ -122561,35 +122561,35 @@ graph [
     source 7412
     target 7667
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 4241
   ]
   edge [
     source 7416
     target 8264
     key 0
-    weight 8321.750000000004
+    weight 8321.75
     token_id 3646
   ]
   edge [
     source 7421
     target 7423
     key 0
-    weight 2711.760000000001
+    weight 2711.76
     token_id 1401
   ]
   edge [
     source 7426
     target 8101
     key 0
-    weight 9072.597600000008
+    weight 9072.597600000001
     token_id 7478
   ]
   edge [
     source 7428
     target 7073
     key 0
-    weight 6927.106320000018
+    weight 6927.106320000005
     token_id 3641
   ]
   edge [
@@ -122603,7 +122603,7 @@ graph [
     source 7434
     target 7576
     key 0
-    weight 28550.160000000003
+    weight 28550.16000000007
     token_id 3964
   ]
   edge [
@@ -122617,7 +122617,7 @@ graph [
     source 7448
     target 8120
     key 0
-    weight 5503.006700000001
+    weight 5503.0067
     token_id 8862
   ]
   edge [
@@ -122631,7 +122631,7 @@ graph [
     source 7452
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 2047
   ]
   edge [
@@ -122666,7 +122666,7 @@ graph [
     source 7463
     target 7470
     key 0
-    weight 2639.446400000001
+    weight 2639.4464000000003
     token_id 3881
   ]
   edge [
@@ -122680,21 +122680,21 @@ graph [
     source 7465
     target 1260
     key 0
-    weight 7457.400300000006
+    weight 7457.4003
     token_id 3576
   ]
   edge [
     source 7469
     target 996
     key 0
-    weight 3104.8299
+    weight 3104.8299000000075
     token_id 4661
   ]
   edge [
     source 7476
     target 7801
     key 0
-    weight 9183.883300000003
+    weight 9183.8833
     token_id 5136
   ]
   edge [
@@ -122708,35 +122708,35 @@ graph [
     source 7483
     target 7151
     key 0
-    weight 3283.2684000000004
+    weight 3283.268400000008
     token_id 7084
   ]
   edge [
     source 7488
     target 6656
     key 0
-    weight 7988.880000000003
+    weight 7988.879999999999
     token_id 4968
   ]
   edge [
     source 7495
     target 7058
     key 0
-    weight 3747.2085000000006
+    weight 3747.2085000000093
     token_id 8876
   ]
   edge [
     source 7497
     target 324
     key 0
-    weight 8654.620000000003
+    weight 8654.619999999999
     token_id 856
   ]
   edge [
     source 7499
     target 61
     key 0
-    weight 5848.9980000000005
+    weight 5848.998
     token_id 7360
   ]
   edge [
@@ -122750,42 +122750,42 @@ graph [
     source 7519
     target 8092
     key 0
-    weight 34365.90000000003
+    weight 34365.9
     token_id 7030
   ]
   edge [
     source 7520
     target 7927
     key 0
-    weight 8590.787682000007
+    weight 8590.787682
     token_id 5343
   ]
   edge [
     source 7520
     target 2385
     key 0
-    weight 6618.603000000001
+    weight 6618.603
     token_id 1336
   ]
   edge [
     source 7521
     target 8072
     key 0
-    weight 8553.672510000008
+    weight 8553.67251
     token_id 8275
   ]
   edge [
     source 7522
     target 8197
     key 0
-    weight 10790.89260000001
+    weight 10790.892600000001
     token_id 7168
   ]
   edge [
     source 7524
     target 8490
     key 0
-    weight 6464.682000000002
+    weight 6464.682000000001
     token_id 3498
   ]
   edge [
@@ -122806,35 +122806,35 @@ graph [
     source 7529
     target 4789
     key 0
-    weight 3479.5507500000003
+    weight 3479.5507500000085
     token_id 5458
   ]
   edge [
     source 7529
     target 8233
     key 0
-    weight 11340.747000000008
+    weight 11340.747
     token_id 6030
   ]
   edge [
     source 7529
     target 98
     key 0
-    weight 7881.1905000000015
+    weight 7881.1905
     token_id 7439
   ]
   edge [
     source 7529
     target 6372
     key 0
-    weight 8674.65500000002
+    weight 8674.655000000006
     token_id 5088
   ]
   edge [
     source 7534
     target 4228
     key 0
-    weight 9450.622500000009
+    weight 9450.622500000001
     token_id 2219
   ]
   edge [
@@ -122848,7 +122848,7 @@ graph [
     source 7538
     target 7654
     key 0
-    weight 3533.0823000000005
+    weight 3533.0823000000087
     token_id 5049
   ]
   edge [
@@ -122904,14 +122904,14 @@ graph [
     source 7541
     target 7990
     key 0
-    weight 10821.82191000001
+    weight 10821.82191
     token_id 7905
   ]
   edge [
     source 7546
     target 8199
     key 0
-    weight 10997.08800000001
+    weight 10997.088000000002
     token_id 7800
   ]
   edge [
@@ -122925,7 +122925,7 @@ graph [
     source 7550
     target 6297
     key 0
-    weight 9588.086100000008
+    weight 9588.0861
     token_id 2001
   ]
   edge [
@@ -122953,21 +122953,21 @@ graph [
     source 7565
     target 7470
     key 0
-    weight 3426.0192
+    weight 3426.0192000000084
     token_id 6726
   ]
   edge [
     source 7566
     target 7674
     key 0
-    weight 8885.523546
+    weight 8885.52354600002
     token_id 6583
   ]
   edge [
     source 7568
     target 7547
     key 0
-    weight 9463.260000000024
+    weight 9463.260000000007
     token_id 4688
   ]
   edge [
@@ -122981,14 +122981,14 @@ graph [
     source 7574
     target 8166
     key 0
-    weight 9931.74510000001
+    weight 9931.7451
     token_id 4547
   ]
   edge [
     source 7580
     target 8173
     key 0
-    weight 10962.722100000008
+    weight 10962.7221
     token_id 8880
   ]
   edge [
@@ -123002,14 +123002,14 @@ graph [
     source 7583
     target 7283
     key 0
-    weight 5630.430180000001
+    weight 5630.43018
     token_id 3687
   ]
   edge [
     source 7585
     target 8069
     key 0
-    weight 9161.948940000007
+    weight 9161.94894
     token_id 2159
   ]
   edge [
@@ -123023,7 +123023,7 @@ graph [
     source 7590
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 7171
   ]
   edge [
@@ -123037,7 +123037,7 @@ graph [
     source 7597
     target 2739
     key 0
-    weight 5530.660000000001
+    weight 5530.66
     token_id 1518
   ]
   edge [
@@ -123072,14 +123072,14 @@ graph [
     source 7611
     target 7612
     key 0
-    weight 3675.8331000000007
+    weight 3675.833100000009
     token_id 2378
   ]
   edge [
     source 7613
     target 8403
     key 0
-    weight 5807.193000000001
+    weight 5807.193
     token_id 7019
   ]
   edge [
@@ -123107,14 +123107,14 @@ graph [
     source 7628
     target 7646
     key 0
-    weight 3318.956100000001
+    weight 3318.956100000008
     token_id 7602
   ]
   edge [
     source 7628
     target 7688
     key 0
-    weight 3390.3315000000002
+    weight 3390.331500000008
     token_id 3280
   ]
   edge [
@@ -123128,14 +123128,14 @@ graph [
     source 7633
     target 8190
     key 0
-    weight 11340.747000000008
+    weight 11340.747
     token_id 2929
   ]
   edge [
     source 7634
     target 2988
     key 0
-    weight 10951.423000000004
+    weight 10951.422999999999
     token_id 7441
   ]
   edge [
@@ -123149,7 +123149,7 @@ graph [
     source 7664
     target 6775
     key 0
-    weight 9416.256600000008
+    weight 9416.2566
     token_id 3525
   ]
   edge [
@@ -123184,14 +123184,14 @@ graph [
     source 7675
     target 8167
     key 0
-    weight 9863.013300000008
+    weight 9863.0133
     token_id 3697
   ]
   edge [
     source 7678
     target 8112
     key 0
-    weight 9966.111000000008
+    weight 9966.111
     token_id 2968
   ]
   edge [
@@ -123219,7 +123219,7 @@ graph [
     source 7693
     target 7927
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 7410
   ]
   edge [
@@ -123240,14 +123240,14 @@ graph [
     source 7699
     target 8475
     key 0
-    weight 8127.028800000002
+    weight 8127.028800000001
     token_id 6340
   ]
   edge [
     source 7701
     target 8263
     key 0
-    weight 8288.463000000003
+    weight 8288.463
     token_id 1722
   ]
   edge [
@@ -123268,7 +123268,7 @@ graph [
     source 7709
     target 8403
     key 0
-    weight 6464.682000000002
+    weight 6464.682000000001
     token_id 719
   ]
   edge [
@@ -123289,42 +123289,42 @@ graph [
     source 7734
     target 4333
     key 0
-    weight 10172.306400000009
+    weight 10172.3064
     token_id 2314
   ]
   edge [
     source 7734
     target 8101
     key 0
-    weight 9553.720200000007
+    weight 9553.7202
     token_id 2285
   ]
   edge [
     source 7734
     target 566
     key 0
-    weight 10241.038200000008
+    weight 10241.0382
     token_id 7215
   ]
   edge [
     source 7734
     target 679
     key 0
-    weight 9087.351000000002
+    weight 9087.350999999999
     token_id 2858
   ]
   edge [
     source 7734
     target 7535
     key 0
-    weight 8255.176000000003
+    weight 8255.176
     token_id 2093
   ]
   edge [
     source 7734
     target 8276
     key 0
-    weight 9153.925000000003
+    weight 9153.925
     token_id 3068
   ]
   edge [
@@ -123338,14 +123338,14 @@ graph [
     source 7734
     target 8409
     key 0
-    weight 6304.9524
+    weight 6304.952399999999
     token_id 1423
   ]
   edge [
     source 7734
     target 8449
     key 0
-    weight 6710.955600000002
+    weight 6710.9556
     token_id 900
   ]
   edge [
@@ -123359,14 +123359,14 @@ graph [
     source 7736
     target 8144
     key 0
-    weight 5364.7402
+    weight 5364.740199999999
     token_id 4822
   ]
   edge [
     source 7737
     target 6807
     key 0
-    weight 18307.850000000006
+    weight 18307.85
     token_id 3848
   ]
   edge [
@@ -123394,14 +123394,14 @@ graph [
     source 7745
     target 8072
     key 0
-    weight 8588.038410000008
+    weight 8588.038410000001
     token_id 3146
   ]
   edge [
     source 7745
     target 6944
     key 0
-    weight 4949.940700000001
+    weight 4949.9407
     token_id 2643
   ]
   edge [
@@ -123443,7 +123443,7 @@ graph [
     source 7763
     target 3092
     key 0
-    weight 6990.270000000003
+    weight 6990.2699999999995
     token_id 924
   ]
   edge [
@@ -123457,14 +123457,14 @@ graph [
     source 7768
     target 7218
     key 0
-    weight 6092.501022000001
+    weight 6092.501022
     token_id 4457
   ]
   edge [
     source 7770
     target 8383
     key 0
-    weight 5115.860500000001
+    weight 5115.8605
     token_id 5977
   ]
   edge [
@@ -123478,7 +123478,7 @@ graph [
     source 7772
     target 7927
     key 0
-    weight 10309.426341000008
+    weight 10309.426341
     token_id 1750
   ]
   edge [
@@ -123499,14 +123499,14 @@ graph [
     source 7773
     target 8512
     key 0
-    weight 8003.892000000002
+    weight 8003.892000000001
     token_id 1105
   ]
   edge [
     source 7775
     target 8416
     key 0
-    weight 7604.657500000001
+    weight 7604.657499999999
     token_id 8268
   ]
   edge [
@@ -123520,7 +123520,7 @@ graph [
     source 7780
     target 8435
     key 0
-    weight 5337.0869
+    weight 5337.086899999999
     token_id 644
   ]
   edge [
@@ -123541,7 +123541,7 @@ graph [
     source 7782
     target 5264
     key 0
-    weight 6495.466200000001
+    weight 6495.4662
     token_id 7518
   ]
   edge [
@@ -123555,14 +123555,14 @@ graph [
     source 7791
     target 6
     key 0
-    weight 8311.734000000002
+    weight 8311.734
     token_id 7377
   ]
   edge [
     source 7792
     target 8072
     key 0
-    weight 12028.06500000001
+    weight 12028.065
     token_id 2200
   ]
   edge [
@@ -123604,14 +123604,14 @@ graph [
     source 7809
     target 3349
     key 0
-    weight 17182.950000000015
+    weight 17182.95
     token_id 4191
   ]
   edge [
     source 7814
     target 5517
     key 0
-    weight 7034.356600000017
+    weight 7034.3566000000055
     token_id 2170
   ]
   edge [
@@ -123625,14 +123625,14 @@ graph [
     source 7825
     target 8072
     key 0
-    weight 8591.475000000008
+    weight 8591.475
     token_id 4951
   ]
   edge [
     source 7828
     target 7927
     key 0
-    weight 10206.67230000001
+    weight 10206.672300000002
     token_id 3580
   ]
   edge [
@@ -123646,7 +123646,7 @@ graph [
     source 7829
     target 7927
     key 1
-    weight 10309.770000000008
+    weight 10309.77
     token_id 7662
   ]
   edge [
@@ -123660,7 +123660,7 @@ graph [
     source 7839
     target 6909
     key 0
-    weight 9986.100000000004
+    weight 9986.099999999999
     token_id 7162
   ]
   edge [
@@ -123674,7 +123674,7 @@ graph [
     source 7846
     target 8105
     key 0
-    weight 9794.281500000008
+    weight 9794.281500000001
     token_id 955
   ]
   edge [
@@ -123688,7 +123688,7 @@ graph [
     source 7856
     target 7801
     key 0
-    weight 8651.291300000004
+    weight 8651.2913
     token_id 4541
   ]
   edge [
@@ -123709,7 +123709,7 @@ graph [
     source 7869
     target 7393
     key 0
-    weight 7080.058158000002
+    weight 7080.058158000001
     token_id 726
   ]
   edge [
@@ -123730,7 +123730,7 @@ graph [
     source 7876
     target 8413
     key 0
-    weight 5668.9265000000005
+    weight 5668.9265
     token_id 2154
   ]
   edge [
@@ -123758,14 +123758,14 @@ graph [
     source 7879
     target 6824
     key 0
-    weight 4977.594000000001
+    weight 4977.594
     token_id 5838
   ]
   edge [
     source 7884
     target 8439
     key 0
-    weight 6310.761
+    weight 6310.7609999999995
     token_id 7003
   ]
   edge [
@@ -123779,7 +123779,7 @@ graph [
     source 7890
     target 8475
     key 0
-    weight 6772.524000000002
+    weight 6772.524
     token_id 8414
   ]
   edge [
@@ -123793,91 +123793,91 @@ graph [
     source 7893
     target 5487
     key 0
-    weight 9450.622500000009
+    weight 9450.622500000001
     token_id 695
   ]
   edge [
     source 7895
     target 5250
     key 0
-    weight 11583.876000000004
+    weight 11583.876
     token_id 3393
   ]
   edge [
     source 7896
     target 4789
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 7963
   ]
   edge [
     source 7896
     target 7927
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 1349
   ]
   edge [
     source 7899
     target 5935
     key 0
-    weight 7285.570800000007
+    weight 7285.5708
     token_id 2797
   ]
   edge [
     source 7901
     target 8072
     key 0
-    weight 8512.433430000006
+    weight 8512.43343
     token_id 2342
   ]
   edge [
     source 7901
     target 8072
     key 1
-    weight 8550.235920000006
+    weight 8550.235920000001
     token_id 7332
   ]
   edge [
     source 7901
     target 8072
     key 2
-    weight 8588.038410000008
+    weight 8588.038410000001
     token_id 3758
   ]
   edge [
     source 7901
     target 8096
     key 0
-    weight 9777.09855000001
+    weight 9777.09855
     token_id 7373
   ]
   edge [
     source 7901
     target 3664
     key 0
-    weight 9897.379200000008
+    weight 9897.3792
     token_id 3155
   ]
   edge [
     source 7901
     target 1410
     key 0
-    weight 10962.722100000008
+    weight 10962.7221
     token_id 3600
   ]
   edge [
     source 7901
     target 8122
     key 0
-    weight 10275.404100000009
+    weight 10275.404100000002
     token_id 1764
   ]
   edge [
     source 7901
     target 5841
     key 0
-    weight 7889.019000000003
+    weight 7889.019
     token_id 1152
   ]
   edge [
@@ -123891,28 +123891,28 @@ graph [
     source 7903
     target 8072
     key 0
-    weight 9210.061200000007
+    weight 9210.0612
     token_id 5576
   ]
   edge [
     source 7903
     target 8072
     key 1
-    weight 8519.306610000007
+    weight 8519.306610000001
     token_id 4294
   ]
   edge [
     source 7903
     target 7927
     key 0
-    weight 10120.757550000008
+    weight 10120.75755
     token_id 2420
   ]
   edge [
     source 7903
     target 608
     key 0
-    weight 11959.33320000001
+    weight 11959.333200000001
     token_id 5863
   ]
   edge [
@@ -123933,7 +123933,7 @@ graph [
     source 7926
     target 6181
     key 0
-    weight 7889.019000000003
+    weight 7889.019
     token_id 2954
   ]
   edge [
@@ -123961,7 +123961,7 @@ graph [
     source 7935
     target 3552
     key 0
-    weight 12028.06500000001
+    weight 12028.065
     token_id 8588
   ]
   edge [
@@ -123982,14 +123982,14 @@ graph [
     source 7953
     target 7927
     key 0
-    weight 10137.94050000001
+    weight 10137.9405
     token_id 3421
   ]
   edge [
     source 7953
     target 2374
     key 0
-    weight 9588.086100000008
+    weight 9588.0861
     token_id 5125
   ]
   edge [
@@ -124031,35 +124031,35 @@ graph [
     source 7966
     target 8056
     key 0
-    weight 9106.963500000007
+    weight 9106.9635
     token_id 5640
   ]
   edge [
     source 7966
     target 8085
     key 0
-    weight 9450.622500000009
+    weight 9450.622500000001
     token_id 2066
   ]
   edge [
     source 7966
     target 7681
     key 0
-    weight 10481.599500000008
+    weight 10481.5995
     token_id 3917
   ]
   edge [
     source 7974
     target 8072
     key 0
-    weight 8557.109100000009
+    weight 8557.109100000001
     token_id 5832
   ]
   edge [
     source 7975
     target 7458
     key 0
-    weight 8321.750000000004
+    weight 8321.75
     token_id 1846
   ]
   edge [
@@ -124073,7 +124073,7 @@ graph [
     source 8006
     target 2988
     key 0
-    weight 13059.04200000001
+    weight 13059.042
     token_id 3762
   ]
   edge [
@@ -124087,14 +124087,14 @@ graph [
     source 8017
     target 4789
     key 0
-    weight 10309.770000000008
+    weight 10309.77
     token_id 1735
   ]
   edge [
     source 8021
     target 4789
     key 0
-    weight 50517.87300000004
+    weight 50517.873
     token_id 1964
   ]
   edge [
@@ -124115,56 +124115,56 @@ graph [
     source 8039
     target 7307
     key 0
-    weight 9426.566370000008
+    weight 9426.56637
     token_id 2733
   ]
   edge [
     source 8040
     target 8072
     key 0
-    weight 7526.132100000006
+    weight 7526.1321
     token_id 5193
   ]
   edge [
     source 8042
     target 7451
     key 0
-    weight 8295.990000000002
+    weight 8295.99
     token_id 3965
   ]
   edge [
     source 8042
     target 8485
     key 0
-    weight 6772.524000000002
+    weight 6772.524
     token_id 4848
   ]
   edge [
     source 8043
     target 4987
     key 0
-    weight 7388.668500000006
+    weight 7388.6685
     token_id 6786
   ]
   edge [
     source 8043
     target 8072
     key 0
-    weight 9141.329400000008
+    weight 9141.3294
     token_id 7350
   ]
   edge [
     source 8043
     target 3259
     key 0
-    weight 17642.110000000004
+    weight 17642.109999999997
     token_id 7007
   ]
   edge [
     source 8043
     target 2475
     key 0
-    weight 6028.419400000002
+    weight 6028.419400000001
     token_id 4162
   ]
   edge [
@@ -124178,28 +124178,28 @@ graph [
     source 8044
     target 8069
     key 0
-    weight 8419.645500000008
+    weight 8419.6455
     token_id 1267
   ]
   edge [
     source 8044
     target 8072
     key 0
-    weight 7732.327500000007
+    weight 7732.3275
     token_id 5911
   ]
   edge [
     source 8045
     target 8072
     key 0
-    weight 7866.354510000007
+    weight 7866.354510000001
     token_id 5017
   ]
   edge [
     source 8045
     target 6423
     key 0
-    weight 9897.035541000008
+    weight 9897.035541000001
     token_id 154
   ]
   edge [
@@ -124213,7 +124213,7 @@ graph [
     source 8075
     target 4205
     key 0
-    weight 14914.800600000011
+    weight 14914.8006
     token_id 5831
   ]
   edge [
@@ -124234,7 +124234,7 @@ graph [
     source 8093
     target 8158
     key 0
-    weight 8763.304500000007
+    weight 8763.3045
     token_id 4445
   ]
   edge [
@@ -124248,21 +124248,21 @@ graph [
     source 8102
     target 146
     key 0
-    weight 9622.452000000007
+    weight 9622.452
     token_id 905
   ]
   edge [
     source 8103
     target 8520
     key 0
-    weight 8832.376000000022
+    weight 8832.376000000006
     token_id 1860
   ]
   edge [
     source 8127
     target 7755
     key 0
-    weight 9863.013300000008
+    weight 9863.0133
     token_id 3287
   ]
   edge [
@@ -124276,7 +124276,7 @@ graph [
     source 8144
     target 4549
     key 0
-    weight 9759.915600000008
+    weight 9759.9156
     token_id 6992
   ]
   edge [
@@ -124311,7 +124311,7 @@ graph [
     source 8165
     target 7814
     key 0
-    weight 7922.306000000002
+    weight 7922.306
     token_id 2073
   ]
   edge [
@@ -124346,63 +124346,63 @@ graph [
     source 8183
     target 615
     key 0
-    weight 10619.063100000008
+    weight 10619.0631
     token_id 8632
   ]
   edge [
     source 8183
     target 4874
     key 0
-    weight 9931.74510000001
+    weight 9931.7451
     token_id 5317
   ]
   edge [
     source 8183
     target 5942
     key 0
-    weight 7755.871000000003
+    weight 7755.871
     token_id 1454
   ]
   edge [
     source 8183
     target 2648
     key 0
-    weight 7755.871000000003
+    weight 7755.871
     token_id 7710
   ]
   edge [
     source 8183
     target 7588
     key 0
-    weight 7755.871000000003
+    weight 7755.871
     token_id 2171
   ]
   edge [
     source 8183
     target 8260
     key 0
-    weight 7955.5930000000035
+    weight 7955.593
     token_id 8657
   ]
   edge [
     source 8183
     target 5725
     key 0
-    weight 7955.5930000000035
+    weight 7955.593
     token_id 8692
   ]
   edge [
     source 8183
     target 6340
     key 0
-    weight 7622.723000000003
+    weight 7622.723
     token_id 3756
   ]
   edge [
     source 8183
     target 7910
     key 0
-    weight 7622.723000000003
+    weight 7622.723
     token_id 2989
   ]
   edge [
@@ -124451,21 +124451,21 @@ graph [
     source 8236
     target 8237
     key 0
-    weight 9722.11311000001
+    weight 9722.11311
     token_id 4548
   ]
   edge [
     source 8236
     target 5855
     key 0
-    weight 9176.893030000003
+    weight 9176.89303
     token_id 3877
   ]
   edge [
     source 8244
     target 185
     key 0
-    weight 6624.113000000002
+    weight 6624.112999999999
     token_id 6447
   ]
   edge [
@@ -124479,7 +124479,7 @@ graph [
     source 8251
     target 5440
     key 0
-    weight 9882.910300000003
+    weight 9882.9103
     token_id 3702
   ]
   edge [
@@ -124493,7 +124493,7 @@ graph [
     source 8253
     target 6826
     key 0
-    weight 8295.990000000002
+    weight 8295.99
     token_id 4497
   ]
   edge [
@@ -124507,7 +124507,7 @@ graph [
     source 8265
     target 6973
     key 0
-    weight 5337.0869
+    weight 5337.086899999999
     token_id 1346
   ]
   edge [
@@ -124563,7 +124563,7 @@ graph [
     source 8314
     target 7218
     key 0
-    weight 6433.897800000001
+    weight 6433.8978
     token_id 8220
   ]
   edge [
@@ -124584,21 +124584,21 @@ graph [
     source 8316
     target 6664
     key 0
-    weight 5199.157078927501
+    weight 5199.1570789275
     token_id 4203
   ]
   edge [
     source 8316
     target 7775
     key 0
-    weight 5205.277445550001
+    weight 5205.27744555
     token_id 1928
   ]
   edge [
     source 8316
     target 6371
     key 0
-    weight 5589.561529000001
+    weight 5589.5615290000005
     token_id 4685
   ]
   edge [
@@ -124612,14 +124612,14 @@ graph [
     source 8358
     target 3472
     key 0
-    weight 5472.588070000001
+    weight 5472.58807
     token_id 7020
   ]
   edge [
     source 8358
     target 8468
     key 0
-    weight 6092.193180000001
+    weight 6092.19318
     token_id 2791
   ]
   edge [
@@ -124675,7 +124675,7 @@ graph [
     source 8365
     target 7218
     key 0
-    weight 5503.006700000001
+    weight 5503.0067
     token_id 4842
   ]
   edge [
@@ -124689,7 +124689,7 @@ graph [
     source 8366
     target 8505
     key 0
-    weight 7080.366000000001
+    weight 7080.366
     token_id 7330
   ]
   edge [
@@ -124724,7 +124724,7 @@ graph [
     source 8382
     target 8285
     key 0
-    weight 7388.2080000000005
+    weight 7388.208
     token_id 724
   ]
   edge [
@@ -124738,14 +124738,14 @@ graph [
     source 8393
     target 6788
     key 0
-    weight 5281.7803
+    weight 5281.780299999999
     token_id 424
   ]
   edge [
     source 8395
     target 8471
     key 0
-    weight 5938.272180000001
+    weight 5938.27218
     token_id 528
   ]
   edge [
@@ -124794,7 +124794,7 @@ graph [
     source 8450
     target 8501
     key 0
-    weight 6618.603000000001
+    weight 6618.603
     token_id 1258
   ]
   edge [

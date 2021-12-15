@@ -4,8 +4,8 @@ graph [
   node [
     id 0
     label "0x0000000000000000000000000000000000000000"
-    eth_value 0
-    usd_value 0
+    eth_value 0.0
+    usd_value 0.0
     trades 2600
   ]
   node [
@@ -19,14 +19,14 @@ graph [
     id 2
     label "0x721931508df2764fd4f70c53da646cb8aed16ace"
     eth_value 145.8648819480248
-    usd_value 325090.5210463824
+    usd_value 325090.5210463823
     trades 453
   ]
   node [
     id 3
     label "0xfa6c54de608c9a0a2c2a3220bb7e42b95d1b910b"
     eth_value 1.5376050447248468
-    usd_value 3426.8757392287143
+    usd_value 3426.8757392287134
     trades 88
   ]
   node [
@@ -40,35 +40,35 @@ graph [
     id 5
     label "0xf9f56b6dc4c297b0d942b0e03f7e67d6dd0ed7be"
     eth_value 5.474994334211303
-    usd_value 12003.268078438172
+    usd_value 12003.268078438177
     trades 52
   ]
   node [
     id 6
     label "0x10a2c688923f32b5f8ce70f7570080c724a59400"
     eth_value 0.5479645306236623
-    usd_value 1164.8739584903938
+    usd_value 1164.873958490394
     trades 22
   ]
   node [
     id 7
     label "0x8d8203f7f9137c9d59f0cf64e9af38f4df8f487f"
     eth_value 0.251775516986828
-    usd_value 509.78247801908
+    usd_value 509.7824780190804
     trades 149
   ]
   node [
     id 8
     label "0x81248e53c2aea91dc28174df9f9bbdc3ac76b534"
     eth_value 0.1245099629736663
-    usd_value 235.50561456617083
+    usd_value 235.50561456617092
     trades 9
   ]
   node [
     id 9
     label "0x3945476e477de76d53b4833a46c806ef3d72b21e"
     eth_value 25.325450927490188
-    usd_value 53837.35009067718
+    usd_value 53837.350090677195
     trades 36
   ]
   node [
@@ -103,28 +103,28 @@ graph [
     id 14
     label "0x5aeedbc6b655c13950f32e5e8a0760d15bbe0afb"
     eth_value 3.238822998800684
-    usd_value 6557.806866821685
+    usd_value 6557.806866821689
     trades 18
   ]
   node [
     id 15
     label "0x6a6bfa3cf2399e45011960c1a65338e39adb78f8"
     eth_value 11.847080084321163
-    usd_value 25973.301435264024
+    usd_value 25973.301435264035
     trades 10
   ]
   node [
     id 16
     label "0x987df219564cd274d32b4b442ffad1a185fc0509"
     eth_value 40.507470280395566
-    usd_value 90279.40408862042
+    usd_value 90279.4040886204
     trades 171
   ]
   node [
     id 17
     label "0x1264f7d54798c1898611cb07fea0389eea7235d0"
     eth_value 5.175954290549077
-    usd_value 11003.147149935037
+    usd_value 11003.147149935041
     trades 8
   ]
   node [
@@ -138,21 +138,21 @@ graph [
     id 19
     label "0xfb49cf9dcd66b287f9004c556bb2f1a30b03b62b"
     eth_value 0.303138961352157
-    usd_value 581.7206354451758
+    usd_value 581.720635445176
     trades 7
   ]
   node [
     id 20
     label "0x18bcbab94d57a3b8e0935289c8f98b2c23bcd5c6"
     eth_value 11.179416817578188
-    usd_value 24509.52984252206
+    usd_value 24509.529842522068
     trades 39
   ]
   node [
     id 21
     label "0x433c8a73bec1273561e4e2201649de12f20b7d58"
     eth_value 0.0722772031133564
-    usd_value 166.25780477759153
+    usd_value 166.25780477759147
     trades 108
   ]
   node [
@@ -166,28 +166,28 @@ graph [
     id 23
     label "0x24f05d116a8435ccc406cdf30c02394ae7a5b61f"
     eth_value 0.0198068969257303
-    usd_value 43.42424468203258
+    usd_value 43.424244682032594
     trades 51
   ]
   node [
     id 24
     label "0xde86d4ec498a1b7dc0629a82a0d4783b35a3e002"
     eth_value 3.031796958806797
-    usd_value 6973.981908404101
+    usd_value 6973.9819084041
     trades 99
   ]
   node [
     id 25
     label "0x793acdce9db7bc3269513652923d543b4818e817"
     eth_value 2.7995528683755064
-    usd_value 5120.382196258804
+    usd_value 5120.3821962588045
     trades 2
   ]
   node [
     id 26
     label "0xb6681a3bd6ee4c7f75958e0676e50f6af790628a"
     eth_value 1.75
-    usd_value 3553.795000000003
+    usd_value 3553.7950000000005
     trades 102
   ]
   node [
@@ -208,14 +208,14 @@ graph [
     id 29
     label "0x1e3934ea7e416f4e2bc5f7d55ae9783da0061475"
     eth_value 0.1559161340016491
-    usd_value 331.4496359833857
+    usd_value 331.44963598338575
     trades 13
   ]
   node [
     id 30
     label "0xf29a46a23ff3d374018fc0a37018774499507481"
     eth_value 0.9
-    usd_value 2070.252000000001
+    usd_value 2070.2520000000004
     trades 11
   ]
   node [
@@ -257,14 +257,14 @@ graph [
     id 36
     label "0xfe44ed35c5900dbdb70e4b91eaed92b6f339c8b0"
     eth_value 0.1568230707700009
-    usd_value 335.8287649004186
+    usd_value 335.8287649004185
     trades 5
   ]
   node [
     id 37
     label "0x8bbe743d57acb00e2f555c12fc5c752b069b9bee"
     eth_value 2.0392403734611446
-    usd_value 4690.823846265203
+    usd_value 4690.8238462652025
     trades 86
   ]
   node [
@@ -278,7 +278,7 @@ graph [
     id 39
     label "0x436317eef036eb72e74812dcea5c31a945724f77"
     eth_value 0.5962821401633607
-    usd_value 1267.5884992020751
+    usd_value 1267.5884992020756
     trades 10
   ]
   node [
@@ -299,28 +299,28 @@ graph [
     id 42
     label "0xf6c7dc1f9d1ba5b17febe664bae7645c04b42067"
     eth_value 0.0470908450247118
-    usd_value 91.3722502352493
+    usd_value 91.37225023524928
     trades 7
   ]
   node [
     id 43
     label "0xe376b4cc6daff66731a15c64967cbbf31747735a"
     eth_value 6.020952614878246
-    usd_value 13200.216093806765
+    usd_value 13200.21609380677
     trades 15
   ]
   node [
     id 44
     label "0xfc92f989d0882acdb4c9f263d6283064be2fcf50"
     eth_value 1.344135822060719
-    usd_value 2857.390813253117
+    usd_value 2857.390813253118
     trades 7
   ]
   node [
     id 45
     label "0xf89f92b81894c9c89b5a5964df2fcff5727c2599"
     eth_value 0.1288297725971404
-    usd_value 260.84808206606004
+    usd_value 260.8480820660602
     trades 8
   ]
   node [
@@ -348,7 +348,7 @@ graph [
     id 49
     label "0xd543a0be0684f0556786586b83f4c9fd16a4dc35"
     eth_value 0.2295751300619999
-    usd_value 503.31592364532713
+    usd_value 503.31592364532736
     trades 167
   ]
   node [
@@ -376,21 +376,21 @@ graph [
     id 53
     label "0xf521bb7437bec77b0b15286dc3f49a87b9946773"
     eth_value 10.012901835161257
-    usd_value 22796.774124185034
+    usd_value 22796.774124185038
     trades 36
   ]
   node [
     id 54
     label "0x90b298f5ff8a52d15c2709087f327af698fe9729"
     eth_value 0.5871458302054036
-    usd_value 1287.246775225722
+    usd_value 1287.2467752257228
     trades 53
   ]
   node [
     id 55
     label "0xb32e083709588a1b3fa9c115c48051e61cbeba0a"
     eth_value 0.3328770628971663
-    usd_value 765.7104502410939
+    usd_value 765.7104502410938
     trades 31
   ]
   node [
@@ -404,7 +404,7 @@ graph [
     id 57
     label "0xafe7309fd01a5e6d5a258e911461ecb9558fbfdf"
     eth_value 0.2209005016331407
-    usd_value 492.3231569947971
+    usd_value 492.32315699479705
     trades 17
   ]
   node [
@@ -425,7 +425,7 @@ graph [
     id 60
     label "0xbc7de2b767fa97ea9d5ebc05a8d0c8557dcabd7b"
     eth_value 1.8771090366158307
-    usd_value 4183.531680996069
+    usd_value 4183.531680996068
     trades 8
   ]
   node [
@@ -439,7 +439,7 @@ graph [
     id 62
     label "0x32606c4aa95ea78d7c5b1e0e347e3e9ae451434e"
     eth_value 4.540408088187641
-    usd_value 10119.25291022468
+    usd_value 10119.252910224679
     trades 39
   ]
   node [
@@ -453,7 +453,7 @@ graph [
     id 64
     label "0x13ff6c84ce051a8450f6de2f34b4cc5666f17fd4"
     eth_value 0.2341567316924457
-    usd_value 538.6260467774991
+    usd_value 538.626046777499
     trades 61
   ]
   node [
@@ -467,7 +467,7 @@ graph [
     id 66
     label "0x2643796cb6b4e715140f09c352ea26afff1a7d93"
     eth_value 0.627929959551659
-    usd_value 1444.4147273574906
+    usd_value 1444.4147273574902
     trades 37
   ]
   node [
@@ -481,14 +481,14 @@ graph [
     id 68
     label "0xb539d68ce93a81e83886d71bf1bfe4e9d90f85e2"
     eth_value 0.0593611436936952
-    usd_value 126.1911064869311
+    usd_value 126.19110648693113
     trades 21
   ]
   node [
     id 69
     label "0xf40b3d16ae26262db9b19e0ec80d8a490c40bdcb"
     eth_value 210.70549176400743
-    usd_value 426625.94444917404
+    usd_value 426625.9444491744
     trades 18
   ]
   node [
@@ -502,14 +502,14 @@ graph [
     id 71
     label "0x5ea1d56d0dde1ca5b50c277275855f69edefa169"
     eth_value 0.0284049380739229
-    usd_value 57.512898365175396
+    usd_value 57.51289836517544
     trades 18
   ]
   node [
     id 72
     label "0x38e71c42dbee9b368f93c1278b8ce0b4aac44b29"
     eth_value 17.54150993638836
-    usd_value 38457.65555433909
+    usd_value 38457.65555433911
     trades 8
   ]
   node [
@@ -530,7 +530,7 @@ graph [
     id 75
     label "0x99a811e5c62add613975456292f836115aea0164"
     eth_value 17.29629158362089
-    usd_value 39379.15890009301
+    usd_value 39379.15890009302
     trades 15
   ]
   node [
@@ -544,14 +544,14 @@ graph [
     id 77
     label "0x00084121aec4309cb20db622a28c717720e888e0"
     eth_value 55.8048677981046
-    usd_value 108280.41718337429
+    usd_value 108280.41718337427
     trades 7
   ]
   node [
     id 78
     label "0x62391b370a4761f7087f83d9d2c8d7bfa91036ab"
     eth_value 10.005501805068992
-    usd_value 21668.314929129632
+    usd_value 21668.314929129614
     trades 7
   ]
   node [
@@ -572,14 +572,14 @@ graph [
     id 81
     label "0x9ec0d9a0130113c5a4bdc8860a48212b462f1b2a"
     eth_value 1.2117398762471785
-    usd_value 2575.9408637237766
+    usd_value 2575.940863723777
     trades 68
   ]
   node [
     id 82
     label "0x367c49e002616469e2ad73485ef3912520bcfca2"
     eth_value 0.7413620593314992
-    usd_value 1501.072829631453
+    usd_value 1501.0728296314542
     trades 23
   ]
   node [
@@ -600,14 +600,14 @@ graph [
     id 85
     label "0x84957e6c9f6ccfed9c35c850c3903732ed90858a"
     eth_value 14.55960506878961
-    usd_value 31920.186960712952
+    usd_value 31920.186960712967
     trades 45
   ]
   node [
     id 86
     label "0xb565d528f1dd07db0bb07fca2e7a5af29aa90847"
     eth_value 0.0061920036
-    usd_value 11.623752997992002
+    usd_value 11.623752997992
     trades 7
   ]
   node [
@@ -621,7 +621,7 @@ graph [
     id 88
     label "0xb778eef11586b90df8aaa0649174a956477931e2"
     eth_value 4.888155885967689
-    usd_value 10391.339545507832
+    usd_value 10391.339545507833
     trades 34
   ]
   node [
@@ -642,14 +642,14 @@ graph [
     id 91
     label "0xd28fde3707332972db5befbe77d5bfa3d515c929"
     eth_value 0.870997243688218
-    usd_value 1941.2002669803687
+    usd_value 1941.2002669803683
     trades 14
   ]
   node [
     id 92
     label "0x53aed391f71bc67d8b5b05a3851f46e742a74768"
     eth_value 2.0889411483526805
-    usd_value 4440.712871991094
+    usd_value 4440.712871991095
     trades 15
   ]
   node [
@@ -670,7 +670,7 @@ graph [
     id 95
     label "0xdae9024784912bb9eeca4535302dc1d4224ad3b9"
     eth_value 1.2184930817383606
-    usd_value 2671.399862541546
+    usd_value 2671.399862541547
     trades 9
   ]
   node [
@@ -698,7 +698,7 @@ graph [
     id 99
     label "0x0008d343091ef8bd3efa730f6aae5a26a285c7a2"
     eth_value 78.81038369889464
-    usd_value 167536.68987478418
+    usd_value 167536.6898747842
     trades 62
   ]
   node [
@@ -719,7 +719,7 @@ graph [
     id 102
     label "0xf9606bb98fc76bf45eb6993450ca2fc59b7889ac"
     eth_value 3.4292056919211884
-    usd_value 7289.8740439999
+    usd_value 7289.874043999901
     trades 98
   ]
   node [
@@ -733,7 +733,7 @@ graph [
     id 104
     label "0x92f93fadcacb86f6bd163a87a0944341b838cc62"
     eth_value 2.047123523001987
-    usd_value 4157.175623101059
+    usd_value 4157.175623101056
     trades 24
   ]
   node [
@@ -761,7 +761,7 @@ graph [
     id 108
     label "0x83bb781a2a2ca1fec0350f178c911848811cc440"
     eth_value 12.214469191218043
-    usd_value 24731.246494918734
+    usd_value 24731.246494918752
     trades 9
   ]
   node [
@@ -782,7 +782,7 @@ graph [
     id 111
     label "0xba11610e28406a4cd34d9e993edd9e7f2ea90d53"
     eth_value 0.1676020685308122
-    usd_value 339.352288257762
+    usd_value 339.35228825776227
     trades 12
   ]
   node [
@@ -810,14 +810,14 @@ graph [
     id 115
     label "0xeabdf7d6adab860a0fc332352c83ecabd304d176"
     eth_value 1.3690589624939644
-    usd_value 2910.372923648919
+    usd_value 2910.37292364892
     trades 16
   ]
   node [
     id 116
     label "0x6ed450e062c20f929cb7ee72fcc53e9697980a18"
     eth_value 4.358845656239711
-    usd_value 9439.690506978977
+    usd_value 9439.69050697897
     trades 2
   ]
   node [
@@ -852,7 +852,7 @@ graph [
     id 121
     label "0x887fb037ca3f3725fe12c928443ece0280dde1e1"
     eth_value 0.5281059878128777
-    usd_value 1122.6582710123714
+    usd_value 1122.6582710123716
     trades 42
   ]
   node [
@@ -866,7 +866,7 @@ graph [
     id 123
     label "0x553bfc1e4a9c48bcbcebad54aa4cd5b48c8b037d"
     eth_value 1.6226386551766299
-    usd_value 3285.4376170688815
+    usd_value 3285.437617068884
     trades 56
   ]
   node [
@@ -880,21 +880,21 @@ graph [
     id 125
     label "0x98e9de3364f73824b06fc6531c42b85e67a4a98c"
     eth_value 3.3621568323857325
-    usd_value 7733.902118400255
+    usd_value 7733.902118400253
     trades 37
   ]
   node [
     id 126
     label "0x3cddcebc43708c59af29d256efa08c65910e0b2b"
     eth_value 1.463802607540465
-    usd_value 2747.8795309271122
+    usd_value 2747.879530927112
     trades 16
   ]
   node [
     id 127
     label "0x36b2b845a0c2fd77f4a42dfb84fe868fa245481f"
     eth_value 0.4540325593324897
-    usd_value 880.9775361752031
+    usd_value 880.9775361752029
     trades 10
   ]
   node [
@@ -908,7 +908,7 @@ graph [
     id 129
     label "0xc9bd470a494e002aecbbbf73ca5bd8a2807f296b"
     eth_value 8.57468881698091
-    usd_value 17361.601182182098
+    usd_value 17361.601182182112
     trades 25
   ]
   node [
@@ -922,14 +922,14 @@ graph [
     id 131
     label "0x0af1c3e5de8d579f671d4d49fa230057629abcb8"
     eth_value 3.935325182704686
-    usd_value 8365.792979897275
+    usd_value 8365.792979897276
     trades 4
   ]
   node [
     id 132
     label "0xa33ec50ab06ae30adace80e6c63ca398eb1a4019"
     eth_value 1.5284795269961675
-    usd_value 3103.9445146522
+    usd_value 3103.9445146521975
     trades 15
   ]
   node [
@@ -957,7 +957,7 @@ graph [
     id 136
     label "0xd03c8ad4bebd854a36010b864520efa0e4c700ee"
     eth_value 0.7527336790359527
-    usd_value 1616.4052476882248
+    usd_value 1616.405247688224
     trades 2
   ]
   node [
@@ -992,14 +992,14 @@ graph [
     id 141
     label "0x610aec3851d7688c4c8aef3a6173f667e8beef73"
     eth_value 27.93061684949013
-    usd_value 64261.646022632915
+    usd_value 64261.64602263341
     trades 56
   ]
   node [
     id 142
     label "0x407dbc332f834e51737e428fe22ce10fcdb4214f"
     eth_value 1.9987611326519152
-    usd_value 4382.043932003405
+    usd_value 4382.043932003407
     trades 14
   ]
   node [
@@ -1013,35 +1013,35 @@ graph [
     id 144
     label "0xfffda1f24f612ece7a90d1d59af82508ed69b23c"
     eth_value 0.2502416135354108
-    usd_value 469.7585617609439
+    usd_value 469.75856176094385
     trades 2
   ]
   node [
     id 145
     label "0x4874211da929dd87e28a4267c4b96a5d0ccf48a7"
     eth_value 5.840123843545144
-    usd_value 10681.586509844074
+    usd_value 10681.586509844075
     trades 2
   ]
   node [
     id 146
     label "0x6301add4fb128de9778b8651a2a9278b86761423"
     eth_value 0.2151636312444709
-    usd_value 406.9734019536669
+    usd_value 406.97340195366706
     trades 62
   ]
   node [
     id 147
     label "0x1da05f10b2cd57f7cf12910ce835bf0a41c3793d"
     eth_value 7.01502198169554
-    usd_value 14203.665757438044
+    usd_value 14203.665757438055
     trades 6
   ]
   node [
     id 148
     label "0xf946d2068a549b3225cf188339010a8383dea5f1"
     eth_value 16.82313265005884
-    usd_value 30054.694710656622
+    usd_value 30054.694710656626
     trades 9
   ]
   node [
@@ -1069,7 +1069,7 @@ graph [
     id 152
     label "0x3c9a28263b5becf6b0773bf9736b9d0d5f08cb06"
     eth_value 4.238943840402907
-    usd_value 9011.231594805307
+    usd_value 9011.23159480531
     trades 25
   ]
   node [
@@ -1104,7 +1104,7 @@ graph [
     id 157
     label "0xfaded16020366f4468719125e7d3a81810ea46c5"
     eth_value 4.105046380620725
-    usd_value 7965.185694173618
+    usd_value 7965.185694173616
     trades 3
   ]
   node [
@@ -1195,7 +1195,7 @@ graph [
     id 170
     label "0x96236adb640ec620a85898378375cedf03ca21ff"
     eth_value 24.784563680509716
-    usd_value 50182.54531211205
+    usd_value 50182.54531211209
     trades 7
   ]
   node [
@@ -1244,21 +1244,21 @@ graph [
     id 177
     label "0x24d9db7c839262197b278a912ca0beefbfbc15a2"
     eth_value 3.0541915543105875
-    usd_value 6711.097269948828
+    usd_value 6711.097269948829
     trades 5
   ]
   node [
     id 178
     label "0xa7305315c881ef6ad15324d9b3e7b089cfee0f7e"
     eth_value 0.0190765031170695
-    usd_value 42.49214763314766
+    usd_value 42.49214763314763
     trades 34
   ]
   node [
     id 179
     label "0xfa6023f9c140c6ec5c78d19b91d4bdece8de107d"
     eth_value 0.1380661590931606
-    usd_value 279.54945562387695
+    usd_value 279.5494556238772
     trades 16
   ]
   node [
@@ -1286,7 +1286,7 @@ graph [
     id 183
     label "0x690b1cbbd53dd2a4c4f0001910148452866e3d52"
     eth_value 0.039462997
-    usd_value 83.89122828253998
+    usd_value 83.89122828254001
     trades 6
   ]
   node [
@@ -1356,7 +1356,7 @@ graph [
     id 193
     label "0xf6a656cd8068e8f670fd5f54bb866d0c47c8b7e1"
     eth_value 0.0073483217195783
-    usd_value 16.11031357156907
+    usd_value 16.110313571569076
     trades 6
   ]
   node [
@@ -1391,7 +1391,7 @@ graph [
     id 198
     label "0x32be9eb78eb1a4a241a1c399705789c27a37395d"
     eth_value 0.0841203786
-    usd_value 187.47992898960604
+    usd_value 187.479928989606
     trades 6
   ]
   node [
@@ -1468,7 +1468,7 @@ graph [
     id 209
     label "0xd9d1c2623fbb4377d9bf29075e610a9b8b4805b4"
     eth_value 3.2287159185264382
-    usd_value 6863.668873921872
+    usd_value 6863.6688739218735
     trades 63
   ]
   node [
@@ -1496,14 +1496,14 @@ graph [
     id 213
     label "0xf3d10d2e58caa4220f52551bac7b14523d5fbd1f"
     eth_value 0.6981896674739886
-    usd_value 1606.0317282970668
+    usd_value 1606.0317282970666
     trades 168
   ]
   node [
     id 214
     label "0x41c3ff4c74184a7ff11621b4336035fb32e1a124"
     eth_value 0.6688461487255802
-    usd_value 1421.8465198838128
+    usd_value 1421.846519883813
     trades 2
   ]
   node [
@@ -1622,14 +1622,14 @@ graph [
     id 231
     label "0xb1ec54030e383b9ce0cdaa988ba52364bfce9c3c"
     eth_value 0.5012849650563022
-    usd_value 941.0221621029916
+    usd_value 941.0221621029915
     trades 2
   ]
   node [
     id 232
     label "0xf04928ec019e13753aca32e2ea2b39238dadcaba"
     eth_value 0.897400842948683
-    usd_value 1907.712659957169
+    usd_value 1907.7126599571695
     trades 8
   ]
   node [
@@ -1643,7 +1643,7 @@ graph [
     id 234
     label "0x1b51c80fb02bb165593b3f82d845894fbadf1b04"
     eth_value 0.7668070895568005
-    usd_value 1745.8203730775497
+    usd_value 1745.82037307755
     trades 4
   ]
   node [
@@ -1678,14 +1678,14 @@ graph [
     id 239
     label "0x46e449a3f88d0e35b4520bc36e8dfda195c896b0"
     eth_value 3.034429997338863
-    usd_value 6652.623637565774
+    usd_value 6652.623637565776
     trades 31
   ]
   node [
     id 240
     label "0x46bef2cb348436149cc04278bb117aa4b63ca039"
     eth_value 0.6750862404915431
-    usd_value 1435.111831761732
+    usd_value 1435.1118317617322
     trades 3
   ]
   node [
@@ -1755,7 +1755,7 @@ graph [
     id 250
     label "0x1e038f623aa565defb202bf0322bcc92644a5fcb"
     eth_value 0.3180509956823665
-    usd_value 645.8788789720095
+    usd_value 645.878878972009
     trades 9
   ]
   node [
@@ -1776,14 +1776,14 @@ graph [
     id 253
     label "0xcec6df75b435e8d5ae2c990695738cf39529f2d3"
     eth_value 3.497023965
-    usd_value 8044.134286210202
+    usd_value 8044.1342862102
     trades 16
   ]
   node [
     id 254
     label "0x0c4c5daa515db24865cb38f281a1a2853dad3cc4"
     eth_value 0.0629842138307068
-    usd_value 134.87754470776716
+    usd_value 134.8775447077671
     trades 2
   ]
   node [
@@ -1818,14 +1818,14 @@ graph [
     id 259
     label "0x0f8dcfff4f826c15601b62ac771d804699b3886c"
     eth_value 4.256665328593775
-    usd_value 9048.904288831218
+    usd_value 9048.90428883122
     trades 82
   ]
   node [
     id 260
     label "0xf4f96a548f847ca2c97aa7b801d683b92353fce9"
     eth_value 0.0181239356368038
-    usd_value 40.37034167355502
+    usd_value 40.370341673555
     trades 4
   ]
   node [
@@ -1846,7 +1846,7 @@ graph [
     id 263
     label "0x1161c3f3ef0ca754a9cb5a990e2895dddf9a14eb"
     eth_value 0.0816051269887816
-    usd_value 172.23251681744293
+    usd_value 172.2325168174429
     trades 4
   ]
   node [
@@ -1860,7 +1860,7 @@ graph [
     id 265
     label "0x30f0149363f860bd37015a77da1db8b5845545cc"
     eth_value 0.1000453321738244
-    usd_value 214.83534540342714
+    usd_value 214.83534540342706
     trades 2
   ]
   node [
@@ -1923,7 +1923,7 @@ graph [
     id 274
     label "0x70448fa6dd61fb3f94b806d5def4e5e8dbef7ada"
     eth_value 31.45685718351753
-    usd_value 70108.21217347737
+    usd_value 70108.21217347735
     trades 38
   ]
   node [
@@ -1937,7 +1937,7 @@ graph [
     id 276
     label "0x8af2bd409ea0290029c14aac5d1be77d5c9a114f"
     eth_value 0.0158122919724255
-    usd_value 32.01593817116853
+    usd_value 32.01593817116856
     trades 3
   ]
   node [
@@ -1972,7 +1972,7 @@ graph [
     id 281
     label "0xbb55ebe9a672ee9e93491c40124c530241910554"
     eth_value 1.4132812596738231
-    usd_value 3149.794076247647
+    usd_value 3149.7940762476464
     trades 18
   ]
   node [
@@ -2028,7 +2028,7 @@ graph [
     id 289
     label "0xfdc3e8edd74a90fe971ef7d56a0c66c870b10f5d"
     eth_value 2.858229226433897
-    usd_value 6370.164059245492
+    usd_value 6370.1640592454905
     trades 7
   ]
   node [
@@ -2063,7 +2063,7 @@ graph [
     id 294
     label "0x8bd8795cbeed15f8d5074f493c53b39c11ed37b2"
     eth_value 0.1878454004554001
-    usd_value 380.33997457207136
+    usd_value 380.33997457207164
     trades 5
   ]
   node [
@@ -2077,49 +2077,49 @@ graph [
     id 296
     label "0xd7c318e9f9129239f6ba4e10994137113dcf6244"
     eth_value 1.7077206445757225
-    usd_value 3123.421058928998
+    usd_value 3123.4210589289983
     trades 2
   ]
   node [
     id 297
     label "0x9c367582dcc3d4f2a458555bbac1262fc22564f1"
     eth_value 8.257732566266313
-    usd_value 18995.09706753108
+    usd_value 18995.097067531075
     trades 13
   ]
   node [
     id 298
     label "0x4334fc936bd246f0e9ce8c0e182e6f9d9ceee2b7"
     eth_value 0.9931362955322705
-    usd_value 1774.2479233313566
+    usd_value 1774.2479233313568
     trades 22
   ]
   node [
     id 299
     label "0x2517bdb2423891b8714ef99159e25433f3682ae0"
     eth_value 0.0739036278286814
-    usd_value 135.16973529865834
+    usd_value 135.16973529865837
     trades 1
   ]
   node [
     id 300
     label "0x33c6e01acbd6bcda3dce8a186802e99cf8ec1797"
     eth_value 0.9172348526565643
-    usd_value 1677.622545508857
+    usd_value 1677.6225455088572
     trades 1
   ]
   node [
     id 301
     label "0xaa7a9d80971e58641442774c373c94aafee87d66"
     eth_value 2.8651836097275942
-    usd_value 5240.4208221917725
+    usd_value 5240.420822191773
     trades 1
   ]
   node [
     id 302
     label "0xcb114805b901f7a9c38d5675272ef26459a7d805"
     eth_value 0.6825075441725466
-    usd_value 1385.9953702529583
+    usd_value 1385.9953702529574
     trades 2
   ]
   node [
@@ -2147,7 +2147,7 @@ graph [
     id 306
     label "0xd15e7ab216addb92bd95d96cb5d0f3f43719c679"
     eth_value 0.0083725961279381
-    usd_value 18.355912298968928
+    usd_value 18.355912298968935
     trades 6
   ]
   node [
@@ -2203,42 +2203,42 @@ graph [
     id 314
     label "0xd20ce27f650598c2d790714b4f6a7222b8ddce22"
     eth_value 3.5169061039105527
-    usd_value 7476.30933381513
+    usd_value 7476.309333815132
     trades 5
   ]
   node [
     id 315
     label "0xd595710aedaba1d2e18bfdbab46ab796664c6d89"
     eth_value 3.8353971413231305
-    usd_value 8408.647984694002
+    usd_value 8408.647984694006
     trades 5
   ]
   node [
     id 316
     label "0x63c8e1155e2be1e10041ff56625805abcf1fbf9b"
     eth_value 0.00637561
-    usd_value 14.209385763100004
+    usd_value 14.2093857631
     trades 10
   ]
   node [
     id 317
     label "0x6d04a93d4ac0610e65e4432de9c0e4e85cc6d15b"
     eth_value 0.2375363601639238
-    usd_value 482.374588039287
+    usd_value 482.37458803928666
     trades 2
   ]
   node [
     id 318
     label "0xb63a5c5710f06e111fa14ac82da2183c5102b504"
     eth_value 6.254443940264308
-    usd_value 11830.030535252328
+    usd_value 11830.030535252332
     trades 4
   ]
   node [
     id 319
     label "0x81be7f475e335693fda594abc8b42bb0d873f9a0"
     eth_value 1.7461614424884018
-    usd_value 3712.024917670694
+    usd_value 3712.0249176706943
     trades 4
   ]
   node [
@@ -2266,7 +2266,7 @@ graph [
     id 323
     label "0xb630abd9a5367763b7cba316e870c4a54064cc9f"
     eth_value 2.6330940362901463
-    usd_value 5868.403009620213
+    usd_value 5868.403009620212
     trades 4
   ]
   node [
@@ -2315,7 +2315,7 @@ graph [
     id 330
     label "0xfd1b8d2b036f7c78a794be2c6f9ba4de698459e8"
     eth_value 6.9657689814885275
-    usd_value 14103.940745268896
+    usd_value 14103.940745268907
     trades 5
   ]
   node [
@@ -2329,14 +2329,14 @@ graph [
     id 332
     label "0x2895e412d60af197ff293f28174f67c1db0178e3"
     eth_value 0.0121657439595251
-    usd_value 26.12447526380502
+    usd_value 26.12447526380501
     trades 6
   ]
   node [
     id 333
     label "0x4897d38b0974051d8fa34364e37a5993f4a966a5"
     eth_value 107.30998727899512
-    usd_value 217275.89674314536
+    usd_value 217275.89674314554
     trades 36
   ]
   node [
@@ -2364,14 +2364,14 @@ graph [
     id 337
     label "0xe50cd5f38cfd3b9d7c0c29ae56656fcef22b89bb"
     eth_value 0.082952053
-    usd_value 181.86242195613994
+    usd_value 181.86242195614
     trades 7
   ]
   node [
     id 338
     label "0x021d5abea6efbcd5dba2c8ae9237471448ea0856"
     eth_value 0.7576190062099596
-    usd_value 1742.7358476046463
+    usd_value 1742.735847604646
     trades 2
   ]
   node [
@@ -2385,7 +2385,7 @@ graph [
     id 340
     label "0xda6bb8c5507aff8c9ed9d787c1e8a82a0a79d629"
     eth_value 8.615892907769878
-    usd_value 19818.9661378849
+    usd_value 19818.966137884894
     trades 5
   ]
   node [
@@ -2399,7 +2399,7 @@ graph [
     id 342
     label "0x2570a4b975fb54329cca835edf2bdaae89e449c7"
     eth_value 1.5316394623998588
-    usd_value 3255.9898019588672
+    usd_value 3255.989801958868
     trades 5
   ]
   node [
@@ -2420,7 +2420,7 @@ graph [
     id 345
     label "0x2ed7cc0236ba832d7dfb190e9bced27de1a034f2"
     eth_value 0.3777585362477776
-    usd_value 686.9350102397711
+    usd_value 686.935010239771
     trades 3
   ]
   node [
@@ -2455,14 +2455,14 @@ graph [
     id 350
     label "0xf873543d645b90bd00dafb012cf22bb4e03dbffc"
     eth_value 0.313708959006407
-    usd_value 714.2337353282469
+    usd_value 714.233735328247
     trades 2
   ]
   node [
     id 351
     label "0x1e5e100141bd09900d402ddb38f9043bbeea84f1"
     eth_value 0.0064173939402933
-    usd_value 12.797053604217687
+    usd_value 12.797053604217673
     trades 5
   ]
   node [
@@ -2490,70 +2490,70 @@ graph [
     id 355
     label "0x8fe8d08c316917f89679602d6f7b304912da926d"
     eth_value 0.8371164674834509
-    usd_value 1812.8929066408625
+    usd_value 1812.892906640861
     trades 1
   ]
   node [
     id 356
     label "0xe4160a3bef14dfdc0cf49d9dcecd16ffe441de91"
     eth_value 0.8124927850052438
-    usd_value 1525.227705867544
+    usd_value 1525.2277058675438
     trades 4
   ]
   node [
     id 357
     label "0xba0c565110f65d181b9ff1d8a9f787b52857bb0c"
     eth_value 2.1496871536956927
-    usd_value 4655.448487529545
+    usd_value 4655.448487529541
     trades 1
   ]
   node [
     id 358
     label "0xc87efc9c71c422779f7dbef14b2fc4eef94b84ff"
     eth_value 0.9252401128897276
-    usd_value 2003.7369980785118
+    usd_value 2003.73699807851
     trades 1
   ]
   node [
     id 359
     label "0x167463cc40b3c500611f408d65da3b965b4dc18b"
     eth_value 0.2660795131029403
-    usd_value 576.2324367562522
+    usd_value 576.2324367562518
     trades 1
   ]
   node [
     id 360
     label "0x673d18e275c740914897e10f7c7b128a46eb2264"
     eth_value 0.0926940654359134
-    usd_value 200.74197587063168
+    usd_value 200.7419758706315
     trades 1
   ]
   node [
     id 361
     label "0x0cab569c2861b26781078971d6be7f311942cbbf"
     eth_value 0.003831908
-    usd_value 8.298533241120008
+    usd_value 8.298533241120001
     trades 1
   ]
   node [
     id 362
     label "0x2cd0487c302547fb4da28780ab3cf862e103fe9b"
     eth_value 0.1319096591430262
-    usd_value 285.6688342265035
+    usd_value 285.6688342265033
     trades 1
   ]
   node [
     id 363
     label "0x18c96cef5f3d7ae66d31513b7291938f80cc9d2f"
     eth_value 1.6648051751320296
-    usd_value 3523.2271921319148
+    usd_value 3523.227192131915
     trades 4
   ]
   node [
     id 364
     label "0xf8cd644baf494d13406187cf8628754dca0a10c2"
     eth_value 0.1270548472786769
-    usd_value 275.15505946059415
+    usd_value 275.1550594605939
     trades 1
   ]
   node [
@@ -2567,7 +2567,7 @@ graph [
     id 366
     label "0x94c3b6c4c2267d43437f7105225b41d7cbe28f67"
     eth_value 0.8744041761852941
-    usd_value 1877.6780398567778
+    usd_value 1877.6780398567769
     trades 3
   ]
   node [
@@ -2588,56 +2588,56 @@ graph [
     id 369
     label "0x6b5f57da94f9bfabd314d3c0dc2486204d2f15ee"
     eth_value 0.4091779194120796
-    usd_value 931.5917362422579
+    usd_value 931.591736242258
     trades 1
   ]
   node [
     id 370
     label "0x2a3f7e5170ea8ca967f85f091ef84591f639e031"
     eth_value 0.1645627240265488
-    usd_value 374.66653630020465
+    usd_value 374.6665363002047
     trades 1
   ]
   node [
     id 371
     label "0x853c6b9a02bb87fad5625485d6835692a8230773"
     eth_value 0.3527173209127673
-    usd_value 667.1507038136627
+    usd_value 667.150703813663
     trades 3
   ]
   node [
     id 372
     label "0x5873cd2414ed6f6998131bf2d0c3ab2e1b6b083e"
     eth_value 2.570650262085058
-    usd_value 5425.511617146241
+    usd_value 5425.5116171462405
     trades 14
   ]
   node [
     id 373
     label "0x339a9d7d7000f31af102a885089d3de936a4a8a4"
     eth_value 18.166945368837524
-    usd_value 38619.65580398218
+    usd_value 38619.65580398219
     trades 2
   ]
   node [
     id 374
     label "0xda59cf2548c4768f66fa6f078a843c24de941049"
     eth_value 0.736344527915825
-    usd_value 1676.465040487075
+    usd_value 1676.4650404870754
     trades 2
   ]
   node [
     id 375
     label "0xe23b44452ad4a8a25124e060294668d803ec8f9c"
     eth_value 0.002573142
-    usd_value 5.654067842280002
+    usd_value 5.654067842280003
     trades 2
   ]
   node [
     id 376
     label "0xb75e6a898f4d7dd32efea8d27094432b0f90618d"
     eth_value 10.355887068703463
-    usd_value 18831.662840083813
+    usd_value 18831.66284008381
     trades 2
   ]
   node [
@@ -2686,21 +2686,21 @@ graph [
     id 383
     label "0x89a1145fccac1a2a9350ec1a4a486e4458d26274"
     eth_value 0.4371171618854491
-    usd_value 885.052973527563
+    usd_value 885.0529735275637
     trades 2
   ]
   node [
     id 384
     label "0xb89d16beac18e513743baa6a6e09f60460367ac8"
     eth_value 0.534471792054593
-    usd_value 1190.5145379299247
+    usd_value 1190.5145379299238
     trades 6
   ]
   node [
     id 385
     label "0x95ecc7d0b94cda4996d808d414fb60b572f91ffa"
     eth_value 0.1145090962174938
-    usd_value 243.42572692107265
+    usd_value 243.4257269210727
     trades 5
   ]
   node [
@@ -2714,49 +2714,49 @@ graph [
     id 387
     label "0x527aabe7f20ec0c26cd1edf99d3337b4ad47385f"
     eth_value 0.4251015133152721
-    usd_value 863.2706471498562
+    usd_value 863.2706471498557
     trades 2
   ]
   node [
     id 388
     label "0xcea110cf871ba2f88262aaba1026c371da930a51"
     eth_value 2.9858655237791076
-    usd_value 6650.896019597015
+    usd_value 6650.896019597011
     trades 1
   ]
   node [
     id 389
     label "0x1a8ec52c2fd1fe4f6110747f60cc00a702071041"
     eth_value 1.296113402946508
-    usd_value 2755.3037942517453
+    usd_value 2755.303794251746
     trades 30
   ]
   node [
     id 390
     label "0xc140e5e02f5f37f3751d47d86978863f3096b5cb"
     eth_value 0.2381401787756
-    usd_value 522.0937651440497
+    usd_value 522.0937651440499
     trades 8
   ]
   node [
     id 391
     label "0xd0d5c6f09bd56695f84f63d490dca6f2c8c4987d"
     eth_value 0.0023334383954482
-    usd_value 5.010778941617558
+    usd_value 5.010778941617556
     trades 2
   ]
   node [
     id 392
     label "0x5143b2f5e573be79aa5d96ae1367bfc6f095c4d9"
     eth_value 0.35571200655562
-    usd_value 792.3342661223819
+    usd_value 792.3342661223813
     trades 1
   ]
   node [
     id 393
     label "0x361664ae40e9e50ea141139553b99a6b4f3b900b"
     eth_value 0.1973867756610829
-    usd_value 439.671147314036
+    usd_value 439.6711473140357
     trades 2
   ]
   node [
@@ -2798,21 +2798,21 @@ graph [
     id 399
     label "0x792eb5014b9187e1026310384259fb844144f467"
     eth_value 0.3420309093441797
-    usd_value 751.5581983383399
+    usd_value 751.5581983383402
     trades 2
   ]
   node [
     id 400
     label "0x21f6bc55967c5d3d391ee9aaa04081584b766b5d"
     eth_value 0.0469357279793714
-    usd_value 103.13375251819198
+    usd_value 103.133752518192
     trades 2
   ]
   node [
     id 401
     label "0x7e8d3b139ab0c670d6d992819065f5d684b37479"
     eth_value 0.0091541394551348
-    usd_value 20.114756790345908
+    usd_value 20.11475679034591
     trades 1
   ]
   node [
@@ -2826,14 +2826,14 @@ graph [
     id 403
     label "0xbe671da016c3a9c5f252f0c8d90dbaa766bc1753"
     eth_value 0.6657808178136115
-    usd_value 1249.817066816068
+    usd_value 1249.8170668160678
     trades 3
   ]
   node [
     id 404
     label "0x4ee62a58368159fa2e4bde24a76adc384f69ac4e"
     eth_value 0.3700360309710022
-    usd_value 737.8962500798955
+    usd_value 737.8962500798948
     trades 2
   ]
   node [
@@ -2854,231 +2854,231 @@ graph [
     id 407
     label "0x0ab8c667b5c18fae4dbd8c76dae71018bea2daba"
     eth_value 0.0375002618947812
-    usd_value 79.71880674116376
+    usd_value 79.71880674116377
     trades 2
   ]
   node [
     id 408
     label "0xc48d912c6596a0138e058323fd9929209a66cfd8"
     eth_value 0.0604767142191337
-    usd_value 128.5626086213188
+    usd_value 128.56260862131882
     trades 4
   ]
   node [
     id 409
     label "0x2beba030cdc9c4a47c5aa657974840428b9fefac"
     eth_value 0.8805972541524413
-    usd_value 1871.9912548223424
+    usd_value 1871.9912548223429
     trades 2
   ]
   node [
     id 410
     label "0x02a168020c8f00e13883fdb5584d7d2aca7d11e2"
     eth_value 0.0694292479827346
-    usd_value 160.91200229470516
+    usd_value 160.91200229470502
     trades 1
   ]
   node [
     id 411
     label "0x89c7297c08a85387be6045074aaa67c01efa985e"
     eth_value 1.316258564976181
-    usd_value 2785.5980010590924
+    usd_value 2785.598001059093
     trades 1
   ]
   node [
     id 412
     label "0xd628c79a538452949d0eb0e6dff6834b91055b4b"
     eth_value 2.4765638814610536
-    usd_value 4752.5013228849475
+    usd_value 4752.501322884948
     trades 2
   ]
   node [
     id 413
     label "0xc196a5bdbfbb625236bdf3a9926479773dcbda97"
     eth_value 0.76884418335214
-    usd_value 1634.424341853646
+    usd_value 1634.4243418536464
     trades 6
   ]
   node [
     id 414
     label "0x971eaf8a204fc83d62f0cd6f34485c419702242d"
     eth_value 0.534875
-    usd_value 1148.5798775000005
+    usd_value 1148.5798775
     trades 1
   ]
   node [
     id 415
     label "0x44b12d1a822d546df7e3aa1c4c923f31498b7039"
     eth_value 0.2382154336934319
-    usd_value 475.0301606367468
+    usd_value 475.03016063674636
     trades 2
   ]
   node [
     id 416
     label "0xb73307417e3d0e0d68bb457005471f67a998a2af"
     eth_value 0.0714052170669508
-    usd_value 153.33413502522887
+    usd_value 153.33413502522882
     trades 1
   ]
   node [
     id 417
     label "0x00f5fcb6ba6fc28e95ab9572f432d452292b66f4"
     eth_value 0.00749654
-    usd_value 16.707613663400004
+    usd_value 16.7076136634
     trades 10
   ]
   node [
     id 418
     label "0x186023307a30172638bba26eaa707eceb72cde80"
     eth_value 1.615817276732166
-    usd_value 3410.279311579841
+    usd_value 3410.27931157984
     trades 1
   ]
   node [
     id 419
     label "0x030dacaadebb91adebe1321e63d06b430ebdd0d6"
     eth_value 0.025
-    usd_value 52.76400000000001
+    usd_value 52.764
     trades 2
   ]
   node [
     id 420
     label "0x7c846e2487a8b6ab7a4ceec6a2073c5ce388e2ff"
     eth_value 1.7238277276471663
-    usd_value 3638.241848863004
+    usd_value 3638.2418488630033
     trades 1
   ]
   node [
     id 421
     label "0x68f1cb65e0f643e8acf3b710e85d1fa5ab250b9e"
     eth_value 0.0007298708
-    usd_value 1.5404361156480004
+    usd_value 1.540436115648
     trades 1
   ]
   node [
     id 422
     label "0xda6ad74619e62503c4cbefbe02ae05c8f4314591"
     eth_value 2.9695706866537637
-    usd_value 6312.772757102303
+    usd_value 6312.772757102304
     trades 4
   ]
   node [
     id 423
     label "0x89cc08700dcba9d4bad5295dee2a111b90b39917"
     eth_value 0.5784631485099375
-    usd_value 1220.881182719134
+    usd_value 1220.8811827191337
     trades 1
   ]
   node [
     id 424
     label "0xa2e2d9f702a4df82746a2e2bd8e9cd76a4760a72"
     eth_value 0.2050472
-    usd_value 432.7644184320001
+    usd_value 432.764418432
     trades 1
   ]
   node [
     id 425
     label "0xfd892902ce58c4fe0e5289d19e639f21c9c886ab"
     eth_value 0.1520613890958737
-    usd_value 325.6318616793589
+    usd_value 325.63186167935874
     trades 1
   ]
   node [
     id 426
     label "0x98bb3a3921200017ebd0af803aeddd464e70e791"
     eth_value 2.569670003757843
-    usd_value 5502.819829547236
+    usd_value 5502.819829547233
     trades 1
   ]
   node [
     id 427
     label "0x12e140a67a661e2f73e699d5864ba5cb20db4bf3"
     eth_value 10.62838730322785
-    usd_value 21519.82719221059
+    usd_value 21519.827192210607
     trades 4
   ]
   node [
     id 428
     label "0x2e7b037020c642471620f2caeef77f77da904cea"
     eth_value 9.648229067468543
-    usd_value 20661.200136530522
+    usd_value 20661.200136530515
     trades 1
   ]
   node [
     id 429
     label "0x8ba6228dbebe9d43edbe0201d57a5f5ee57c1bea"
     eth_value 0.2875350335832615
-    usd_value 583.9088940988729
+    usd_value 583.9088940988725
     trades 1
   ]
   node [
     id 430
     label "0x21ca8b1b771fb330349f7bb386481b9c3369085b"
     eth_value 0.57662126154
-    usd_value 1285.1215718068138
+    usd_value 1285.1215718068136
     trades 22
   ]
   node [
     id 431
     label "0x9ffad2ff3a59d8579e3b0edc6c8f2f591c94dfab"
     eth_value 3.9750349397572178
-    usd_value 8714.787101224925
+    usd_value 8714.787101224929
     trades 85
   ]
   node [
     id 432
     label "0xcd981d4402a3d88fff43afdc5926514bdb5824bd"
     eth_value 29.463220805033984
-    usd_value 65664.97484038731
+    usd_value 65664.9748403873
     trades 4
   ]
   node [
     id 433
     label "0xbd9e322303fa0ee764d8efb497ca4b81589a281a"
     eth_value 0.5517960151955557
-    usd_value 1120.5542398982236
+    usd_value 1120.554239898223
     trades 2
   ]
   node [
     id 434
     label "0xe526b16d863c765365df9fc7d076771af14b538e"
     eth_value 1.2440070087251343
-    usd_value 2526.2547928984814
+    usd_value 2526.2547928984795
     trades 1
   ]
   node [
     id 435
     label "0xe9afb95356954786f48d06147da82956449fb870"
     eth_value 12.492397998205917
-    usd_value 24239.49953183887
+    usd_value 24239.499531838865
     trades 1
   ]
   node [
     id 436
     label "0x8533cbe9aa72f852ab821d7ad8223db01d4bb326"
     eth_value 0.623355154342359
-    usd_value 1209.5209401766529
+    usd_value 1209.5209401766526
     trades 3
   ]
   node [
     id 437
     label "0x3df364ed7e8a887f7f9c240f7e281a4ea05ce03f"
     eth_value 0.5174791913130774
-    usd_value 1004.0855740724166
+    usd_value 1004.0855740724164
     trades 2
   ]
   node [
     id 438
     label "0x7a9511307b02af0f7fed6375152dc56dddec9eb5"
     eth_value 0.03
-    usd_value 59.82360000000005
+    usd_value 59.823599999999985
     trades 2
   ]
   node [
     id 439
     label "0x42c3487e9a95b622a2a5e7747338b79c90676c11"
     eth_value 0.5719286538
-    usd_value 1040.02366050261
+    usd_value 1040.0236605026098
     trades 2
   ]
   node [
@@ -3092,7 +3092,7 @@ graph [
     id 441
     label "0xb4ca8344b1272b7e70f5920af38032800241381e"
     eth_value 4.687356263477935
-    usd_value 8865.946878117973
+    usd_value 8865.946878117977
     trades 2
   ]
   node [
@@ -3113,35 +3113,35 @@ graph [
     id 444
     label "0x0efa0942e94dc5e2fabf90de6474d616006fad13"
     eth_value 0.3756318171645455
-    usd_value 749.0549192441641
+    usd_value 749.0549192441634
     trades 1
   ]
   node [
     id 445
     label "0x78c4b4a8bb8c7366b80f470d7dbeb3932e5261af"
     eth_value 0.8024158947251393
-    usd_value 1624.6915828447259
+    usd_value 1624.691582844727
     trades 2
   ]
   node [
     id 446
     label "0xbea91e555f85e6092aced53eae6aabf0668ea6a7"
     eth_value 5.80191294090673
-    usd_value 11133.812914470607
+    usd_value 11133.812914470609
     trades 1
   ]
   node [
     id 447
     label "0x37d3c912a851bdc7fdc31f4a63970716b7b079b6"
     eth_value 3.0163386868192865
-    usd_value 5788.323776619343
+    usd_value 5788.323776619344
     trades 1
   ]
   node [
     id 448
     label "0xf450f3b5dd69787bfa641ab2ebdcf5654165874a"
     eth_value 0.4214945652025871
-    usd_value 766.4667920926445
+    usd_value 766.4667920926444
     trades 9
   ]
   node [
@@ -3155,21 +3155,21 @@ graph [
     id 450
     label "0xc5f2e1fc9f49b4199a59a8892f05c986d224bc40"
     eth_value 0.0275794315387294
-    usd_value 52.92465332850634
+    usd_value 52.924653328506345
     trades 1
   ]
   node [
     id 451
     label "0x9d9420157711934fb1b4237d9c62101e281eb76f"
     eth_value 0.001883796
-    usd_value 3.4255888361999998
+    usd_value 3.4255888361999993
     trades 2
   ]
   node [
     id 452
     label "0x381e7c9fef80b6679038c6a46c26c3f4f0ee5c0f"
     eth_value 0.000593
-    usd_value 1.13796107
+    usd_value 1.1379610700000002
     trades 1
   ]
   node [
@@ -3190,35 +3190,35 @@ graph [
     id 455
     label "0x5d0de67f651a1e18c63db31e77b8973c9122f07f"
     eth_value 0.1293378636514191
-    usd_value 248.1980669684368
+    usd_value 248.19806696843682
     trades 1
   ]
   node [
     id 456
     label "0xbf7a8ec016b1e93396567d08e1d1c3b4e3e9d714"
     eth_value 1.2204886948569564
-    usd_value 2291.125787759376
+    usd_value 2291.1257877593757
     trades 1
   ]
   node [
     id 457
     label "0x9d4c1c518442ad9eb23cb79a4792d508b49c81af"
     eth_value 4.228236123133048
-    usd_value 7937.329415067821
+    usd_value 7937.329415067819
     trades 1
   ]
   node [
     id 458
     label "0xdf0c54cbe7b4f59f8dd5bab213db30bbe4de2988"
     eth_value 0.0735738070477758
-    usd_value 138.11422206622572
+    usd_value 138.1142220662257
     trades 1
   ]
   node [
     id 459
     label "0x0d57699db16fc40f9068ac17721bcb1bf8dc01e9"
     eth_value 0.1118938904
-    usd_value 210.04944893668804
+    usd_value 210.049448936688
     trades 1
   ]
   node [
@@ -3239,7 +3239,7 @@ graph [
     id 462
     label "0x50d379b7908f827767b2bf48d2556c1dfcbf29cf"
     eth_value 0.10545939
-    usd_value 197.97047609580002
+    usd_value 197.9704760958
     trades 1
   ]
   node [
@@ -3260,28 +3260,28 @@ graph [
     id 465
     label "0x799e1fe921d587d7c956e73e95ff6103dc3e7883"
     eth_value 0.0440450517014073
-    usd_value 82.68225195491583
+    usd_value 82.68225195491581
     trades 1
   ]
   node [
     id 466
     label "0xc66324135d9dad8eb7a632adc01ae6ad38b91943"
     eth_value 0.1838381779
-    usd_value 345.10470431743806
+    usd_value 345.104704317438
     trades 8
   ]
   node [
     id 467
     label "0xad00f7587252dd470141e29f334d5d178f7770f1"
     eth_value 0.000259228
-    usd_value 0.4866279861600001
+    usd_value 0.48662798616
     trades 1
   ]
   node [
     id 468
     label "0x2bc308f8f78293879eff81cc87922a1ec3595172"
     eth_value 0.0770474221535088
-    usd_value 144.6349618150098
+    usd_value 144.63496181500977
     trades 1
   ]
   node [
@@ -3330,49 +3330,49 @@ graph [
     id 475
     label "0xde534268df3c6c176ef39e704956eecd73bd3dfc"
     eth_value 0.0081965638
-    usd_value 18.854391777864006
+    usd_value 18.854391777864002
     trades 5
   ]
   node [
     id 476
     label "0x7217bc604476859303a27f111b187526231a300c"
     eth_value 2.0832613347252975
-    usd_value 3940.405484179511
+    usd_value 3940.4054841795123
     trades 1
   ]
   node [
     id 477
     label "0xb765b07aa73c4a59db816bc1a821411077052b29"
     eth_value 2.0218420647908175
-    usd_value 4298.072298173615
+    usd_value 4298.072298173616
     trades 3
   ]
   node [
     id 478
     label "0x7f8c205bb5f556c1b5dcde4601b3c5714e8a5c45"
     eth_value 0.0168762636503016
-    usd_value 30.14961377390031
+    usd_value 30.149613773900313
     trades 2
   ]
   node [
     id 479
     label "0x399ceef8895505e358bf1c77f69d31b875a202d1"
     eth_value 0.1925348079233071
-    usd_value 350.11492146813777
+    usd_value 350.1149214681377
     trades 1
   ]
   node [
     id 480
     label "0x69bab6810fa99475854bca0a3dd72ae6a0728ece"
     eth_value 1.5871385384715364
-    usd_value 3373.9708478535613
+    usd_value 3373.9708478535617
     trades 8
   ]
   node [
     id 481
     label "0x38d79019f0ada1b0334a25a27299dd87b90198a9"
     eth_value 0.2233235340572662
-    usd_value 406.1026805064357
+    usd_value 406.10268050643566
     trades 1
   ]
   node [
@@ -3386,7 +3386,7 @@ graph [
     id 483
     label "0xc8f996e7e7c55b81c1e879baa96fd7824996505b"
     eth_value 0.7355504318
-    usd_value 1639.3286028569785
+    usd_value 1639.328602856978
     trades 5
   ]
   node [
@@ -3400,7 +3400,7 @@ graph [
     id 485
     label "0xc5f84ab08eab6db3a25b1ca7e1d62f4fec5e28d4"
     eth_value 0.4081065390086406
-    usd_value 826.313714857745
+    usd_value 826.3137148577457
     trades 4
   ]
   node [
@@ -3414,21 +3414,21 @@ graph [
     id 487
     label "0x5839fa6e03aaf23b297162714c2bb0046770c626"
     eth_value 0.8296004271241535
-    usd_value 1482.0894590615715
+    usd_value 1482.0894590615717
     trades 2
   ]
   node [
     id 488
     label "0xd2b507223552e1b21a48b8ca3fc0c43bb80a3ceb"
     eth_value 1.743219531713719
-    usd_value 3114.279125601876
+    usd_value 3114.2791256018763
     trades 2
   ]
   node [
     id 489
     label "0xe0c71f6c2fea87f2155de000e090b09f65d361df"
     eth_value 0.0578069522515884
-    usd_value 103.27269826698519
+    usd_value 103.2726982669852
     trades 22
   ]
   node [
@@ -3442,14 +3442,14 @@ graph [
     id 491
     label "0x38a4d889a1979133fbc1d58f970f0953e3715c26"
     eth_value 8.733763185426646
-    usd_value 15602.955268396558
+    usd_value 15602.95526839656
     trades 1
   ]
   node [
     id 492
     label "0xca503b3e7788855ef88185390ba9ef4ee54b6b48"
     eth_value 10.62019813066596
-    usd_value 22576.629590132306
+    usd_value 22576.629590132314
     trades 2
   ]
   node [
@@ -3491,7 +3491,7 @@ graph [
     id 498
     label "0xb7370ca90cf00c0f85e7158bb9e1f61d6935d294"
     eth_value 0.0812657742809178
-    usd_value 186.93403526290965
+    usd_value 186.93403526290962
     trades 16
   ]
   node [
@@ -3512,70 +3512,70 @@ graph [
     id 501
     label "0x43bc512692b03ed5342970e5f92455cd2c9f6c9f"
     eth_value 1.1276197464975692
-    usd_value 2283.1480817209535
+    usd_value 2283.148081720955
     trades 1
   ]
   node [
     id 502
     label "0xcd218bdb41399effe38c5f21ad628599cec89197"
     eth_value 0.9127736445719772
-    usd_value 1848.1384368471108
+    usd_value 1848.1384368471122
     trades 1
   ]
   node [
     id 503
     label "0xd40bacb7e2af253a5c4b1b851519b3a1e26cfcf7"
     eth_value 0.6555
-    usd_value 1393.4750099999997
+    usd_value 1393.47501
     trades 3
   ]
   node [
     id 504
     label "0x46ecb3f576c31290e1a4b359fd993e36e86ef9e1"
     eth_value 6.365966514598492
-    usd_value 12889.490700433296
+    usd_value 12889.490700433307
     trades 2
   ]
   node [
     id 505
     label "0x9b3a4a406e726bb3e6d9237dbda2923e27e4b3fd"
     eth_value 0.009898879399151
-    usd_value 20.042756063430986
+    usd_value 20.042756063431003
     trades 1
   ]
   node [
     id 506
     label "0x89f42ccb1b90103a4b886cc8ee01979492808079"
     eth_value 0.1765636566387448
-    usd_value 375.3425525557764
+    usd_value 375.3425525557765
     trades 3
   ]
   node [
     id 507
     label "0x2e0d63ffcb08ea20ff3acdbb72dfec97343885d2"
     eth_value 1.672430289643544
-    usd_value 3386.2532289557657
+    usd_value 3386.253228955768
     trades 1
   ]
   node [
     id 508
     label "0x4af2fbcbfe4415d4ee027f73f984f5b8221649c7"
     eth_value 1.303731843623665
-    usd_value 2639.7310503770154
+    usd_value 2639.7310503770177
     trades 8
   ]
   node [
     id 509
     label "0x193bc15e9bedb2cd24d7a95c9860788257525296"
     eth_value 0.4105197390413887
-    usd_value 831.1998416240518
+    usd_value 831.1998416240525
     trades 1
   ]
   node [
     id 510
     label "0xd600ee8c118b0617cac8b0c297eaa54631857fb1"
     eth_value 0.023814934840579
-    usd_value 54.78101831508708
+    usd_value 54.781018315087074
     trades 22
   ]
   node [
@@ -3589,7 +3589,7 @@ graph [
     id 512
     label "0x9c8e3cc87b8ae54acf6acf86b9be62adee2ed655"
     eth_value 0.2399754646806022
-    usd_value 485.8903221120493
+    usd_value 485.8903221120497
     trades 1
   ]
   node [
@@ -3603,98 +3603,98 @@ graph [
     id 514
     label "0x78e5110039a7a72e817598273f29661fb856fe6d"
     eth_value 0.1111017759731241
-    usd_value 255.56519323545797
+    usd_value 255.5651932354579
     trades 7
   ]
   node [
     id 515
     label "0x912fa56659a7ba7bf53d6765e76c4f0d54585bbf"
     eth_value 0.6879823099053765
-    usd_value 1462.526554043047
+    usd_value 1462.5265540430476
     trades 2
   ]
   node [
     id 516
     label "0xb1b3a295381c93147157577bfb2f93367ec02218"
     eth_value 0.1019527331187443
-    usd_value 223.51913303487254
+    usd_value 223.51913303487262
     trades 3
   ]
   node [
     id 517
     label "0xc24f574d6853f6f6a31c19d468a8c1b3f31c0e54"
     eth_value 6.072799423616493
-    usd_value 12909.678470712412
+    usd_value 12909.678470712413
     trades 5
   ]
   node [
     id 518
     label "0x2e2a5f6bae8de7606d9174f6a4b0acca62a33baf"
     eth_value 0.2712413397848617
-    usd_value 604.5182863919192
+    usd_value 604.5182863919191
     trades 2
   ]
   node [
     id 519
     label "0xdeb18626f55192398945e89fd4f24eeaeb9282bf"
     eth_value 3.6402665785135033
-    usd_value 8113.098526198832
+    usd_value 8113.09852619883
     trades 4
   ]
   node [
     id 520
     label "0x967578903582a198da53afde69802901d8ca4ca5"
     eth_value 0.227060889
-    usd_value 482.6905790539799
+    usd_value 482.69057905398
     trades 2
   ]
   node [
     id 521
     label "0x51c25230335472236853676290062c8c7a0825b6"
     eth_value 0.2696177004587671
-    usd_value 573.1586999892562
+    usd_value 573.1586999892563
     trades 2
   ]
   node [
     id 522
     label "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e"
     eth_value 2.698986325166435
-    usd_value 5737.5591097653105
+    usd_value 5737.559109765311
     trades 1
   ]
   node [
     id 523
     label "0xeed7e1c7c9c68611584e8f6230178ce0a48eef7f"
     eth_value 8.731660223248593
-    usd_value 18561.93793578632
+    usd_value 18561.937935786325
     trades 1
   ]
   node [
     id 524
     label "0x955807f8cb79c3a0f4f1e20a8eb336c51d37e5ca"
     eth_value 1.120435721610102
-    usd_value 2381.8446657131867
+    usd_value 2381.844665713187
     trades 1
   ]
   node [
     id 525
     label "0xe586602f4841e21d4ce49c9a4d761e213f611f4c"
     eth_value 15.4279451598
-    usd_value 32797.03437960603
+    usd_value 32797.03437960604
     trades 1
   ]
   node [
     id 526
     label "0xaff40ea52fdcc8fa43f43cb15ef6ce580f9c0db4"
     eth_value 0.2482357101730901
-    usd_value 527.7044374001583
+    usd_value 527.7044374001584
     trades 1
   ]
   node [
     id 527
     label "0x44e9d011df8741be2493e99297e9ad67bb1aa85b"
     eth_value 7.928804953707565
-    usd_value 17382.953404409385
+    usd_value 17382.953404409393
     trades 2
   ]
   node [
@@ -3708,35 +3708,35 @@ graph [
     id 529
     label "0xb60ffa12b89421b04fad364ec899fec2cdf271f8"
     eth_value 1.0442386819909348
-    usd_value 2219.863474949969
+    usd_value 2219.8634749499693
     trades 1
   ]
   node [
     id 530
     label "0xeb09a1a4d49046fe48b981d111553d5a2b26f074"
     eth_value 21.76781571057929
-    usd_value 46274.45799386366
+    usd_value 46274.45799386367
     trades 1
   ]
   node [
     id 531
     label "0x8249b4417d752cda7022554b111a2f7c3323da06"
     eth_value 2.6524948598343054
-    usd_value 5638.7266229329625
+    usd_value 5638.726622932963
     trades 16
   ]
   node [
     id 532
     label "0xc822993279a7618dc8399c22c23037da6c8f3023"
     eth_value 1.9235604513628917
-    usd_value 4089.1432787162616
+    usd_value 4089.1432787162626
     trades 1
   ]
   node [
     id 533
     label "0xa41a4b84d74e085bd463386d55c3b6dde6aa2759"
     eth_value 0.5963619991966888
-    usd_value 1267.7582651323048
+    usd_value 1267.758265132305
     trades 1
   ]
   node [
@@ -3750,21 +3750,21 @@ graph [
     id 535
     label "0xae9e6e806838effb20f1ba5c36f5e79f4d501062"
     eth_value 0.6663420804401585
-    usd_value 1532.7733607948883
+    usd_value 1532.773360794888
     trades 3
   ]
   node [
     id 536
     label "0x2649c4628da55e874c85fa0bcb189777cd41b8ad"
     eth_value 4.135307477697828
-    usd_value 8790.919342239595
+    usd_value 8790.919342239598
     trades 1
   ]
   node [
     id 537
     label "0x4e16227ccf35aef1736e079292d94a0f625e3df8"
     eth_value 36.44499280711741
-    usd_value 77475.49460922631
+    usd_value 77475.49460922634
     trades 1
   ]
   node [
@@ -3778,35 +3778,35 @@ graph [
     id 539
     label "0x52065b858ec5928246bdeecf82aeb0231d335291"
     eth_value 5.415432776907745
-    usd_value 11512.235305806022
+    usd_value 11512.235305806023
     trades 1
   ]
   node [
     id 540
     label "0xa96b2db08e3a09adab79b15338599e58f9b69fa0"
     eth_value 0.03452896
-    usd_value 73.40235374719998
+    usd_value 73.4023537472
     trades 1
   ]
   node [
     id 541
     label "0xc038353e954ed66070ab780775053bf6734eba02"
     eth_value 0.0253941152137136
-    usd_value 53.98331800361664
+    usd_value 53.98331800361665
     trades 1
   ]
   node [
     id 542
     label "0x4ce15b37851a4448a28899062906a02e51dee267"
     eth_value 4.293927636573579
-    usd_value 9413.921071871178
+    usd_value 9413.921071871184
     trades 5
   ]
   node [
     id 543
     label "0x18ad111b2584b55093b5b4cbce9374c3a0e8cfed"
     eth_value 0.2873756123089857
-    usd_value 610.9088241586878
+    usd_value 610.9088241586879
     trades 1
   ]
   node [
@@ -3834,7 +3834,7 @@ graph [
     id 547
     label "0xc310e760778ecbca4c65b6c559874757a4c4ece0"
     eth_value 0.01
-    usd_value 23.002800000000008
+    usd_value 23.002800000000004
     trades 12
   ]
   node [
@@ -3848,14 +3848,14 @@ graph [
     id 549
     label "0x851fe70498e1792739e429b466e3a12cf6e50de6"
     eth_value 0.5772923386861252
-    usd_value 1265.6441774886866
+    usd_value 1265.644177488687
     trades 2
   ]
   node [
     id 550
     label "0x74ce86151b6f74ad434df22d98f714400a387d07"
     eth_value 3.2181184306581097
-    usd_value 7055.338485006224
+    usd_value 7055.338485006227
     trades 2
   ]
   node [
@@ -3890,7 +3890,7 @@ graph [
     id 555
     label "0xd69e63c3223f881a411a9264f8ab6adbf6b3b48e"
     eth_value 4.596543156049173
-    usd_value 10575.542631711696
+    usd_value 10575.542631711778
     trades 25
   ]
   node [
@@ -3918,35 +3918,35 @@ graph [
     id 559
     label "0x36e4ee343c50e0e8dfeaed096d5fa6f146b20b5e"
     eth_value 0.3342792650540271
-    usd_value 732.8671751191476
+    usd_value 732.867175119148
     trades 1
   ]
   node [
     id 560
     label "0x73e4a2b60cf48e8baf2b777e175a5b1e4d0c2d8f"
     eth_value 5.187886697248338
-    usd_value 11373.819037313307
+    usd_value 11373.819037313311
     trades 2
   ]
   node [
     id 561
     label "0xa700f64446483e34b7fd07bb27986be0b6a1ca99"
     eth_value 0.095086243588688
-    usd_value 208.46517871896773
+    usd_value 208.46517871896782
     trades 1
   ]
   node [
     id 562
     label "0x81f23a682c552e458a86973587f4c7754d11c842"
     eth_value 1.028903014857314
-    usd_value 2255.746391712877
+    usd_value 2255.746391712878
     trades 1
   ]
   node [
     id 563
     label "0x89229af0a0a800241c1a33f70809c156a58d19dd"
     eth_value 0.3432667195240696
-    usd_value 752.5710905501795
+    usd_value 752.5710905501797
     trades 1
   ]
   node [
@@ -3960,133 +3960,133 @@ graph [
     id 565
     label "0xf464d1a37d8ef9449722f44a4eeb715c0e0acdb3"
     eth_value 2.1673856252222894
-    usd_value 4751.732897024841
+    usd_value 4751.732897024843
     trades 1
   ]
   node [
     id 566
     label "0xb819bf611d4051959bfffb75b8f81e19127c3660"
     eth_value 0.7505505679127806
-    usd_value 1645.4920540806213
+    usd_value 1645.492054080622
     trades 2
   ]
   node [
     id 567
     label "0xc0df18d3c0dff4580a96c1a2f046c9dcca7aa704"
     eth_value 0.3868859551945826
-    usd_value 848.2010304494986
+    usd_value 848.201030449499
     trades 1
   ]
   node [
     id 568
     label "0x7cace9760b08263adf1fe7f26030b541713f408d"
     eth_value 3.7727101534179552
-    usd_value 8408.276846024133
+    usd_value 8408.276846024131
     trades 1
   ]
   node [
     id 569
     label "0x564bca365d62bcc22db53d032f8dbd35439c9206"
     eth_value 16.72506825150087
-    usd_value 37275.32686280251
+    usd_value 37275.3268628025
     trades 1
   ]
   node [
     id 570
     label "0x86dffe4a9e11405df28a3d7665003d4325c479d1"
     eth_value 0.0557790785268949
-    usd_value 124.31539010367595
+    usd_value 124.31539010367594
     trades 1
   ]
   node [
     id 571
     label "0xe4f28b2d2e4d380c09fef46d9fefe5834bf49271"
     eth_value 0.6413414997698464
-    usd_value 1429.3642139520548
+    usd_value 1429.3642139520546
     trades 1
   ]
   node [
     id 572
     label "0x1a1a0fa219da646ac7c2bdc7ca00a677f78d280a"
     eth_value 3.9266898751552706
-    usd_value 9032.486186022168
+    usd_value 9032.486186022166
     trades 1
   ]
   node [
     id 573
     label "0x83506d12aca4cdb36e8d03cda7611365142a29bf"
     eth_value 0.256239005184
-    usd_value 589.4214588446517
+    usd_value 589.4214588446516
     trades 1
   ]
   node [
     id 574
     label "0xe58deef4b6c17f614a12298f176db39ec5e2a521"
     eth_value 0.0928649729581865
-    usd_value 213.61543999625732
+    usd_value 213.61543999625727
     trades 7
   ]
   node [
     id 575
     label "0xc262ec695739250fb787479fcb69812ab4130900"
     eth_value 0.2328177285773328
-    usd_value 535.5459646918672
+    usd_value 535.5459646918671
     trades 1
   ]
   node [
     id 576
     label "0xa1fa50f755255cff9f023e8f4355a26484bd4ee2"
     eth_value 0.624280315344109
-    usd_value 1436.0195237797475
+    usd_value 1436.0195237797473
     trades 1
   ]
   node [
     id 577
     label "0x1c0a70f3359faa0476fb33b8b2a808d10a559a44"
     eth_value 0.9822156146755932
-    usd_value 2259.370934125974
+    usd_value 2259.3709341259737
     trades 2
   ]
   node [
     id 578
     label "0x480eab2151a0446c77119ca6c5777ec531bc1814"
     eth_value 0.0903842551577498
-    usd_value 207.95247889674445
+    usd_value 207.95247889674604
     trades 7
   ]
   node [
     id 579
     label "0xf0855e94ab652093dffd3df9ae390a15fa6896a7"
     eth_value 0.1208578006204339
-    usd_value 278.0067816111718
+    usd_value 278.00678161117173
     trades 1
   ]
   node [
     id 580
     label "0x07c25f06c35c0939f196ab6a501301b2157909fc"
     eth_value 9.058989819817953
-    usd_value 20838.213102730846
+    usd_value 20838.213102730842
     trades 1
   ]
   node [
     id 581
     label "0x5c2f72d1ad0ab5bedc1b44c964447a2a6929f6c3"
     eth_value 0.1361074939129401
-    usd_value 313.1506776951361
+    usd_value 313.15067769513854
     trades 1
   ]
   node [
     id 582
     label "0x65a831d9fb2cc87a7956eb8e4720956f6bfc6eea"
     eth_value 0.4071261320956962
-    usd_value 936.6995196804941
+    usd_value 936.6995196805013
     trades 1
   ]
   node [
     id 583
     label "0xfe0e5b8179419d241ce20cc094150ac4e912ea59"
     eth_value 0.0631744606018211
-    usd_value 145.3492719742459
+    usd_value 145.34927197424705
     trades 1
   ]
   edge [
@@ -15391,35 +15391,35 @@ graph [
     source 4
     target 370
     key 0
-    weight 683.0219999999998
+    weight 683.0219999999999
     token_id 1173
   ]
   edge [
     source 4
     target 410
     key 0
-    weight 695.2920000000006
+    weight 695.2919999999999
     token_id 1484
   ]
   edge [
     source 4
     target 340
     key 0
-    weight 3450.420000000001
+    weight 3450.42
     token_id 1344
   ]
   edge [
     source 5
     target 297
     key 0
-    weight 4462.760000000002
+    weight 4462.760000000003
     token_id 244
   ]
   edge [
     source 5
     target 297
     key 1
-    weight 3658.000000000002
+    weight 3658.0000000000023
     token_id 450
   ]
   edge [
@@ -15657,14 +15657,14 @@ graph [
     source 9
     target 342
     key 0
-    weight 850.328
+    weight 850.3280000000001
     token_id 1184
   ]
   edge [
     source 9
     target 152
     key 0
-    weight 17591.160499999998
+    weight 17591.1605
     token_id 320
   ]
   edge [
@@ -15678,35 +15678,35 @@ graph [
     source 11
     target 508
     key 0
-    weight 19235.125
+    weight 19235.125000000015
     token_id 220
   ]
   edge [
     source 15
     target 239
     key 0
-    weight 20827.609999999993
+    weight 20827.61
     token_id 1241
   ]
   edge [
     source 15
     target 239
     key 1
-    weight 20827.609999999993
+    weight 20827.61
     token_id 1409
   ]
   edge [
     source 15
     target 239
     key 2
-    weight 20827.609999999993
+    weight 20827.61
     token_id 1608
   ]
   edge [
     source 15
     target 239
     key 3
-    weight 20827.609999999993
+    weight 20827.61
     token_id 287
   ]
   edge [
@@ -15790,14 +15790,14 @@ graph [
     source 16
     target 363
     key 0
-    weight 584.7228000000006
+    weight 584.7228000000001
     token_id 1422
   ]
   edge [
     source 16
     target 369
     key 0
-    weight 683.0219999999998
+    weight 683.0219999999999
     token_id 1395
   ]
   edge [
@@ -15811,28 +15811,28 @@ graph [
     source 16
     target 146
     key 0
-    weight 622.7402000000003
+    weight 622.7402
     token_id 1623
   ]
   edge [
     source 16
     target 37
     key 0
-    weight 657.027
+    weight 657.0269999999999
     token_id 1405
   ]
   edge [
     source 16
     target 468
     key 0
-    weight 657.027
+    weight 657.0269999999999
     token_id 1596
   ]
   edge [
     source 16
     target 517
     key 0
-    weight 74403.69999999998
+    weight 74403.70000000001
     token_id 266
   ]
   edge [
@@ -15846,7 +15846,7 @@ graph [
     source 17
     target 517
     key 0
-    weight 1700.656
+    weight 1700.6560000000002
     token_id 1188
   ]
   edge [
@@ -15881,7 +15881,7 @@ graph [
     source 20
     target 538
     key 0
-    weight 1488.0739999999996
+    weight 1488.074
     token_id 2255
   ]
   edge [
@@ -16007,7 +16007,7 @@ graph [
     source 21
     target 432
     key 0
-    weight 832.6034000000006
+    weight 832.6034000000001
     token_id 1152
   ]
   edge [
@@ -16042,28 +16042,28 @@ graph [
     source 21
     target 115
     key 0
-    weight 956.6189999999999
+    weight 956.6190000000001
     token_id 1381
   ]
   edge [
     source 21
     target 117
     key 0
-    weight 1466.8157999999996
+    weight 1466.8158
     token_id 2383
   ]
   edge [
     source 21
     target 117
     key 1
-    weight 1466.8157999999996
+    weight 1466.8158
     token_id 1901
   ]
   edge [
     source 21
     target 141
     key 0
-    weight 2104.5617999999995
+    weight 2104.5618
     token_id 1164
   ]
   edge [
@@ -16077,42 +16077,42 @@ graph [
     source 21
     target 510
     key 0
-    weight 11.501400000000004
+    weight 11.501400000000002
     token_id 2582
   ]
   edge [
     source 21
     target 510
     key 1
-    weight 11.501400000000004
+    weight 11.501400000000002
     token_id 2580
   ]
   edge [
     source 21
     target 510
     key 2
-    weight 11.501400000000004
+    weight 11.501400000000002
     token_id 1056
   ]
   edge [
     source 21
     target 510
     key 3
-    weight 11.501400000000004
+    weight 11.501400000000002
     token_id 2384
   ]
   edge [
     source 21
     target 510
     key 4
-    weight 11.501400000000004
+    weight 11.501400000000002
     token_id 2581
   ]
   edge [
     source 21
     target 510
     key 5
-    weight 11.501400000000004
+    weight 11.501400000000002
     token_id 2579
   ]
   edge [
@@ -16245,7 +16245,7 @@ graph [
     source 22
     target 418
     key 0
-    weight 1266.3360000000002
+    weight 1266.336
     token_id 1226
   ]
   edge [
@@ -16287,28 +16287,28 @@ graph [
     source 22
     target 316
     key 0
-    weight 662.0109999999999
+    weight 662.0110000000001
     token_id 1510
   ]
   edge [
     source 22
     target 508
     key 0
-    weight 1417.3249999999998
+    weight 1417.325000000001
     token_id 1633
   ]
   edge [
     source 22
     target 389
     key 0
-    weight 1275.4919999999997
+    weight 1275.492
     token_id 1215
   ]
   edge [
     source 22
     target 524
     key 0
-    weight 850.328
+    weight 850.3280000000001
     token_id 1212
   ]
   edge [
@@ -16364,21 +16364,21 @@ graph [
     source 23
     target 435
     key 0
-    weight 679.119
+    weight 679.1189999999998
     token_id 1349
   ]
   edge [
     source 23
     target 141
     key 0
-    weight 643.1436
+    weight 643.1436000000001
     token_id 2337
   ]
   edge [
     source 23
     target 117
     key 0
-    weight 1275.4919999999997
+    weight 1275.492
     token_id 1793
   ]
   edge [
@@ -16420,42 +16420,42 @@ graph [
     source 24
     target 425
     key 0
-    weight 599.6060000000003
+    weight 599.6060000000001
     token_id 2112
   ]
   edge [
     source 24
     target 57
     key 0
-    weight 599.6060000000003
+    weight 599.6060000000001
     token_id 2303
   ]
   edge [
     source 24
     target 33
     key 0
-    weight 568.6072000000005
+    weight 568.6072000000001
     token_id 1035
   ]
   edge [
     source 24
     target 33
     key 1
-    weight 814.9428
+    weight 814.9427999999998
     token_id 1866
   ]
   edge [
     source 24
     target 436
     key 0
-    weight 6306.1050000000005
+    weight 6306.104999999999
     token_id 780
   ]
   edge [
     source 24
     target 92
     key 0
-    weight 938.6100000000001
+    weight 938.61
     token_id 1034
   ]
   edge [
@@ -16469,7 +16469,7 @@ graph [
     source 24
     target 538
     key 0
-    weight 1594.3649999999998
+    weight 1594.3650000000002
     token_id 1939
   ]
   edge [
@@ -16735,21 +16735,21 @@ graph [
     source 26
     target 250
     key 0
-    weight 3553.795000000003
+    weight 3553.7950000000005
     token_id 1961
   ]
   edge [
     source 26
     target 250
     key 1
-    weight 3553.795000000003
+    weight 3553.7950000000005
     token_id 2000
   ]
   edge [
     source 26
     target 250
     key 2
-    weight 3553.795000000003
+    weight 3553.7950000000005
     token_id 2021
   ]
   edge [
@@ -17043,14 +17043,14 @@ graph [
     source 37
     target 92
     key 0
-    weight 6194.826000000001
+    weight 6194.826
     token_id 718
   ]
   edge [
     source 37
     target 99
     key 0
-    weight 6382.548000000001
+    weight 6382.548
     token_id 125
   ]
   edge [
@@ -17064,7 +17064,7 @@ graph [
     source 37
     target 505
     key 0
-    weight 1214.85
+    weight 1214.8500000000008
     token_id 2270
   ]
   edge [
@@ -17134,14 +17134,14 @@ graph [
     source 39
     target 111
     key 0
-    weight 6836.074740000005
+    weight 6836.07474
     token_id 329
   ]
   edge [
     source 39
     target 520
     key 0
-    weight 1062.9099999999999
+    weight 1062.91
     token_id 1730
   ]
   edge [
@@ -17176,28 +17176,28 @@ graph [
     source 43
     target 535
     key 0
-    weight 1466.8157999999996
+    weight 1466.8158
     token_id 2532
   ]
   edge [
     source 43
     target 563
     key 0
-    weight 2060.837199999999
+    weight 2060.8372
     token_id 2546
   ]
   edge [
     source 44
     target 314
     key 0
-    weight 1573.1067999999998
+    weight 1573.1068
     token_id 2456
   ]
   edge [
     source 45
     target 508
     key 0
-    weight 12087.7575
+    weight 12087.757500000009
     token_id 45
   ]
   edge [
@@ -17351,7 +17351,7 @@ graph [
     source 49
     target 117
     key 0
-    weight 1424.2993999999999
+    weight 1424.2994
     token_id 1461
   ]
   edge [
@@ -17393,7 +17393,7 @@ graph [
     source 54
     target 517
     key 0
-    weight 70152.06
+    weight 70152.06000000001
     token_id 542
   ]
   edge [
@@ -17407,7 +17407,7 @@ graph [
     source 55
     target 560
     key 0
-    weight 1534.6659999999993
+    weight 1534.666
     token_id 2589
   ]
   edge [
@@ -17638,28 +17638,28 @@ graph [
     source 62
     target 213
     key 0
-    weight 13667.0625
+    weight 13667.062500000011
     token_id 978
   ]
   edge [
     source 63
     target 362
     key 0
-    weight 6496.920000000006
+    weight 6496.920000000001
     token_id 782
   ]
   edge [
     source 63
     target 447
     key 0
-    weight 6716.465000000001
+    weight 6716.465000000002
     token_id 180
   ]
   edge [
     source 63
     target 385
     key 0
-    weight 6716.465000000001
+    weight 6716.465000000002
     token_id 809
   ]
   edge [
@@ -17722,7 +17722,7 @@ graph [
     source 65
     target 141
     key 0
-    weight 9880.78
+    weight 9880.780000000008
     token_id 559
   ]
   edge [
@@ -17743,7 +17743,7 @@ graph [
     source 66
     target 448
     key 0
-    weight 6551.497800000001
+    weight 6551.4978
     token_id 17
   ]
   edge [
@@ -17764,21 +17764,21 @@ graph [
     source 68
     target 501
     key 0
-    weight 1113.6125000000002
+    weight 1113.6125000000009
     token_id 1085
   ]
   edge [
     source 68
     target 407
     key 0
-    weight 1147.9427999999998
+    weight 1147.9428000000003
     token_id 2064
   ]
   edge [
     source 69
     target 298
     key 0
-    weight 3658.000000000002
+    weight 3658.0000000000023
     token_id 788
   ]
   edge [
@@ -17953,21 +17953,21 @@ graph [
     source 73
     target 92
     key 0
-    weight 9562.307999999997
+    weight 9562.307999999999
     token_id 502
   ]
   edge [
     source 73
     target 92
     key 1
-    weight 956.2307999999997
+    weight 956.2307999999998
     token_id 1964
   ]
   edge [
     source 73
     target 408
     key 0
-    weight 671.6465000000001
+    weight 671.6465000000002
     token_id 2391
   ]
   edge [
@@ -17981,35 +17981,35 @@ graph [
     source 73
     target 508
     key 0
-    weight 11946.025000000001
+    weight 11946.02500000001
     token_id 176
   ]
   edge [
     source 73
     target 509
     key 0
-    weight 850.395
+    weight 850.3950000000007
     token_id 1492
   ]
   edge [
     source 76
     target 162
     key 0
-    weight 2743.5000000000014
+    weight 2743.500000000002
     token_id 750
   ]
   edge [
     source 76
     target 298
     key 0
-    weight 6492.950000000003
+    weight 6492.9500000000035
     token_id 376
   ]
   edge [
     source 78
     target 357
     key 0
-    weight 5955.510000000006
+    weight 5955.510000000001
     token_id 422
   ]
   edge [
@@ -18093,7 +18093,7 @@ graph [
     source 81
     target 117
     key 0
-    weight 1275.4919999999997
+    weight 1275.492
     token_id 1254
   ]
   edge [
@@ -18128,21 +18128,21 @@ graph [
     source 82
     target 485
     key 0
-    weight 848.5922499999999
+    weight 848.59225
     token_id 2326
   ]
   edge [
     source 82
     target 480
     key 0
-    weight 961.7562499999999
+    weight 961.7562500000007
     token_id 2483
   ]
   edge [
     source 83
     target 315
     key 0
-    weight 6280.356000000006
+    weight 6280.356000000001
     token_id 544
   ]
   edge [
@@ -18170,28 +18170,28 @@ graph [
     source 83
     target 477
     key 0
-    weight 12148.5
+    weight 12148.50000000001
     token_id 880
   ]
   edge [
     source 83
     target 280
     key 0
-    weight 1381.783
+    weight 1381.7830000000001
     token_id 2530
   ]
   edge [
     source 83
     target 517
     key 0
-    weight 31887.299999999996
+    weight 31887.300000000003
     token_id 14
   ]
   edge [
     source 83
     target 517
     key 1
-    weight 1381.783
+    weight 1381.7830000000001
     token_id 2531
   ]
   edge [
@@ -18205,49 +18205,49 @@ graph [
     source 85
     target 213
     key 0
-    weight 3475.1000000000017
+    weight 3475.100000000002
     token_id 365
   ]
   edge [
     source 85
     target 298
     key 0
-    weight 7316.000000000004
+    weight 7316.000000000005
     token_id 147
   ]
   edge [
     source 85
     target 92
     key 0
-    weight 767.5960000000001
+    weight 767.5960000000002
     token_id 1988
   ]
   edge [
     source 85
     target 92
     key 1
-    weight 1594.3649999999998
+    weight 1594.3650000000002
     token_id 2039
   ]
   edge [
     source 85
     target 102
     key 0
-    weight 803.9295
+    weight 803.9295000000001
     token_id 1987
   ]
   edge [
     source 85
     target 529
     key 0
-    weight 1360.5248
+    weight 1360.5248000000001
     token_id 1199
   ]
   edge [
     source 85
     target 49
     key 0
-    weight 1594.3649999999998
+    weight 1594.3650000000002
     token_id 2048
   ]
   edge [
@@ -18303,28 +18303,28 @@ graph [
     source 88
     target 281
     key 0
-    weight 2743.5000000000014
+    weight 2743.500000000002
     token_id 884
   ]
   edge [
     source 88
     target 92
     key 0
-    weight 844.7490000000001
+    weight 844.749
     token_id 1494
   ]
   edge [
     source 88
     target 316
     key 0
-    weight 8503.95
+    weight 8503.950000000006
     token_id 105
   ]
   edge [
     source 88
     target 316
     key 1
-    weight 850.328
+    weight 850.3280000000001
     token_id 2387
   ]
   edge [
@@ -18359,14 +18359,14 @@ graph [
     source 91
     target 507
     key 0
-    weight 1397.0774999999999
+    weight 1397.077500000001
     token_id 1411
   ]
   edge [
     source 91
     target 571
     key 0
-    weight 1537.8099000000002
+    weight 1537.8099
     token_id 2565
   ]
   edge [
@@ -18380,7 +18380,7 @@ graph [
     source 95
     target 24
     key 0
-    weight 20247.5
+    weight 20247.500000000015
     token_id 2
   ]
   edge [
@@ -18457,7 +18457,7 @@ graph [
     source 99
     target 393
     key 0
-    weight 777.3835400000005
+    weight 777.3835399999999
     token_id 1128
   ]
   edge [
@@ -18506,14 +18506,14 @@ graph [
     source 102
     target 363
     key 0
-    weight 649.6920000000006
+    weight 649.6920000000001
     token_id 1870
   ]
   edge [
     source 102
     target 363
     key 1
-    weight 952.3350000000002
+    weight 952.3350000000003
     token_id 1439
   ]
   edge [
@@ -18562,7 +18562,7 @@ graph [
     source 102
     target 393
     key 0
-    weight 645.9634000000003
+    weight 645.9634
     token_id 2218
   ]
   edge [
@@ -18597,42 +18597,42 @@ graph [
     source 102
     target 434
     key 0
-    weight 659.9905000000006
+    weight 659.9905000000001
     token_id 1467
   ]
   edge [
     source 102
     target 49
     key 0
-    weight 873.1530000000001
+    weight 873.1529999999999
     token_id 1872
   ]
   edge [
     source 102
     target 49
     key 1
-    weight 1594.3649999999998
+    weight 1594.3650000000002
     token_id 1896
   ]
   edge [
     source 102
     target 444
     key 0
-    weight 897.3540000000008
+    weight 897.3539999999998
     token_id 1900
   ]
   edge [
     source 102
     target 68
     key 0
-    weight 7884.324000000001
+    weight 7884.3240000000005
     token_id 416
   ]
   edge [
     source 102
     target 448
     key 0
-    weight 909.2249999999999
+    weight 909.2249999999998
     token_id 1899
   ]
   edge [
@@ -18646,21 +18646,21 @@ graph [
     source 102
     target 21
     key 0
-    weight 7637.49
+    weight 7637.489999999999
     token_id 659
   ]
   edge [
     source 102
     target 485
     key 0
-    weight 848.5922499999999
+    weight 848.59225
     token_id 2243
   ]
   edge [
     source 102
     target 488
     key 0
-    weight 848.5922499999999
+    weight 848.59225
     token_id 2476
   ]
   edge [
@@ -18674,14 +18674,14 @@ graph [
     source 102
     target 117
     key 0
-    weight 1594.3649999999998
+    weight 1594.3650000000002
     token_id 1869
   ]
   edge [
     source 102
     target 117
     key 1
-    weight 1594.3649999999998
+    weight 1594.3650000000002
     token_id 1832
   ]
   edge [
@@ -18709,7 +18709,7 @@ graph [
     source 104
     target 363
     key 0
-    weight 649.6920000000006
+    weight 649.6920000000001
     token_id 1942
   ]
   edge [
@@ -18723,7 +18723,7 @@ graph [
     source 104
     target 408
     key 0
-    weight 677.2160000000001
+    weight 677.2160000000002
     token_id 2002
   ]
   edge [
@@ -18737,21 +18737,21 @@ graph [
     source 107
     target 33
     key 0
-    weight 959.4950000000001
+    weight 959.4950000000002
     token_id 2216
   ]
   edge [
     source 107
     target 33
     key 1
-    weight 875.3899
+    weight 875.3899000000001
     token_id 2208
   ]
   edge [
     source 107
     target 488
     key 0
-    weight 875.3899
+    weight 875.3899000000001
     token_id 2215
   ]
   edge [
@@ -18765,35 +18765,35 @@ graph [
     source 107
     target 485
     key 1
-    weight 1316.0875
+    weight 1316.087500000001
     token_id 2506
   ]
   edge [
     source 107
     target 383
     key 0
-    weight 1113.6125000000002
+    weight 1113.6125000000009
     token_id 2214
   ]
   edge [
     source 107
     target 520
     key 0
-    weight 1488.0739999999996
+    weight 1488.074
     token_id 2505
   ]
   edge [
     source 107
     target 539
     key 0
-    weight 1806.9469999999997
+    weight 1806.9470000000001
     token_id 2521
   ]
   edge [
     source 107
     target 540
     key 0
-    weight 2019.5289999999995
+    weight 2019.529
     token_id 2529
   ]
   edge [
@@ -18821,14 +18821,14 @@ graph [
     source 108
     target 99
     key 0
-    weight 10123.75
+    weight 10123.750000000007
     token_id 860
   ]
   edge [
     source 108
     target 141
     key 0
-    weight 10123.75
+    weight 10123.750000000007
     token_id 731
   ]
   edge [
@@ -18849,7 +18849,7 @@ graph [
     source 118
     target 508
     key 0
-    weight 14173.25
+    weight 14173.250000000011
     token_id 184
   ]
   edge [
@@ -18884,7 +18884,7 @@ graph [
     source 121
     target 213
     key 0
-    weight 5482.998000000005
+    weight 5482.998000000001
     token_id 326
   ]
   edge [
@@ -19031,14 +19031,14 @@ graph [
     source 123
     target 502
     key 0
-    weight 809.9000000000001
+    weight 809.9000000000007
     token_id 1426
   ]
   edge [
     source 125
     target 355
     key 0
-    weight 1191.1020000000012
+    weight 1191.1020000000003
     token_id 1414
   ]
   edge [
@@ -19087,14 +19087,14 @@ graph [
     source 127
     target 358
     key 0
-    weight 1191.1020000000012
+    weight 1191.1020000000003
     token_id 2163
   ]
   edge [
     source 127
     target 436
     key 0
-    weight 737.3292
+    weight 737.3291999999999
     token_id 1341
   ]
   edge [
@@ -19122,14 +19122,14 @@ graph [
     source 129
     target 512
     key 0
-    weight 1781.78
+    weight 1781.7800000000013
     token_id 1063
   ]
   edge [
     source 131
     target 92
     key 0
-    weight 5852.9195
+    weight 5852.919500000001
     token_id 434
   ]
   edge [
@@ -19283,7 +19283,7 @@ graph [
     source 141
     target 296
     key 0
-    weight 2743.5000000000014
+    weight 2743.500000000002
     token_id 1289
   ]
   edge [
@@ -19304,7 +19304,7 @@ graph [
     source 141
     target 521
     key 0
-    weight 19132.379999999997
+    weight 19132.38
     token_id 347
   ]
   edge [
@@ -19346,7 +19346,7 @@ graph [
     source 142
     target 560
     key 0
-    weight 1425.0469999999996
+    weight 1425.047
     token_id 2404
   ]
   edge [
@@ -19360,7 +19360,7 @@ graph [
     source 145
     target 294
     key 0
-    weight 3091.0100000000016
+    weight 3091.010000000002
     token_id 670
   ]
   edge [
@@ -19472,7 +19472,7 @@ graph [
     source 152
     target 298
     key 0
-    weight 833.7714000000009
+    weight 833.7714000000002
     token_id 1412
   ]
   edge [
@@ -19486,28 +19486,28 @@ graph [
     source 152
     target 506
     key 0
-    weight 807.87525
+    weight 807.8752500000007
     token_id 1715
   ]
   edge [
     source 152
     target 506
     key 1
-    weight 8301.474999999999
+    weight 8301.475000000006
     token_id 928
   ]
   edge [
     source 152
     target 506
     key 2
-    weight 17591.160499999998
+    weight 17591.1605
     token_id 987
   ]
   edge [
     source 152
     target 33
     key 0
-    weight 2529.7257999999997
+    weight 2529.7258
     token_id 1903
   ]
   edge [
@@ -19528,7 +19528,7 @@ graph [
     source 157
     target 213
     key 0
-    weight 5801.616600000001
+    weight 5801.616599999999
     token_id 362
   ]
   edge [
@@ -19570,14 +19570,14 @@ graph [
     source 162
     target 300
     key 0
-    weight 530.4100000000002
+    weight 530.4100000000003
     token_id 1831
   ]
   edge [
     source 162
     target 429
     key 0
-    weight 588.9146000000004
+    weight 588.9146000000001
     token_id 1983
   ]
   edge [
@@ -19619,7 +19619,7 @@ graph [
     source 170
     target 141
     key 0
-    weight 18222.75
+    weight 18222.750000000015
     token_id 959
   ]
   edge [
@@ -19661,7 +19661,7 @@ graph [
     source 178
     target 360
     key 0
-    weight 649.6920000000006
+    weight 649.6920000000001
     token_id 2083
   ]
   edge [
@@ -19948,7 +19948,7 @@ graph [
     source 199
     target 37
     key 8
-    weight 682.2630201146999
+    weight 682.2630201146997
     token_id 2323
   ]
   edge [
@@ -19990,14 +19990,14 @@ graph [
     source 199
     target 55
     key 4
-    weight 1575.1126893599337
+    weight 1575.1126893599321
     token_id 1329
   ]
   edge [
     source 199
     target 55
     key 5
-    weight 1575.1126893599337
+    weight 1575.1126893599321
     token_id 1583
   ]
   edge [
@@ -20109,14 +20109,14 @@ graph [
     source 199
     target 281
     key 0
-    weight 316.3563535795931
+    weight 316.35635357959313
     token_id 1546
   ]
   edge [
     source 199
     target 305
     key 0
-    weight 342.99440006089856
+    weight 342.9944000608986
     token_id 1491
   ]
   edge [
@@ -20193,7 +20193,7 @@ graph [
     source 199
     target 20
     key 1
-    weight 609.789669606409
+    weight 609.7896696064091
     token_id 1822
   ]
   edge [
@@ -20263,21 +20263,21 @@ graph [
     source 199
     target 416
     key 0
-    weight 574.4949696470678
+    weight 574.4949696470676
     token_id 1917
   ]
   edge [
     source 199
     target 420
     key 0
-    weight 550.2284738297461
+    weight 550.228473829746
     token_id 1502
   ]
   edge [
     source 199
     target 423
     key 0
-    weight 651.4582460734507
+    weight 651.4582460734506
     token_id 2232
   ]
   edge [
@@ -20347,7 +20347,7 @@ graph [
     source 199
     target 503
     key 0
-    weight 790.7198592355431
+    weight 790.7198592355438
     token_id 2074
   ]
   edge [
@@ -20396,49 +20396,49 @@ graph [
     source 199
     target 68
     key 0
-    weight 1277.8979879630638
+    weight 1277.8979879630642
     token_id 1994
   ]
   edge [
     source 199
     target 239
     key 0
-    weight 7158.104782078139
+    weight 7158.1047820781405
     token_id 1147
   ]
   edge [
     source 199
     target 239
     key 1
-    weight 7158.104782078139
+    weight 7158.1047820781405
     token_id 1315
   ]
   edge [
     source 199
     target 239
     key 2
-    weight 7158.104782078139
+    weight 7158.1047820781405
     token_id 1842
   ]
   edge [
     source 199
     target 239
     key 3
-    weight 7158.104782078139
+    weight 7158.1047820781405
     token_id 1891
   ]
   edge [
     source 199
     target 239
     key 4
-    weight 7158.104782078139
+    weight 7158.1047820781405
     token_id 2345
   ]
   edge [
     source 199
     target 342
     key 0
-    weight 1476.107253869161
+    weight 1476.1072538691615
     token_id 1407
   ]
   edge [
@@ -20452,7 +20452,7 @@ graph [
     source 199
     target 115
     key 0
-    weight 1720.7286961284804
+    weight 1720.7286961284808
     token_id 1932
   ]
   edge [
@@ -20466,7 +20466,7 @@ graph [
     source 199
     target 565
     key 0
-    weight 1374.7554933243614
+    weight 1374.755493324362
     token_id 1712
   ]
   edge [
@@ -20599,7 +20599,7 @@ graph [
     source 213
     target 250
     key 3
-    weight 5236.501999999998
+    weight 5236.5019999999995
     token_id 493
   ]
   edge [
@@ -20683,7 +20683,7 @@ graph [
     source 213
     target 20
     key 0
-    weight 2286.250000000001
+    weight 2286.2500000000014
     token_id 1984
   ]
   edge [
@@ -20704,7 +20704,7 @@ graph [
     source 213
     target 193
     key 0
-    weight 893.255
+    weight 893.2550000000001
     token_id 2020
   ]
   edge [
@@ -20725,56 +20725,56 @@ graph [
     source 213
     target 99
     key 0
-    weight 11136.125
+    weight 11136.12500000001
     token_id 425
   ]
   edge [
     source 213
     target 99
     key 1
-    weight 13286.374999999998
+    weight 13286.375000000002
     token_id 603
   ]
   edge [
     source 213
     target 45
     key 0
-    weight 11338.599999999999
+    weight 11338.600000000008
     token_id 716
   ]
   edge [
     source 213
     target 64
     key 0
-    weight 956.6189999999999
+    weight 956.6190000000001
     token_id 2075
   ]
   edge [
     source 213
     target 525
     key 0
-    weight 13817.829999999998
+    weight 13817.830000000002
     token_id 773
   ]
   edge [
     source 213
     target 530
     key 0
-    weight 1466.8157999999996
+    weight 1466.8158
     token_id 2019
   ]
   edge [
     source 213
     target 519
     key 0
-    weight 1488.0739999999996
+    weight 1488.074
     token_id 2077
   ]
   edge [
     source 213
     target 92
     key 0
-    weight 1700.656
+    weight 1700.6560000000002
     token_id 2492
   ]
   edge [
@@ -20788,7 +20788,7 @@ graph [
     source 214
     target 521
     key 0
-    weight 1062.9099999999999
+    weight 1062.91
     token_id 1455
   ]
   edge [
@@ -20837,7 +20837,7 @@ graph [
     source 228
     target 359
     key 0
-    weight 649.6920000000006
+    weight 649.6920000000001
     token_id 1246
   ]
   edge [
@@ -20858,7 +20858,7 @@ graph [
     source 231
     target 61
     key 0
-    weight 638.2548000000002
+    weight 638.2548
     token_id 1456
   ]
   edge [
@@ -20872,7 +20872,7 @@ graph [
     source 232
     target 526
     key 0
-    weight 897.256316859261
+    weight 897.2563168592612
     token_id 1639
   ]
   edge [
@@ -20893,14 +20893,14 @@ graph [
     source 239
     target 276
     key 0
-    weight 6140.768000000001
+    weight 6140.768000000002
     token_id 646
   ]
   edge [
     source 240
     target 538
     key 0
-    weight 1488.0739999999996
+    weight 1488.074
     token_id 1127
   ]
   edge [
@@ -21110,7 +21110,7 @@ graph [
     source 259
     target 99
     key 0
-    weight 365.8000000000002
+    weight 365.80000000000024
     token_id 1858
   ]
   edge [
@@ -21124,7 +21124,7 @@ graph [
     source 259
     target 183
     key 0
-    weight 1191.1020000000012
+    weight 1191.1020000000003
     token_id 1857
   ]
   edge [
@@ -21187,14 +21187,14 @@ graph [
     source 259
     target 427
     key 0
-    weight 5781.915000000004
+    weight 5781.915000000001
     token_id 356
   ]
   edge [
     source 259
     target 436
     key 0
-    weight 727.6275
+    weight 727.6274999999998
     token_id 1865
   ]
   edge [
@@ -21236,7 +21236,7 @@ graph [
     source 259
     target 432
     key 0
-    weight 767.5960000000001
+    weight 767.5960000000002
     token_id 2157
   ]
   edge [
@@ -21257,21 +21257,21 @@ graph [
     source 259
     target 519
     key 0
-    weight 850.328
+    weight 850.3280000000001
     token_id 1856
   ]
   edge [
     source 259
     target 522
     key 0
-    weight 1062.9099999999999
+    weight 1062.91
     token_id 1845
   ]
   edge [
     source 259
     target 68
     key 0
-    weight 850.328
+    weight 850.3280000000001
     token_id 1852
   ]
   edge [
@@ -21369,14 +21369,14 @@ graph [
     source 274
     target 510
     key 0
-    weight 25385.006900000008
+    weight 25385.0069
     token_id 2318
   ]
   edge [
     source 274
     target 510
     key 1
-    weight 25385.006900000008
+    weight 25385.0069
     token_id 607
   ]
   edge [
@@ -21432,7 +21432,7 @@ graph [
     source 286
     target 301
     key 0
-    weight 309.10100000000017
+    weight 309.1010000000002
     token_id 1657
   ]
   edge [
@@ -21691,14 +21691,14 @@ graph [
     source 314
     target 448
     key 0
-    weight 6716.465000000001
+    weight 6716.465000000002
     token_id 87
   ]
   edge [
     source 317
     target 57
     key 0
-    weight 507.6850000000004
+    weight 507.68500000000006
     token_id 1770
   ]
   edge [
@@ -21712,7 +21712,7 @@ graph [
     source 319
     target 408
     key 0
-    weight 1041.6517999999999
+    weight 1041.6518
     token_id 1835
   ]
   edge [
@@ -21740,14 +21740,14 @@ graph [
     source 330
     target 292
     key 0
-    weight 5698.5120000000015
+    weight 5698.512000000001
     token_id 864
   ]
   edge [
     source 330
     target 432
     key 0
-    weight 6182.73
+    weight 6182.729999999999
     token_id 869
   ]
   edge [
@@ -21789,7 +21789,7 @@ graph [
     source 338
     target 24
     key 0
-    weight 1633.1988000000003
+    weight 1633.1988000000001
     token_id 1351
   ]
   edge [
@@ -21845,14 +21845,14 @@ graph [
     source 356
     target 456
     key 0
-    weight 732.1158000000001
+    weight 732.1158
     token_id 1205
   ]
   edge [
     source 365
     target 179
     key 0
-    weight 5455.349999999999
+    weight 5455.3499999999985
     token_id 952
   ]
   edge [
@@ -21950,28 +21950,28 @@ graph [
     source 371
     target 2
     key 0
-    weight 7718.148599999998
+    weight 7718.1485999999995
     token_id 389
   ]
   edge [
     source 372
     target 388
     key 0
-    weight 623.6888000000005
+    weight 623.6888
     token_id 1735
   ]
   edge [
     source 372
     target 411
     key 0
-    weight 571.4010000000001
+    weight 571.4010000000002
     token_id 1890
   ]
   edge [
     source 374
     target 92
     key 0
-    weight 683.0219999999998
+    weight 683.0219999999999
     token_id 1104
   ]
   edge [
@@ -21992,28 +21992,28 @@ graph [
     source 389
     target 482
     key 0
-    weight 727.38
+    weight 727.3799999999999
     token_id 1122
   ]
   edge [
     source 389
     target 508
     key 0
-    weight 1113.6125000000002
+    weight 1113.6125000000009
     token_id 1998
   ]
   edge [
     source 389
     target 330
     key 0
-    weight 809.9000000000001
+    weight 809.9000000000007
     token_id 2467
   ]
   edge [
     source 389
     target 511
     key 0
-    weight 911.1375
+    weight 911.1375000000007
     token_id 2465
   ]
   edge [
@@ -22027,14 +22027,14 @@ graph [
     source 390
     target 481
     key 0
-    weight 1045.97244
+    weight 1045.9724399999998
     token_id 1645
   ]
   edge [
     source 390
     target 141
     key 0
-    weight 637.0694659999999
+    weight 637.069466
     token_id 1634
   ]
   edge [
@@ -22055,7 +22055,7 @@ graph [
     source 409
     target 117
     key 0
-    weight 1594.3649999999998
+    weight 1594.3650000000002
     token_id 2272
   ]
   edge [
@@ -22069,28 +22069,28 @@ graph [
     source 413
     target 424
     key 0
-    weight 590.9568000000002
+    weight 590.9568
     token_id 1762
   ]
   edge [
     source 413
     target 508
     key 0
-    weight 890.89
+    weight 890.8900000000007
     token_id 1048
   ]
   edge [
     source 413
     target 315
     key 0
-    weight 935.3607999999999
+    weight 935.3608
     token_id 2085
   ]
   edge [
     source 417
     target 213
     key 0
-    weight 5716.832
+    weight 5716.832000000001
     token_id 351
   ]
   edge [
@@ -22398,21 +22398,21 @@ graph [
     source 439
     target 20
     key 0
-    weight 1091.07
+    weight 1091.0699999999997
     token_id 1652
   ]
   edge [
     source 445
     target 508
     key 0
-    weight 809.9000000000001
+    weight 809.9000000000007
     token_id 2259
   ]
   edge [
     source 475
     target 117
     key 0
-    weight 1475.744244
+    weight 1475.7442440000002
     token_id 1882
   ]
   edge [
@@ -22426,14 +22426,14 @@ graph [
     source 477
     target 385
     key 0
-    weight 850.328
+    weight 850.3280000000001
     token_id 1328
   ]
   edge [
     source 483
     target 570
     key 0
-    weight 1491.0069900000003
+    weight 1491.00699
     token_id 1843
   ]
   edge [
@@ -22496,7 +22496,7 @@ graph [
     source 492
     target 523
     key 0
-    weight 892.8443999999998
+    weight 892.8444000000001
     token_id 2438
   ]
   edge [
@@ -22531,35 +22531,35 @@ graph [
     source 503
     target 141
     key 0
-    weight 1466.8157999999996
+    weight 1466.8158
     token_id 1776
   ]
   edge [
     source 504
     target 213
     key 0
-    weight 11946.025000000001
+    weight 11946.02500000001
     token_id 407
   ]
   edge [
     source 510
     target 3
     key 0
-    weight 11.143550000000003
+    weight 11.143550000000001
     token_id 911
   ]
   edge [
     source 510
     target 514
     key 0
-    weight 11.501400000000004
+    weight 11.501400000000002
     token_id 370
   ]
   edge [
     source 510
     target 514
     key 1
-    weight 11.501400000000004
+    weight 11.501400000000002
     token_id 593
   ]
   edge [
@@ -22580,7 +22580,7 @@ graph [
     source 519
     target 57
     key 0
-    weight 1515.5228000000004
+    weight 1515.5228000000002
     token_id 2246
   ]
   edge [
@@ -22594,35 +22594,35 @@ graph [
     source 531
     target 532
     key 0
-    weight 1084.1681999999998
+    weight 1084.1682
     token_id 1507
   ]
   edge [
     source 531
     target 533
     key 0
-    weight 1126.6845999999998
+    weight 1126.6846
     token_id 1504
   ]
   edge [
     source 531
     target 239
     key 0
-    weight 1105.4263999999998
+    weight 1105.4264
     token_id 1710
   ]
   edge [
     source 531
     target 117
     key 0
-    weight 1264.8628999999999
+    weight 1264.8629
     token_id 1824
   ]
   edge [
     source 531
     target 537
     key 0
-    weight 1264.8628999999999
+    weight 1264.8629
     token_id 1774
   ]
   edge [
@@ -22636,14 +22636,14 @@ graph [
     source 535
     target 579
     key 0
-    weight 1449.1764000000005
+    weight 1449.1764
     token_id 1663
   ]
   edge [
     source 542
     target 562
     key 0
-    weight 2058.425581999999
+    weight 2058.425582
     token_id 2574
   ]
   edge [
@@ -22664,21 +22664,21 @@ graph [
     source 547
     target 510
     key 0
-    weight 11.143550000000003
+    weight 11.143550000000001
     token_id 593
   ]
   edge [
     source 547
     target 510
     key 1
-    weight 11.143550000000003
+    weight 11.143550000000001
     token_id 370
   ]
   edge [
     source 547
     target 21
     key 0
-    weight 11.501400000000004
+    weight 11.501400000000002
     token_id 499
   ]
   edge [
@@ -22692,7 +22692,7 @@ graph [
     source 550
     target 561
     key 0
-    weight 3178.9509999999987
+    weight 3178.951
     token_id 2254
   ]
   edge [

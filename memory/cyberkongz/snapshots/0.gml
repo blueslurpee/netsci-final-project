@@ -4,8 +4,8 @@ graph [
   node [
     id 0
     label "0x0000000000000000000000000000000000000000"
-    eth_value 0
-    usd_value 0
+    eth_value 0.0
+    usd_value 0.0
     trades 1360
   ]
   node [
