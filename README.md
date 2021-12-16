@@ -13,9 +13,9 @@ We analyse the following ERC-721 token networks for their network properties in 
 - Mekaverse
 - Sneaky Vampire Syndicate
 
-The accompanying submission includes the report, slides, video, as well as the code and the supplmentary materials. This repository is provided as a reference.
-
 ![BAYC Network 2021 JUL 16](https://github.com/blueslurpee/netsci-final-project/blob/master/BAYC_20210716.png?raw=true)
+
+The accompanying submission includes the report, slides, video, as well as the code and the supplmentary materials. This repository is provided as a reference.
 
 # Setup
 
