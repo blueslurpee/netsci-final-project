@@ -1,7 +1,7 @@
 # MINF4573 Network Science Final Project - Herbstsemester 2021
 ### Corey Bothwell, Maria Helena Margareta Pelli, Pascal Liniger
 
-We analyse the following ERC-721 token networks for their network properties in order to investigate the interplay their interplay and relationship to price movements.
+We analyse the following ERC-721 token networks for their network properties in order to investigate their interplay and relationship to price movements.
 
 - Bored Ape Yacht Club
 - Coolcats
