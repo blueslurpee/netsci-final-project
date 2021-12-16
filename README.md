@@ -1,5 +1,4 @@
-# MINF4573 Network Science - Herbstsemester 2021
-# Final Project
+# MINF4573 Network Science Final Project - Herbstsemester 2021
 ### Corey Bothwell, Maria Helena Margareta Pelli, Pascal Liniger
 
 We analyse the following ERC-721 token networks for their network properties in order to investigate the interplay their interplay and relationship to price movements.
@@ -36,11 +35,13 @@ The repository has the following structure:
 ```
 
 The `data` directory contains the raw data pulled from Etherscan.io and the Ethereum blockchain, as well as the accompanying scripts to generate the data.
-The raw data was loosely modeled off the following work [Networks of Ethereum Non-Fungible Tokens: A graph-based analysis of the ERC-721 ecosystem](https://arxiv.org/abs/2110.12545) The `eda` directory contains some additional data analysis performed by the team.
-The `memory` directory stores persistent representations of the dataframes and graph objects used in the analysis. They are generated from the raw data and saved in order to allow the analysis to be quickly repeated.
-The `output` directory stores images of our chart output.
+The raw data was loosely modeled off the following work [Networks of Ethereum Non-Fungible Tokens: A graph-based analysis of the ERC-721 ecosystem](https://arxiv.org/abs/2110.12545)
+We recommend most users interested in the raw data to simply use the provided csv files present at `./data/collated`.
 
-These directories can all be safely ignored.
+The `eda` directory contains some additional data analysis performed by the team.
+
+The `memory` directory stores persistent representations of the dataframes and graph objects used in the analysis. They are generated from the raw data and saved in order to allow the analysis to be quickly repeated.
+The `output` directory stores images of our chart output. These directories can be mostly ignored.
 
 # The Main Files
 
