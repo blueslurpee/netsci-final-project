@@ -31,6 +31,7 @@ The repository has the following structure:
 |-- 1_ingest.ipynb
 |-- 2_analysis.ipynb
 |-- 3_TBD.ipynb
+|-- BAYC_20210716.png
 |-- README.md (This file)
 ```
 
