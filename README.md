@@ -46,7 +46,7 @@ The `output` directory stores images of our chart output. These directories can 
 
 # The Main Files
 
-We recommend most readers simply re-run `2_analysis.ipynb` which provides reproducible and consistent results. If readers want to re-generate the dataframes or graph objects, see `1_ingest.ipynb`.
+We recommend most readers simply re-run `2_analysis.ipynb` which provides reproducible results and runs "out of the box" assuming all python dependencies are installed. If readers want to re-generate the dataframes or graph objects, see `1_ingest.ipynb`.
 
 ### `1_ingest.ipynb`
 
